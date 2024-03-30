@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+     <img src="/assets/logo-upc.png"></img><br>
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Aplicaciones Web - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
@@ -211,7 +211,7 @@ FarmLogiTech es una plataforma fundada el 22 de marzo de 2024 por un equipo de c
 <table align="center" border="1" width="70%" style="text-align:center;">
 <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-Mathias.jpg">
+<img src="/assets/integrante-Mathias.jpg"></img>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -236,7 +236,7 @@ Mathias Tsuneo Kunimoto Watanabe
     <tr>
 <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-rodrigo.jpg">
+<img src="/assets/integrante-rodrigo.jpg"></img>
         </td>
       <td align="left">
             <b>Nombre y Apellido:</b>
@@ -260,7 +260,7 @@ Rodrigo Alejandro Aguilar Castillo
     </tr>
      <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-Fernando.jpg">
+<img src="/assets/integrante-Fernando.jpg"></img>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -284,7 +284,7 @@ Fernando Brian Salgado Luna
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-jean.jpg">
+<img src="/assets/integrante-jean.jpg"></img>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -308,7 +308,7 @@ Jean Franco Joel Barrionuevo Reto
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-giacomo.jpg">
+<img src="/assets/integrante-giacomo.jpg"></img>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -391,7 +391,7 @@ El costo de implementar estas soluciones tecnológicas puede variar dependiendo 
 #### 1.2.2.4. Lean UX Canvas
 
 <div align=center>
-    <img src="/assets/canva.png" alt="Canvas"/>
+    <img src="/assets/canva.png" alt="Canvas"/></img>
 </div>
 
 ## 1.3. Segmentos Objetivo
