@@ -31,7 +31,7 @@
             <td>U202219284</td>
         </tr>
         <tr>
-            <td>Salgado Lunau, Fernando Brian</td>
+            <td>Salgado Luna, Fernando Brian</td>
             <td>U202212023</td>
         </tr>
         <tr>
