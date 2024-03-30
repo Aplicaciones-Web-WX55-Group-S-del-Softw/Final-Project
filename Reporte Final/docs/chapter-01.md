@@ -15,9 +15,8 @@
     <strong>Startup: Hay que ponerle name </strong><br>
     <strong>Producto:  Hay que ponerle name </strong>
 </p>
-
-<div style="text-align:center">
-    <h3>Team Members:</h3>
+<h3>Team Members:</h3>
+<div>
     <table align="center">
         <tr>
             <th style="text-align:center;">Member</th>
@@ -56,7 +55,7 @@
 <br><br>
 
 # Project Report Collaboration Insights
-<br><br>
+
 
 # Contenido
 ## Tabla de Contenidos
@@ -206,51 +205,209 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
-colocar infor Mathi
+FarmLogiTech es una plataforma fundada el 22 de marzo de 2024 por un equipo de cinco estudiantes. El propósito es brindar soluciones completas para la administración agrícola, promoviendo la cooperación entre corporaciones, propietarios de granjas y trabajadores del campo.
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center" border="1" width="70%" style="text-align:center;">
+<tr align="center">
+        <td rowspan="3">
+<img src="/assets/integrante-Mathias.jpg">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Mathias Tsuneo Kunimoto Watanabe
+</td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+       Soy Mathias Kunimoto, estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. El camino que quiero llegar, es en convertirme en un desarrollador full stack pero mas orientado en el frontend.
+        </td>
+    </tr>
+    <tr>
+<tr align="center">
+        <td rowspan="3">
+<img src="/assets/integrante-rodrigo.jpg">
+        </td>
+      <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Rodrigo Alejandro Aguilar Castillo
+</td>
+    </tr>
+     <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+   <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+       quien eres , q pasa contigo
+        </td>
+    </tr>
+     <tr align="center">
+        <td rowspan="3">
+<img src="/assets/integrante-Fernando.jpg">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Fernando Brian Salgado Luna
+</td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+       Mi nombre es Fernando Salgado, actualmente me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. Soy bueno colaborando de manera armoniosa y productiva con otros miembros del equipo, aportando ideas y contribuyendo al logro de objetivos comunes.
+        </td>
+    </tr>
     <tr align="center">
         <td rowspan="3">
-            imagen colocarlo en la carpeta
+<img src="/assets/integrante-jean.jpg">
         </td>
         <td align="left">
-            <b>Nombre y Apellido:</b><br>            
-            quien sos
+            <b>Nombre y Apellido:</b>
+            <br>            
+Jean Franco Joel Barrionuevo Reto
+</td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
         </td>
     </tr>
     <tr>
         <td align="left">
-            <b>Carrera:</b><br>
-            Ing. de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-            <b>Acerca de:</b><br>
-            quien eres, qué pasa contigo
+        <b>Acerca de:</b>
+        <br>
+       Mi nombre es Jean Franco Barrionuevo, me encuentro en el 5to ciclo de Ingeniería de Software. Decidí estudiar esta carrera porque siempre me ha apasionado el mundo de la tecnología y software en particular.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-            imagen colocarlo en la carpeta
+<img src="/assets/integrante-giacomo.jpg">
         </td>
         <td align="left">
-            <b>Nombre y Apellido:</b><br>            
-            quien sos
+            <b>Nombre y Apellido:</b>
+            <br>            
+Giacomo Zoppi Rodríguez
+</td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
         </td>
     </tr>
     <tr>
         <td align="left">
-            <b>Carrera:</b><br>
-            Ing. de Software
+        <b>Acerca de:</b>
+        <br>
+       Mi nombre es Giacomo Zoppi, me encuentro en el quinto ciclo de Ingeniería de Software. Me destaco en el trabajo en equipo, la elaboración de ideas y el análisis de datos.
         </td>
     </tr>
-    <tr>
-        <td align="left">
-            <b>Acerca de:</b><br>
-            quien eres, qué pasa contigo
-        </td>
-    </tr>
-    <!-- Repite las mismas filas para cada persona -->
 </table>
+
+### 1.2.1. Antecedentes y problemática
+La industria agrícola está experimentando un cambio debido al crecimiento de la población mundial y los cambios en las demandas del mercado. Los agricultores enfrentan una mayor presión para incrementar la producción y mejorar la calidad de los cultivos. Sin embargo, muchos se encuentran con obstáculos como la carencia de herramientas tecnológicas adecuadas, la falta de coordinación entre equipos y la escasez de información en tiempo real sobre el estado de los cultivos y las condiciones climáticas. 
+
+Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
+
+
+- **What?**
+
+La industria agrícola se enfrenta a desafíos considerables en la gestión eficaz de las granjas debido a la falta de herramientas tecnológicas adecuadas y la presión para aumentar la producción y calidad de los cultivos.
+
+- **When?**
+
+Estos desafíos han ido en aumento en los últimos años, particularmente con el crecimiento de la población y los cambios en las demandas del mercado agrícola.
+
+- **Who?**
+
+Los agricultores, tanto pequeños como grandes, están directamente involucrados en estas dificultades, ya que son responsables de la producción agrícola y deben enfrentar las demandas del mercado.
+
+- **How?**
+
+Para superar estos desafíos, se requieren soluciones tecnológicas innovadoras que asistan a los agricultores en la optimización de sus operaciones y el mejoramiento de la calidad de los cultivos. Esto puede lograrse mediante el desarrollo de herramientas integradas de gestión agrícola, la implementación de sensores y la aplicación de técnicas de análisis de datos.
+
+- **How much?**
+
+El costo de implementar estas soluciones tecnológicas puede variar dependiendo del tamaño de la granja y los recursos disponibles para adoptar tecnología agrícola.
+
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+
+- La  administración de las tareas agrícolas y la  colaboración entre grandes empresas y propietarios de granjas representan desafíos fundamentales en la industria agrícola. Además la gestión diaria de las operaciones en las granjas es esencial para aumentar la productividad y eficiencia de los trabajadores. Por otro lado, mejorar la colaboración entre empresas y propietarios de granjas es vital para facilitar asociaciones provechosas que impulsen el crecimiento y la rentabilidad en toda la cadena de suministro agrícola.
+
+#### 1.2.2.2. Lean UX Assumptions
+
+**Business Outcomes:**
+- Mejora en la productividad y eficiencia de las actividades agrícolas.
+- Facilitación de la colaboración entre empresas grandes y propietarios de granjas.
+- Aumento en la rentabilidad y calidad de los productos agrícolas.
+
+**Users:**
+-  Empresas: En búsqueda de mejorar su cadena de suministro y adquirir productos agrícolas de alta calidad.
+- Dueños de Granjas: Buscan mejorar la gestión de sus operaciones y aumentar su rentabilidad.
+- Trabajadores de Granjas: Requieren herramientas para simplificar las tareas diarias y mejorar su eficiencia.
+
+**User Outcomes:**
+- Empresas Grandes: Obtienen acceso a productos agrícolas y mejoran la eficiencia de su cadena de suministro.
+- Dueños de Granjas: Experimentan una mayor eficiencia en la gestión de operaciones agrícolas y un aumento en la rentabilidad.
+- Trabajadores de Granjas: Realizan  mayor facilidad para realizar sus tareas diarias y ven mejoras en su eficiencia laboral.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que al implementar un sistema de seguimiento y análisis de datos agrícolas, podemos mejorar la toma de decisiones y la eficiencia en las operaciones agrícolas.
+- Creemos que al incorporar funcionalidades de pronóstico meteorológico en la plataforma, podemos prevenir a los agricultores a tomar medidas preventivas contra eventos climáticos adversos.
+- Creemos que al proporcionar una interfaz intuitiva y sencilla de usar en la plataforma, podemos incrementar la audiencia por parte de los usuarios, lo que derivará en una mayor satisfacción del cliente y una mayor retención.
+- Creemos que al ofrecer herramientas de análisis de desempeño de cultivos en tiempo real, podemos suministrar a los agricultores información detallada sobre el rendimiento de sus cultivos y áreas de mejora, lo que resultará en una optimización de los procesos de producción agrícola.
+- Creemos que al integrar características de planificación de cultivos y rotación de cultivos en la plataforma, podemos asistir a los agricultores a maximizar el rendimiento de sus tierras y mejorar la sostenibilidad a largo plazo de sus operaciones.
+
+#### 1.2.2.4. Lean UX Canvas
+
+<div align=center>
+    <img src="/assets/canva.png" alt="Canvas"/>
+</div>
+
+## 1.3. Segmentos Objetivo
+
+
+**Dueños de Granjas y Agricultores Independientes:**
+- Granjeros propietarios de distintos tamaños y tipos de granjas.
+- Buscan soluciones tecnológicas para optimizar la gestión de sus operaciones agrícolas.
+- Interesados en mejorar la eficiencia, productividad y rentabilidad de sus cultivos.
+
+**Trabajadores Agrícolas:**
+- Trabajadores encargados de labores diarias en las granjas, como siembra, riego, cosecha y cuidado del ganado.
+- Requieren herramientas prácticas y de fácil uso para llevar a cabo sus tareas de manera eficiente y colaborativa.
+- Buscan mejorar su productividad y contribuir al éxito general de la granja.
+
+**Empresas y Corporaciones del Sector Agrícola:**
+- Compañías agrícolas, procesadores de alimentos y distribuidores.
+- Buscan establecer alianzas con granjas para mejorar la cadena de suministro y adquirir productos agrícolas de alta calidad.
+- Interesados en soluciones tecnológicas que les permitan monitorear y mejorar la calidad, así como garantizar la disponibilidad de los productos agrícolas que emplean en sus actividades operativas.
