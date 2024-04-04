@@ -332,6 +332,8 @@ Giacomo Zoppi Rodríguez
     </tr>
 </table>
 
+## 1.2. Solution Profile
+
 ### 1.2.1. Antecedentes y problemática
 La industria agrícola está experimentando un cambio debido al crecimiento de la población mundial y los cambios en las demandas del mercado. Los agricultores enfrentan una mayor presión para incrementar la producción y mejorar la calidad de los cultivos. Sin embargo, muchos se encuentran con obstáculos como la carencia de herramientas tecnológicas adecuadas, la falta de coordinación entre equipos y la escasez de información en tiempo real sobre el estado de los cultivos y las condiciones climáticas.
 
@@ -398,16 +400,16 @@ El costo de implementar estas soluciones tecnológicas puede variar dependiendo 
 
 
 **Dueños de Granjas y Agricultores Independientes:**
-- Granjeros propietarios de distintos tamaños y tipos de granjas.
-- Buscan soluciones tecnológicas para optimizar la gestión de sus operaciones agrícolas.
-- Interesados en mejorar la eficiencia, productividad y rentabilidad de sus cultivos.
+-  Propietarios de granjas de diferentes tipos, ya sea ganado o cultivos.
+- Buscan herramientas tecnológicas para optimizar la gestión de sus operaciones agrícolas o ganaderas.
+- Interesados en mejorar la eficiencia, productividad y rentabilidad de sus cultivos y ganado.
 
-**Trabajadores Agrícolas:**
+**Trabajadores de granja:**
 - Trabajadores encargados de labores diarias en las granjas, como siembra, riego, cosecha y cuidado del ganado.
 - Requieren herramientas prácticas y de fácil uso para llevar a cabo sus tareas de manera eficiente y colaborativa.
 - Buscan mejorar su productividad y contribuir al éxito general de la granja.
 
-**Empresas y Corporaciones del Sector Agrícola:**
+**Empresas y Corporaciones del Sector Agrícola y Ganadera:**
 - Compañías agrícolas, procesadores de alimentos y distribuidores.
-- Buscan establecer alianzas con granjas para mejorar la cadena de suministro y adquirir productos agrícolas de alta calidad.
-- Interesados en soluciones tecnológicas que les permitan monitorear y mejorar la calidad, así como garantizar la disponibilidad de los productos agrícolas que emplean en sus actividades operativas.
+- Buscan establecer asociaciones estratégicas con granjas para mejorar la cadena de suministro y obtener productos  de alta calidad.
+- Interesados en alquilar o comprar granjas.
