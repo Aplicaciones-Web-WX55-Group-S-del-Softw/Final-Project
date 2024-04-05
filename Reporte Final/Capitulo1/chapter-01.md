@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-    <strong>Startup: Hay que ponerle name </strong><br>
-    <strong>Producto:  Hay que ponerle name </strong>
+    <strong>Startup: FarmLogiTech </strong><br>
+    <strong>Producto:  FarmLogiTech </strong>
 </p>
 <h3>Team Members:</h3>
 <div>
