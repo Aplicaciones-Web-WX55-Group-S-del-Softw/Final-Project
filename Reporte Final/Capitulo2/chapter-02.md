@@ -179,12 +179,34 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 
 //Foto de Rodrigo
 
-
-
 #### Evidencia de la reunión:
 
 Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
 
+
+**Entrevista 02**
+
+**Nombres:** Ana Lucero
+
+**Apellidos:** Barrionuevo Reto
+
+**Edad:** 22 años
+
+**Distrito:** Pueblo Libre
+
+**Evidencia de la reunión:**
+
+//Foto 
+
+**Duracion:** 3:58
+
+**Enlace de entrevista:**
+
+**Resumen de la entrevista:**
+
+Lucero Barrionuevo, una profesional de 22 años residente en Lima, Perú, se desempeña como administradora en una empresa agroindustrial especializada en la distribución de productos ganaderos y derivados de carne. Durante la entrevista, compartió información sobre las operaciones y los criterios al seleccionar proveedores.
+También, destacó desafíos como garantizar la calidad y frescura de los productos, así como la importancia de la comunicación directa con las granjas proveedoras. Además, discutió las características esperadas en una plataforma para conectar con proveedores y los beneficios de utilizarla en lugar de métodos tradicionales.
+Finalmente, mencionó las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores, y los incentivos que podrían motivar a utilizar un sitio web como FarmLogitech para su empresa.
 
 
   
