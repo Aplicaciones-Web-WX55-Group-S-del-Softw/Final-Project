@@ -155,35 +155,39 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
 - ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
 - ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
+#### Segmento objetivo: Trabajador
+- ¿Qué tipo de tareas realizas habitualmente en la granja?
+- ¿Qué herramientas o recursos necesitas para llevar a cabo tus tareas de manera eficiente?
+- ¿Qué aspectos de tu trabajo requieren una supervisión o seguimiento más cercano?
+- ¿Cuáles son los principales desafíos que enfrentas al llevar a cabo tus tareas diarias?
+- ¿Qué información consideras importante registrar sobre la producción de animales o cultivos?
+- ¿Qué funcionalidades te gustaría ver en una plataforma de gestión que facilite tu trabajo?
+- ¿Qué sugerencias o mejoras tendrías para una plataforma de gestión que te ayudaría a realizar tus tareas de manera más efectiva?
+- ¿Cómo crees que una plataforma de gestión podría ayudarte a mejorar tu productividad o eficiencia en el trabajo?
+- ¿Qué tan cómodo te sentirías utilizando tecnología para llevar a cabo tus tareas diarias en la granja?
 
 ### 2.2.2. Registro de entrevistas
+ **Entrevista 01**  
+
+ **Nombres:** Rodrigo 
+
+ **Apellidos:** Noreña Nuñez
+
+**Edad:** 19 años
+
+**Ciudad:** Huacho
+
+//Foto de Rodrigo
 
 
- **Entrevista 01**
 
-Nombres: Ana Lucero
+#### Evidencia de la reunión:
 
-Apellidos: Barrionuevo Reto
+Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
 
-Edad: 22 años
 
-Distrito: Pueblo Libre
 
-Evidencia de la reunión:
-<div align=center>
-   <a href="https://ibb.co/7pyDQmg"><img src="https://i.ibb.co/JpkTqJx/Whats-App-Image-2024-04-03-at-4-16-32-PM.jpg" alt="Whats-App-Image-2024-04-03-at-4-16-32-PM" border="0" style="max-width: 700px; width: 25%;"></a>
-</div>
-
-Duracion: 3:58
-
-Enlace de entrevista: [https://youtu.be/XWjxZ4NwCXY](https://youtu.be/XWjxZ4NwCXY)
-
-Resumen de la entrevista:
-
-Lucero Barrionuevo, una profesional de 22 años residente en Lima, Perú, se desempeña como administradora en una empresa agroindustrial especializada en la distribución de productos ganaderos y derivados de carne. Durante la entrevista, compartió información sobre las operaciones y los criterios al seleccionar proveedores.
-También, destacó desafíos como garantizar la calidad y frescura de los productos, así como la importancia de la comunicación directa con las granjas proveedoras. Además, discutió las características esperadas en una plataforma para conectar con proveedores y los beneficios de utilizarla en lugar de métodos tradicionales.
-Finalmente, mencionó las principales preo
-
+  
 
 ### 2.2.3 Análisis de entrevistas
 
