@@ -155,6 +155,9 @@ colocar imagen
 </div>
 </br>
 
+##4.7. Software Object-Oriented Design
+###4.7.1. Class Diagrams
+
 ### 4.7.2. Class Dictionary
  Class User
 | Atribute  | Type  | Description |
@@ -270,6 +273,9 @@ Class Notification
 | ------------ | ------------ |------------ |
 | id | int | Unique code for a notification
 | description  | String  | Description for a task
+##Database Design
+Para el proyecto, nos hemos decidido por utilizar el motor de base de datos de MySQL, debido a que es una herramientas con la que todos los integrantes del equipo nos sentimos comodos y familiarizados, ademas que posee una interfaz sencilla e intuitiva. Este motor nos permite desarrollar una base de datos para nuestro proyecto, el cual requerira de muchas tablas y conexiones entre ellas. 
+###Database Diagram
 
 
 
