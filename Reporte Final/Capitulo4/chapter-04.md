@@ -231,10 +231,10 @@ Class Message
 Class Crop
 | Atribute  | Type  | Description |
 | ------------ | ------------ |------------ |
-| id | int | Unique code for a task
-| description  | String  | Description for a task
-| estimated_time_to_make  | int | The estimated hours that will take doing this task to the collaborator
-| end_date  | int |  The deadline for the task 
+| id | int | Unique code for a crop
+| age  | int  | Age of a crop
+| location  | String | The location of the crop
+| health_status  | int |  The health status of the crop 
 
 Class Payments
 | Atribute  | Type  | Description |
