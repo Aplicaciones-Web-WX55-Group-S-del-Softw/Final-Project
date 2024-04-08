@@ -154,3 +154,123 @@ colocar imagen
     <img src="https://media.discordapp.net/attachments/1145583761182965852/1149434092908200016/image.png?width=562&height=388" alt="version-web-mockup"  width="90%"/>
 </div>
 </br>
+
+### 4.7.2. Class Dictionary
+ Class User
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id  | int | Unique code for a user
+|  first_name  | String  | Name of a user
+| last_name  | String | Last Name of a user
+| phone_number  | int | Phone Number of the user
+| email  | String | Email of the user |
+| password  | String  | Password of a User
+
+ Class Membership
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id  | int | Unique code for a Membership
+|  name  | String  | Name of a Membership
+| price  | int | Price of a Membership
+| description  | int | Description of a Membership
+
+ Class Collaborator
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for a Collaborator
+| first_name  | String  | Name of a Collaborator
+| last_name  | String | Last Name of a Collaborator
+| phone number  | int | Phone Number of a Collaborator
+| Email  | String | Email of a Collaborator
+| password  | String | Password of a Collaborator
+| working_hours  | int | hours that the collaborator works per week
+| salary  | int | the salary of the collaborator
+
+Class Farm
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for a Collaborator
+| name  | String  | Name of a Collaborator
+| location  | String | The location of the farm
+| infrastructure  | String | Infrastructure of the farm
+| service  | String | Services of the farm
+| certificates  | String | Certificates that the farm have
+| status  | String | Status of the farm
+
+ Class Animal
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for an animal
+| age  | int  | The age of the animal
+| sex  | String | Sex of an animal
+| health_condition  | int | The health condition of the animal
+| addition_date  | String | The date the animal was brought to the farm
+
+Class Task
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for a task
+| description  | String  | Description for a task
+| estimated_time_to_make  | int | The estimated hours that will take doing this task to the collaborator
+| end_date  | int |  The deadline for the task 
+
+Class Valoration
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for a valoration
+| rating  | String  | Rating made by the user for the farm
+ 
+Class Message
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for a task
+| description  | String  | Description for a task
+| estimated_time_to_make  | int | The estimated hours that will take doing this task to the collaborator
+| end_date  | int |  The deadline for the task 
+
+Class Crop
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for a task
+| description  | String  | Description for a task
+| estimated_time_to_make  | int | The estimated hours that will take doing this task to the collaborator
+| end_date  | int |  The deadline for the task 
+
+Class Payments
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for a task
+| description  | String  | Description for a task
+| estimated_time_to_make  | int | The estimated hours that will take doing this task to the collaborator
+| end_date  | int |  The deadline for the task 
+
+Class Emergency
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for an emergency
+| description  | String  | Description for an emergency
+| date  | int | Date of the emergency
+
+Class Shed
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for a shed
+| type  | String  | Type of the shed
+| location  | int | The location of the shed
+
+Class Sells
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for a task
+| quantity  | int  | Quantity of the sells
+| date  | String | Day of the sell
+
+Class Notification
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id | int | Unique code for a notification
+| description  | String  | Description for a task
+
+
+
+
