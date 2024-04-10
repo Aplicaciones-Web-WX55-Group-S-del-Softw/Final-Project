@@ -155,8 +155,46 @@ colocar imagen
 </div>
 </br>
 
-##4.7. Software Object-Oriented Design
-###4.7.1. Class Diagrams
+# 4.6. Domain-Driven Software Architecture
+El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento compartido del dominio que abarca el espacio del problema. En el caso de “FarmLogitech”, este dominio es la gestión de granjas y la colaboración entre agricultores y empresas. Gracias a la perspectiva brindada por este enfoque, es posible mejorar la colaboración entre los desarrolladores y los expertos del dominio.
+
+
+## 4.6.1. Software Architecture Context Diagram
+El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software “FarmLogitech”, los usuarios y, si es el caso, de otros sistemas externos.
+
+<img src="/assets/img-diagram-system.png" alt="System diagram"></img>
+
+
+## 4.6.2. Software Architecture Container Diagram
+El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software “FarmLogitech”.
+
+<img src="/assets/img-diagram-container.png" alt="Container diagram"></img>
+
+## 4.6.3. Software Architecture Components Diagrams
+Los diagramas de componentes muestran una vista de las relaciones de los componentes principales del sistema de software “FarmLogitech”. Estos componentes detallan la implementación de los respectivos módulos en el programa.
+
+- Log-In Bounded Context
+
+  <img src="/assets/img-LoginBC.png" alt="Login Bounded Context"></img>
+
+- Company Management Bounded Context
+
+  <img src="/assets/img-companyManagementBC.png" alt="Company Management Bounded Context"></img>
+
+- Farm Management Bounded Context
+
+  <img src="/assets/img-farmManagementBC.png" alt="Farm Management Bounded Context"></img>
+
+- Notification Bounded Context
+
+  <img src="/assets/img-notificationBC.png" alt="Notification Bounded Context"></img>
+
+- Payment Bounded Context
+
+  <img src="/assets/img-paymentBC.png" alt="Payment Bounded Context"></img>
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
 
 ### 4.7.2. Class Dictionary
  Class User
