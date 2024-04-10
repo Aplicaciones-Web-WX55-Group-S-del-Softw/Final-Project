@@ -205,7 +205,14 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 | last_name  | String | Last Name of a user
 | phone_number  | int | Phone Number of the user
 | email  | String | Email of the user |
-| password  | String  | Password of a User
+| account  | Account  | Account of the User
+
+ Class Account
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id  | int | Unique code for an account
+| name  | String  | Name of the account
+| owner  | User | The owner of the Account
 
  Class Membership
 | Atribute  | Type  | Description |
@@ -214,6 +221,34 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 |  name  | String  | Name of a Membership
 | price  | int | Price of a Membership
 | description  | int | Description of a Membership
+
+ Class MembershipPayment
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id  | int | Unique code for a MembershipPayment
+| amount  | int  | Amount to be paid
+| paid_date  | int | The date the Membership was paid
+
+ Class Farm_Owner
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id  | int | Unique code for a Farm_Owner
+| first_name  | String  | Name of a Farm_Owner
+| last_name  | String | Last Name of a Farm_Owner
+| phone_number  | int | Phone Number of the Farm_Owner
+| email  | String | Email of the Farm_Owner |
+| account  | Account  | Account of the Farm_Owner
+| password  | String | Password of a Farm_Owner
+
+Class Client
+| Atribute  | Type  | Description |
+| ------------ | ------------ |------------ |
+| id  | int | Unique code for a Client
+| first_name  | String  | Name of a Client
+| last_name  | String | Last Name of a Client
+| phone_number  | int | Phone Number of the Client
+| email  | String | Email of the Client |
+| account  | Account  | Account of the Client
 
  Class Collaborator
 | Atribute  | Type  | Description |
@@ -264,10 +299,10 @@ Class Valoration
 Class Message
 | Atribute  | Type  | Description |
 | ------------ | ------------ |------------ |
-| id | int | Unique code for a task
-| description  | String  | Description for a task
-| estimated_time_to_make  | int | The estimated hours that will take doing this task to the collaborator
-| end_date  | int |  The deadline for the task 
+| id | int | Unique code for a message
+| text  | String  | Text of the message
+| date  | int | The date the message was sent
+| isEmergency  | bool | The urgency of the Message
 
 Class Crop
 | Atribute  | Type  | Description |
@@ -276,21 +311,6 @@ Class Crop
 | age  | int  | Age of a crop
 | location  | String | The location of the crop
 | health_status  | int |  The health status of the crop 
-
-Class Payments
-| Atribute  | Type  | Description |
-| ------------ | ------------ |------------ |
-| id | int | Unique code for a task
-| description  | String  | Description for a task
-| estimated_time_to_make  | int | The estimated hours that will take doing this task to the collaborator
-| end_date  | int |  The deadline for the task 
-
-Class Emergency
-| Atribute  | Type  | Description |
-| ------------ | ------------ |------------ |
-| id | int | Unique code for an emergency
-| description  | String  | Description for an emergency
-| date  | int | Date of the emergency
 
 Class Shed
 | Atribute  | Type  | Description |
@@ -305,12 +325,14 @@ Class Sells
 | id | int | Unique code for a task
 | quantity  | int  | Quantity of the sells
 | date  | String | Day of the sell
+| percentage  | int | Percentage of the sell
 
 Class Notification
 | Atribute  | Type  | Description |
 | ------------ | ------------ |------------ |
 | id | int | Unique code for a notification
 | description  | String  | Description for a task
+
 ##Database Design
 Para el proyecto, nos hemos decidido por utilizar el motor de base de datos de MySQL, debido a que es una herramientas con la que todos los integrantes del equipo nos sentimos comodos y familiarizados, ademas que posee una interfaz sencilla e intuitiva. Este motor nos permite desarrollar una base de datos para nuestro proyecto, el cual requerira de muchas tablas y conexiones entre ellas. 
 ###Database Diagram
