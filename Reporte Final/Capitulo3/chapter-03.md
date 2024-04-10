@@ -147,7 +147,7 @@
     <td>Elegir método de pago para suscripción</td>
     <td>Como dueño de granja, quiero elegir entre diferentes métodos de pago, para pagar mi suscripción de la forma más cómoda y segura para mí.</td>
     <td>
-        <b>Scenario 01:</b> Acceso exitoso a los métodos de pago<br>
+        <b>Scenario 01:</b> Acceso exitoso a los métodos de pago <br>
         <b>Dado</b> que soy un dueño de granja registrado<br>
         <b>Cuando</b> navego a la sección de pagos de la suscripción<br>
         <b>Entonces</b> el sistema muestra una lista de métodos de pago disponibles, incluyendo tarjetas de crédito, débito y otros servicios de pago electrónico, con la opción de seleccionar uno.<br><br>
@@ -356,7 +356,7 @@
 </tr>
 <tr>
     <td>US-18</td> 
-    <td>Verificacion de niveles de inventario y recibir notificaciones de reposición</td>
+    <td>Verificacion de niveles de inventario y recibir notificaciones de reposición de ganado o cultivo</td>
     <td>Como dueño de la granja, quiero verificar fácilmente los niveles de inventario de productos agrícolas y ganaderos, y recibir notificaciones cuando sea necesario reponerlos, para garantizar un flujo de trabajo ininterrumpido.</td>
     <td>
         <b>Scenario 01:</b> Acceso a los niveles de inventario<br>
