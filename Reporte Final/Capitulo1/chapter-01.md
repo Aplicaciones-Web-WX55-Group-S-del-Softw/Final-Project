@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-    <strong>Startup: FarmLogiTech </strong><br>
-    <strong>Producto:  FarmLogiTech </strong>
+    <strong>Startup: FarmLogitech</strong><br>
+    <strong>Producto:FarmLogitech</strong>
 </p>
 <h3>Team Members:</h3>
 <div>
@@ -31,7 +31,7 @@
             <td>U202219284</td>
         </tr>
         <tr>
-            <td>Salgado Lunau, Fernando Brian</td>
+            <td>Salgado Luna, Fernando Brian</td>
             <td>U202212023</td>
         </tr>
         <tr>
@@ -50,7 +50,7 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
 |:-------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|TB1| 28/03/2024 |Todos los integrantes del equipo| El equipo completo colaboró en la definición de la solución propuesta, llevando a cabo un análisis Lean UX y definiendo el segmento objetivo. Además, se recopilaron todos los requisitos necesarios para desarrollar las herramientas requeridas, incluyendo User Persons, User stories, Product Backlog, e Impact Mapping, entre otros elementos. Posteriormente, se procedió al diseño de los mockups y prototipos de la página de inicio basándose en la información recabada. Finalmente, se completó la creación de la página de inicio con la ayuda del sprint backlog, asegurando así un control efectivo de los progresos realizados.| 
+|TB1| 02/04/2024 |Todos los integrantes del equipo| El equipo colaboró en la definición de la solución propuesta a través de un análisis Lean UX e identificación del segmento objetivo. Se recopilaron todos los requisitos necesarios, incluidos User Person, Product Backlog, Impact Mapping, entre otros. Luego se diseñaron maquetas y prototipos wireframe y mockups en base a la información recopilada. Finalmente, implementamos la landing page utilizando el sprint backlog para garantizar un control efectivo del progreso realizado.| 
 
 <br><br>
 
@@ -64,17 +64,35 @@
 ### [Contenido](#contenido)
 ### [Student Outcome](#student-outcome-1)
 ### [Capítulo I: Introducción](#capc3adtulo-i-introduccic3b3n-1)
-- [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
+- [COURSE PROJECT](#course-project)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+    - [Registro de versiones del informe](#registro-de-versiones-del-informe-1)
+    - [Project Report Collaboration Insights](#project-report-collaboration-insights-1)
+    - [Contenido](#contenido-1)
+    - [Student Outcome](#student-outcome)
+    - [Capítulo I: Introducción](#capítulo-i-introducción)
+    - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+    - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+    - [Capítulo IV: Product Design](#capítulo-iv-product-design)
+    - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+    - [Conclusiones](#conclusiones)
+    - [Bibliografía](#bibliografía)
+    - [Anexos](#anexos)
+- [Student Outcome](#student-outcome-1)
+- [Capítulo I: Introducción](#capítulo-i-introducción-1)
+  - [1.1. StartUp Profile](#11-startup-profile)
+    - [1.1.1. Description de la StartUp](#111-description-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-- [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process](#122-lean-ux-process)
-        - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-        - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-        - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
 
 ### [Capítulo II: Requirements Elicitation & Analysis](#capc3adtulo-ii-requirements-elicitation--analysis-1)
 - [2.1. Competidores](#21-competidores)
@@ -167,17 +185,21 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
 <td> TB1<br><br>
      <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-     Colocar información<br><br> 
-     <b>Barrionuevo Reto, Jean Franco Joel</b><br>
-     Colocar información<br><br>
+     En esta entrega, se realizaron los diseños del Web Applications UX/UI tales como wireframes y mockups usando  la herramienta figma. Me encargué de la elaboración de las preguntas objetivas y subjetivas para poder entrevistar a nuestro segmento objetivo posteriormente. Asimismo, estuve al tanto del equipo y sus avances.
+       </b><br>
+    <b>Barrionuevo Reto, Jean Franco Joel	</b><br>
+       Completar<br><br>
      <b>Salgado Luna, Fernando Brian</b><br>
-     Colocar información<br><br> 
+       Completar<br><br> 
      <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
-     Colocar información<br><br>
+        completar
+        <br><br>
      <b>Zoppi Rodríguez, Giacomo</b><br>
-     Colocar información<br><br>
+    completar <br><br>
     <td>TB1<br><br>
-    Colocar info
+
+
+
 </td>  
 
 
@@ -188,7 +210,7 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
    <td> TB1<br><br>
      <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-     Colocar información<br><br> 
+        Encargado de realizar entrevistas a un segmento objetivo, también realizó la sección de sprint, en la cuál está el sprint backlog y sprint planning. Asimismo, apoyó con la elaboración de la landing page utilizando los diseños de figma.<br><br> 
      <b>Barrionuevo Reto, Jean Franco Joel</b><br>
      Colocar información<br><br>
      <b>Salgado Luna, Fernando Brian</b><br>
@@ -333,68 +355,73 @@ Giacomo Zoppi Rodríguez
 </table>
 
 ## 1.2. Solution Profile
-
 ### 1.2.1. Antecedentes y problemática
-La industria agrícola está experimentando un cambio debido al crecimiento de la población mundial y los cambios en las demandas del mercado. Los agricultores enfrentan una mayor presión para incrementar la producción y mejorar la calidad de los cultivos. Sin embargo, muchos se encuentran con obstáculos como la carencia de herramientas tecnológicas adecuadas, la falta de coordinación entre equipos y la escasez de información en tiempo real sobre el estado de los cultivos y las condiciones climáticas.
+La industria agrícola y ganadera enfrenta desafíos significativos en términos de mejorar la producción, calidad y gestión de cultivos y ganado. Los agricultores y ganaderos se ven presionados por el crecimiento de la población mundial y los cambios en las demandas del mercado, pero enfrentan obstáculos como la falta de herramientas tecnológicas, la coordinación ineficiente entre granjasy la escasez de información en tiempo real sobre el estado de los cultivos, condiciones climáticas y bienestar animal. Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
 
-Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
+-   **What?**
+
+    La industria  enfrenta desafíos significativos en la gestión eficiente de las granjas, debido a la falta de herramientas tecnológicas adecuadas y la presión para aumentar la producción y calidad de los cultivos.
 
 
-- **What?**
+-   **When?**
 
-La industria agrícola se enfrenta a desafíos considerables en la gestión eficaz de las granjas debido a la falta de herramientas tecnológicas adecuadas y la presión para aumentar la producción y calidad de los cultivos.
+    Este problema ha ido aumentando en los últimos años, especialmente con el crecimiento de la población y los cambios en las demandas del mercado agrícola.
 
-- **When?**
+-   **Where?**
 
-Estos desafíos han ido en aumento en los últimos años, particularmente con el crecimiento de la población y los cambios en las demandas del mercado agrícola.
+    Este problema es global y afecta a las granjas en diversas regiones del mundo, tanto en países desarrollados como en desarrollo.
 
-- **Who?**
+-   **Who?**
 
-Los agricultores, tanto pequeños como grandes, están directamente involucrados en estas dificultades, ya que son responsables de la producción agrícola y deben enfrentar las demandas del mercado.
+    Los agricultores, tanto pequeños como grandes, están directamente involucrados en estas dificultades, ya que son responsables de la producción agrícola y deben enfrentar las demandas del mercado.
 
-- **How?**
+- **Why?**
 
-Para superar estos desafíos, se requieren soluciones tecnológicas innovadoras que asistan a los agricultores en la optimización de sus operaciones y el mejoramiento de la calidad de los cultivos. Esto puede lograrse mediante el desarrollo de herramientas integradas de gestión agrícola, la implementación de sensores y la aplicación de técnicas de análisis de datos.
+    Es crucial abordar esta problemática porque la agricultura desempeña un papel fundamental en la alimentación de la creciente población mundial y en la economía global.
 
-- **How much?**
+-   **How?**
 
-El costo de implementar estas soluciones tecnológicas puede variar dependiendo del tamaño de la granja y los recursos disponibles para adoptar tecnología agrícola.
+    Se necesitan soluciones tecnológicas innovadoras que ayuden a los agricultores a optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola. 
+
+-   **How much?**
+
+    El costo de implementar estas soluciones tecnológicas puede variar dependiendo de la escala de la granja y los recursos disponibles para la adopción de tecnología agrícola.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 
 - La  administración de las tareas agrícolas y la  colaboración entre grandes empresas y propietarios de granjas representan desafíos fundamentales en la industria agrícola. Además la gestión diaria de las operaciones en las granjas es esencial para aumentar la productividad y eficiencia de los trabajadores. Por otro lado, mejorar la colaboración entre empresas y propietarios de granjas es vital para facilitar asociaciones provechosas que impulsen el crecimiento y la rentabilidad en toda la cadena de suministro agrícola.
 
+
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes:**
-- Mejora en la productividad y eficiencia de las actividades agrícolas.
-- Facilitación de la colaboración entre empresas grandes y propietarios de granjas.
-- Aumento en la rentabilidad y calidad de los productos agrícolas.
+- Aumento de la productividad y eficiencia en las operaciones agrícolas.
+- Mejora en la colaboración entre empresas grandes y dueños de granjas.
+- Incremento en la rentabilidad y calidad de los productos agrícolas.
 
 **Users:**
--  Empresas: En búsqueda de mejorar su cadena de suministro y adquirir productos agrícolas de alta calidad.
-- Dueños de Granjas: Buscan mejorar la gestión de sus operaciones y aumentar su rentabilidad.
-- Trabajadores de Granjas: Requieren herramientas para simplificar las tareas diarias y mejorar su eficiencia.
+- Empresas Grandes: Interesadas en mejorar su cadena de suministro y obtener productos agrícolas de alta calidad.
+- Dueños de Granjas: Buscan optimizar la gestión de sus operaciones y aumentar su rentabilidad.
+- Trabajadores de Granjas: Necesitan herramientas para facilitar la realización de tareas diarias y mejorar su eficiencia.
 
 **User Outcomes:**
-- Empresas Grandes: Obtienen acceso a productos agrícolas y mejoran la eficiencia de su cadena de suministro.
-- Dueños de Granjas: Experimentan una mayor eficiencia en la gestión de operaciones agrícolas y un aumento en la rentabilidad.
-- Trabajadores de Granjas: Realizan  mayor facilidad para realizar sus tareas diarias y ven mejoras en su eficiencia laboral.
+- Empresas Grandes: Acceso a productos agrícolas de alta calidad y mejora en la eficiencia de su cadena de suministro.
+- Dueños de Granjas: Mayor eficiencia en la gestión de las operaciones agrícolas y aumento en la rentabilidad.
+- Trabajadores de Granjas: Facilidad para realizar tareas diarias y mejora en su eficiencia laboral.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 - Creemos que al implementar un sistema de seguimiento y análisis de datos agrícolas, podemos mejorar la toma de decisiones y la eficiencia en las operaciones agrícolas.
-- Creemos que al incorporar funcionalidades de pronóstico meteorológico en la plataforma, podemos prevenir a los agricultores a tomar medidas preventivas contra eventos climáticos adversos.
-- Creemos que al proporcionar una interfaz intuitiva y sencilla de usar en la plataforma, podemos incrementar la audiencia por parte de los usuarios, lo que derivará en una mayor satisfacción del cliente y una mayor retención.
-- Creemos que al ofrecer herramientas de análisis de desempeño de cultivos en tiempo real, podemos suministrar a los agricultores información detallada sobre el rendimiento de sus cultivos y áreas de mejora, lo que resultará en una optimización de los procesos de producción agrícola.
-- Creemos que al integrar características de planificación de cultivos y rotación de cultivos en la plataforma, podemos asistir a los agricultores a maximizar el rendimiento de sus tierras y mejorar la sostenibilidad a largo plazo de sus operaciones.
+- Creemos que al integrar funcionalidades de pronóstico meteorológico en la plataforma, podemos ayudar a los agricultores a tomar medidas preventivas contra eventos climáticos adversos.
+- Creemos que al ofrecer una interfaz intuitiva y fácil de usar en la plataforma, podemos aumentar tanto por parte de los usuarios, lo que resultará en una mayor satisfacción del cliente y una mayor retención.
+- Creemos que al ofrecer herramientas de análisis de rendimiento de cultivos en tiempo real, podemos proporcionar a los agricultores información detallada sobre el rendimiento de sus cultivos y áreas de mejora, lo que resultará en una optimización de los procesos de producción agrícola.
+- Creemos que al incorporar características de planificación de cultivos y rotación de cultivos en la plataforma, podemos ayudar a los agricultores a maximizar el rendimiento de sus tierras y mejorar la sostenibilidad a largo plazo de sus operaciones.
+- Creemos que al estar al tanto del bienestar animal, podemos proporcionar a los ganaderos información crucial sobre la salud y el comportamiento de su ganado, lo que resultará en una mejor atención y manejo, así como en la detección temprana de problemas de salud.
 
 #### 1.2.2.4. Lean UX Canvas
 
-<div align=center>
-    <img src="/assets/canva.png" alt="Canvas"/></img>
-</div>
+> Colocar imagen del canvas 
 
 ## 1.3. Segmentos Objetivo
 
@@ -405,11 +432,11 @@ El costo de implementar estas soluciones tecnológicas puede variar dependiendo 
 - Interesados en mejorar la eficiencia, productividad y rentabilidad de sus cultivos y ganado.
 
 **Trabajadores de granja:**
-- Trabajadores encargados de labores diarias en las granjas, como siembra, riego, cosecha y cuidado del ganado.
-- Requieren herramientas prácticas y de fácil uso para llevar a cabo sus tareas de manera eficiente y colaborativa.
+- Empleados que realizan tareas diarias en las granjas, como la siembra, el riego, la cosecha y el cuidado del ganado.
+- Necesitan herramientas prácticas y fáciles de usar para realizar sus tareas de manera eficiente y colaborativa.
 - Buscan mejorar su productividad y contribuir al éxito general de la granja.
 
 **Empresas y Corporaciones del Sector Agrícola y Ganadera:**
-- Compañías agrícolas, procesadores de alimentos y distribuidores.
+- Empresas agrícolas, procesadores de alimentos y distribuidores.
 - Buscan establecer asociaciones estratégicas con granjas para mejorar la cadena de suministro y obtener productos  de alta calidad.
 - Interesados en alquilar o comprar granjas.
