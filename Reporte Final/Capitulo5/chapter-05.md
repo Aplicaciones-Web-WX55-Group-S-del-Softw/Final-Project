@@ -69,6 +69,10 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 ### 5.1.2. Source Code Management.
 El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
 
+<div align=center>
+   <img src="/assets/img-release.png" alt="Release"></img>
+</div>
+
 *Repositorio de GitHub:*
 - Enlace para acceder a la [organización en GitHub](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw)
 - Enlace para acceder al repositorio de la [Link del Landing page] (https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/)
@@ -126,6 +130,11 @@ siguientes:
 
 
 ### 5.1.4. Software Deployment Configuration.
+
+<div align=center>
+   <img src="/assets/img-software-develop.png" alt="software-configuration"></img>
+</div>
+
 ### Landing page deployment:
 Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con
 una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible
@@ -140,11 +149,9 @@ comenzar el despliegue de la landing page. A continuación se enuncian los pasos
 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que
    llevará al Landing Page desplegado
 
-## < GithubPages
+##  GithubPages
 
---PARTE DE MATHI
 ### 5.2. Landing Page, Services & Applications Implementation.
-
 ### 5.2.1 Sprint 1.
 #### 5.2.1.1 Sprint Planing 1.
 
@@ -164,9 +171,11 @@ durante este sprint nos enfocaremos en el diseño y desarrollo de la landing pag
 #### 5.2.1.2. Sprint Backlog 1.
 En el primer sprint, el equipo tuvo como objetivo principal crear una landing page atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
 
+<div align=center>
+   <img src="/assets/img-trello.png" alt="Trello"></img>
+</div>
+
 link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
-
-
 
 <table align="center" border="1" width="90%" style="text-align:center">
     <tr>
@@ -304,22 +313,46 @@ Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. 
 
 1. Sección  carrusel de imágenes
    En esta sección, se puede visualizar e interactuar con las imágenes principales.
->Imagen de carrusel
 
-2. Sección de Características
+<div align=center>
+   <img src="/assets/img-carrusel.png" alt="Carrusel"></img>
+</div>
+
+2. Sección de Nosotros
    En esta sección, se puede observar lo que FarmLogitech ofrece.
->Imagenes  caracteristicas
-3. Sección Planes
+
+<div align=center>
+   <img src="/assets/img-nosotros.png" alt="Nosotros"></img>
+</div>
+
+3. Sección de Características
+   En esta sección, se puede observar las caracteristicas.
+
+<div align=center>
+   <img src="/assets/img-caracteristicas.png" alt="Caracteristicas"></img>
+</div>
+
+4. Sección Planes
    En esta sección, se visualizan los planes que Farmlogitech, plan básico en el que solo
    podrás promocionar tu granja y el premium en la que no solo podrás promocionarla, sino también gestionarla.
->Imagenes de planes
 
-4. Sección Método de Pago
+<div align=center>
+   <img src="/assets/img-planes.png" alt="Planes"></img>
+</div>
+
+5. Sección Método de Pago
    En esta sección, se visualizan diversos métodos de pago que Farmlogitech ofrece
->Imagenes de metodo de pago
-5. Sección Colaboradores
+
+<div align=center>
+   <img src="/assets/img-metodos.png" alt="Metodos"></img>
+</div>
+
+6. Sección Colaboradores
    En esta sección, aparecerán los colaboradores encargados de desarrollar la landing page.
->Imagenes de colaboradores
+
+<div align=center>
+   <img src="/assets/img-colaboradores.png" alt="Colaboradores"></img>
+</div>
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
@@ -328,9 +361,12 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para la entrega del Sprint número 1, se desplegó la landing page completa.
-> Imagene completa
 
-Enlace para acceder a la landing page: https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/landing-page
+<div align=center>
+   <img src="/assets/img-todo.png" alt="Landing"></img>
+</div>
+
+Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/#
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -341,6 +377,14 @@ Enlace para acceder a la landing page: https://github.com/Aplicaciones-Web-WX55-
 | Mathias Kunimoto        | Implementación del responsive y características del website |
 | Jean Franco Barrionuevo | Implementación de la imagenes de carrusel                   |
 | Giacomo Zoppi           | Implementación de las tarifas o planes                      |
+
+<div align=center>
+   <img src="/assets/img-graficos.png" alt="graficos"></img>
+</div>
+
+<div align=center>
+   <img src="/assets/img-graficos-2.png" alt="graficos2"></img>
+</div>
 
 # Conclusiones
 

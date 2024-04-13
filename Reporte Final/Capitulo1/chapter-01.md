@@ -429,7 +429,9 @@ La industria agrícola y ganadera enfrenta desafíos significativos en términos
 
 #### 1.2.2.4. Lean UX Canvas
 
-> Colocar imagen del canvas 
+<p align="center">
+<img src="/assets/img-canva.png" alt="Canva"></img>
+</p>
 
 ## 1.3. Segmentos Objetivo
 
