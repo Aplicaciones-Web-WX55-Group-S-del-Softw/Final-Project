@@ -71,7 +71,7 @@ El proyecto seguirá las convenciones del flujo de trabajo establecido por el mo
 
 *Repositorio de GitHub:*
 - Enlace para acceder a la [organización en GitHub](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw)
-- Enlace para acceder al repositorio de la [landing Page](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/landing-page)
+- Enlace para acceder al repositorio de la [Link del Landing page] (https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/)
 - Enlace para acceder al repositorio del [reporte final](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project)
 
 *Flujo de trabajo GitFlow*
@@ -349,6 +349,7 @@ Enlace para acceder a la landing page: https://github.com/Aplicaciones-Web-WX55-
 ### Video de exposición
 
 [Video de exposición]()
+[Link del Landing page] (https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/)
 
 # Bibliografía
 
