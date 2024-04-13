@@ -168,7 +168,7 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
    <img src="/assets/wireframe_diagram_2.png" alt="Wireframe"></img>
 </div>
 <div align=center>
-   <img src="/assets/wireframe_diagram_3.png" alt="Wireframe"></img>
+   <img src="/assets/wireframe_diagram_3.jpg" alt="Wireframe"></img>
 </div>
 <div align=center>
    <img src="/assets/wireframe_diagram_4.png" alt="Wireframe"></img>
@@ -180,7 +180,7 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
    <img src="/assets/wireframe_diagram_6.png" alt="Wireframe"></img>
 </div>
 <div align=center>
-   <img src="/assets/wireframe_diagram_7.png" alt="Wireframe"></img>
+   <img src="/assets/wireframe_diagram_7.jpg" alt="Wireframe"></img>
 </div>
 <div align=center>
    <img src="/assets/wireframe_diagram_8.png" alt="Wireframe"></img>

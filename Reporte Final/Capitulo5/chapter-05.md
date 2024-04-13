@@ -82,7 +82,7 @@ El proyecto seguirá las convenciones del flujo de trabajo establecido por el mo
 
 El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
 
-## <M Imagen de Realese branches
+## Imagen de Realese branches
 
 *Estructura de branches (Ramas):*
 1. *Master branch (Rama principal):* Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
@@ -97,8 +97,7 @@ siguientes:
 3. Escribir en una línea los comentarios cortos.
 4. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
 5. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la
-   disponibilidad del contenido. Por ejemplo:   <img src="abc.img" alt="image name"  
-   style="width:128px;height:128px">
+   disponibilidad del contenido.
 6. Se nos recomienda no usar el espacio al momento de utilizar los signos porque
    es más fácil de leerlo de esta forma.  
    <br>
