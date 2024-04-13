@@ -312,6 +312,24 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 
 ### 2.2.3 Análisis de entrevistas
 
+
+ **Segmento 01: Dueño de granja**
+
+Las entrevistas con Harold , Mirian y Jorge Kunimoto nos ofrecieron una variedad de perspectivas sobre la gestión de granjas y la utilidad de las plataformas de gestión. Se destacó la importancia de la confiabilidad y las buenas referencias al seleccionar proveedores, así como la eficiencia en el transporte de productos y la necesidad de un buen registro de sanidad. Los entrevistados expresaron preferencia por las plataformas que ofrecen rapidez, contacto directo y seguridad. Además, se resaltó la importancia de la facilidad de uso y la optimización del tiempo en cualquier plataforma de gestión.
+
+Ambos entrevistados consideran a aquellos sin experiencia previa si demuestran entusiasmo y potencial, y valoran la flexibilidad en la gestión de sus operaciones. En relación con la propuesta de una plataforma de gestión, valoran su utilidad potencial para las granjas, destacando la importancia de características adicionales como un sistema de calificación para evaluar la confiabilidad de las granjas, medidas de seguridad de datos sólidas y soluciones integrales que aborden los desafíos específicos de sus granjas. Finalmente, estarían dispuestos a pagar por una aplicación que mejore la eficiencia de su operación.
+
+**Segmento 02: Administrador**
+
+Durante la entrevista, Lucero compartió información sobre las operaciones de su empresa y los criterios al seleccionar proveedores. Destacó desafíos como garantizar la calidad y frescura de los productos, así como la importancia de la comunicación directa con las granjas proveedoras.
+
+En cuanto a las características esperadas en una plataforma para conectar con proveedores, Lucero discutió los beneficios de utilizarla en lugar de métodos tradicionales. Mencionó las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores. Además, habló sobre los incentivos que podrían motivar a utilizar un sitio web como FarmLogitech para su empresa. Esto sugiere que Lucero valora las soluciones tecnológicas que pueden mejorar la eficiencia y la calidad de las operaciones de su empresa.
+
+**Segmento 03: Trabajador**
+
+Durante las entrevistas, Italo Luna y Rodrigo Noreña destacaron varios puntos importantes. Italo Luna resaltó el desafío de equilibrar la eficiencia de producción con el bienestar animal en la empresa avícola donde trabaja. También mencionó que la empresa tiene alrededor de 50,000 pollos y 10 galpones, y que la venta de los pollos se basa en un porcentaje establecido según el peso del pollo.
+Además, Rodrigo Noreña enfatizó la importancia de una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes para mejorar la eficiencia en la empresa de producción, siembra y cosecha de maracuyá donde trabaja.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 - User persona trabajador en granja
