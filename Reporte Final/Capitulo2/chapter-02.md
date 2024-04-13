@@ -180,7 +180,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 **Ciudad:** Huacho
 
   <p align="center">
-   <img src=" /assets/entrevista01.jpg" alt="Entrevista-01"></img>
+   <img src="/assets/entrevista01.jpg" alt="Entrevista-01" style="width: 50%;"></img>
   </p>
 
 #### Evidencia de la reunión:
@@ -201,7 +201,7 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 **Evidencia de la reunión:**
 
 <p align="center">
-<img src="/assets/entrevista02.jpeg" alt="Entrevista-02"></img>
+<img src="/assets/entrevista02.jpeg" alt="Entrevista-02" style="width: 50%;"></img>
 </p>
 
 **Duracion:** 3:58
@@ -226,7 +226,7 @@ Finalmente, mencionó las principales preocupaciones en términos de calidad, se
 **Evidencia de la reunión**:
 
 <p align="center">
-<img src="/assets/entrevista03.jpeg" alt="Entrevista-03"></img>
+<img src="/assets/entrevista03.jpeg" alt="Entrevista-03" style="width: 50%;"></img>
 </p>
 
 **URL de la entrevista**: https://youtu.be/oPnibbkSI90
@@ -249,7 +249,7 @@ Harold, un estudiante de 21 años y administrador de una granja familiar en Huan
 
 
 <p align="center">
-<img src="/assets/entrevista04.jpg" alt="Entrevista-04"></img>
+<img src="/assets/entrevista04.jpg" alt="Entrevista-04" style="width: 50%;"></img>
 </p>
 
 #### Evidencia de la reunión:
@@ -274,7 +274,7 @@ Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo 
 **Ciudad**: Lima
 
 <p align="center">
-<img src="/assets/entrevista05.jpg" alt="Entrevista-05"></img>
+<img src="/assets/entrevista05.jpg" alt="Entrevista-05" style="width: 50%;"></img>
 </p>
 
 #### Evidencia de la reunión:
@@ -297,7 +297,7 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 **Ciudad**: Lima
 
 <p align="center">
- <img src="/assets/entrevista06.jpg" alt="Entrevista-06"></img>
+ <img src="/assets/entrevista06.jpg" alt="Entrevista-06" style="width: 50%;"></img>
 </p>
 
 ####  Evidencia de la reunión:
