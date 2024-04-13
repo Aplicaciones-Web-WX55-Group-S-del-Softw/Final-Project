@@ -189,7 +189,13 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
        </b><br>
 <br>
     <b>Barrionuevo Reto, Jean Franco Joel	</b><br>
-       Completar<br><br>
+
+Para el trabajo se hizo uso de github para documentar el trabajo de
+modo que se aprendió a utilizar conventional commits y gitflow de modo
+que se pueda tener una correcta comunicación escrita en lo que
+corresponde a la documentación del proyecto, además de aprender a
+utiizar el lenguaje markdown para comunicarlo mediante github en un
+archivo README.md.<br><br>
      <b>Salgado Luna, Fernando Brian</b><br>
        Completar<br><br> 
      <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
@@ -213,7 +219,7 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
      <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
         Encargado de realizar entrevistas a un segmento objetivo, también realizó la sección de sprint, en la cuál está el sprint backlog y sprint planning. Asimismo, apoyó con la elaboración de la landing page utilizando los diseños de figma.<br><br> 
      <b>Barrionuevo Reto, Jean Franco Joel</b><br>
-     Colocar información<br><br>
+     Encargado de los diagramas C4, que son una parte integral del proceso de DDD, también conocido como Domain Driven Design. Un aspecto distintivo de este enfoque es la implementación del lenguaje ubicuo. Este lenguaje facilita la comprensión de los detalles técnicos a un nivel superior para todos los interesados, tanto internos como externos del proyecto, a través de la visualización de los diagramas.<br><br>
      <b>Salgado Luna, Fernando Brian</b><br>
      Colocar información<br><br> 
      <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
