@@ -167,6 +167,8 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 - ¿Qué tan cómodo te sentirías utilizando tecnología para llevar a cabo tus tareas diarias en la granja?
 
 ### 2.2.2. Registro de entrevistas
+
+
  **Entrevista 01**  
 
  **Nombres:** Rodrigo 
@@ -177,7 +179,9 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 
 **Ciudad:** Huacho
 
-//Foto de Rodrigo
+  <p align="center">
+   <img src=" /assets/entrevista01.jpg" alt="Entrevista-01"></img>
+  </p>
 
 #### Evidencia de la reunión:
 
@@ -196,7 +200,9 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 
 **Evidencia de la reunión:**
 
-//Foto 
+<p align="center">
+<img src="/assets/entrevista02.jpeg" alt="Entrevista-02"></img>
+</p>
 
 **Duracion:** 3:58
 
@@ -209,7 +215,102 @@ También, destacó desafíos como garantizar la calidad y frescura de los produc
 Finalmente, mencionó las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores, y los incentivos que podrían motivar a utilizar un sitio web como FarmLogitech para su empresa.
 
 
-  
+**Entrevista 03**: Harold López
+
+**Sexo**: Masculino
+
+**Edad**: 21 años
+
+**Ubicación en la que vive**:  Lince, Lima, Perú
+
+**Evidencia de la reunión**:
+
+<p align="center">
+<img src="/assets/entrevista03.jpeg" alt="Entrevista-03"></img>
+</p>
+
+**URL de la entrevista**: https://youtu.be/oPnibbkSI90
+
+**Duración**: 7:24
+
+**Resumen de la entrevista**:
+
+Harold, un estudiante de 21 años y administrador de una granja familiar en Huancayo, Junín, actualmente reside en Lima, Perú, por motivos de educación. Durante la entrevista, compartió detalles sobre su trabajo en la granja, que incluye el cultivo de papas y la cría de ganado. Harold destacó la importancia de la confiabilidad y las buenas referencias al seleccionar proveedores, y expresó su preocupación por la eficiencia en el transporte de productos y la necesidad de un buen registro de sanidad. También mencionó la utilidad de un sistema de calificación para evaluar la confiabilidad de las granjas. En cuanto a las plataformas de conexión con granjas proveedoras, Harold valoró la rapidez, el contacto directo y la seguridad como incentivos clave para su uso. Finalmente, enfatizó la importancia de la rapidez y la seguridad en la comunicación con los proveedores.
+
+**Entrevista 04**
+
+**Nombres**: Mirian
+
+**Apellidos**: Higashi
+
+**Edad**: 55 años
+
+**Ciudad**: Lima
+
+
+<p align="center">
+<img src="/assets/entrevista04.jpg" alt="Entrevista-04"></img>
+</p>
+
+#### Evidencia de la reunión:
+
+Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo.
+
+**Minuto de la entrevista**: 7:00
+
+**Link de la entrevista**: [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+
+
+
+**Entrevista 05**
+
+**Nombres**: Jorge
+
+**Apellidos**: Kunimoto
+
+**Edad**: 61 años
+
+**Ciudad**: Lima
+
+<p align="center">
+<img src="/assets/entrevista05.jpg" alt="Entrevista-05"></img>
+</p>
+
+#### Evidencia de la reunión:
+
+Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta diversos desafíos en la gestión de su granja. La rotación de personal y las regulaciones medioambientales son preocupaciones constantes, mientras que la proximidad a áreas pobladas agrega complejidad a las operaciones. La renovación de equipos e infraestructura es esencial para mantener la competitividad en un mercado en constante cambio. En su granja, se especializa en la cría y producción avícola, priorizando el bienestar de las aves y la bioseguridad. Jorge ha implementado estrategias para estabilizar el equipo de trabajo y cumplir con las regulaciones, optimizando procesos y concientizando al personal sobre su papel en el éxito de la granja. Considera que la facilidad de uso es vital en cualquier plataforma de gestión y busca constantemente mejorar los procesos internos. La optimización del tiempo es crucial, y Jorge estaría dispuesto a pagar por una aplicación que mejore la eficiencia de su operación. En la búsqueda de herramientas prácticas en una plataforma de gestión, prioriza soluciones integrales que aborden los desafíos específicos de su granja avícola.
+
+**Minuto de la entrevista**: 6:55
+
+**Link de la entrevista**: [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+
+**Entrevista 06**
+
+**Nombres**: Italo
+
+**Apellidos**: Luna
+
+**Edad**: 19 años
+
+**Ciudad**: Lima
+
+<p align="center">
+ <img src="/assets/entrevista06.jpg" alt="Entrevista-06"></img>
+</p>
+
+####  Evidencia de la reunión:
+Italo Luna es un joven de 19 años que proviene de Huaral, Perú. Actualmente, es un estudiante de la carrera de ing. de Software, en vacaciones ayuda a sus padres como trabajador de en una empresa avícola. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Italo también destacó
+que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficiencia de producción y el bienestar animal. Además nos comenta que la empresa cuenta con alrededor de 50,000 pollo y 10 galpones. Se le preguntó acerca de como viene siendo la venta de los pollos y nos dijo que dependiendo del peso del pollo, se crea un porcentaje en la cuál tiene que ser vendido cada pollo por el mismo peso o un aproximado.
+
+Minuto de la entrevista: 20:14
+
+Link de la entrevista: [link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u201912668_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201912668%5Fupc%5Fedu%5Fpe%2FDocuments%2FInterview%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+
+
+
 
 ### 2.2.3 Análisis de entrevistas
 
