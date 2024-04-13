@@ -187,16 +187,17 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
      <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
      En esta entrega, se realizaron los diseños del Web Applications UX/UI tales como wireframes y mockups usando  la herramienta figma. Me encargué de la elaboración de las preguntas objetivas y subjetivas para poder entrevistar a nuestro segmento objetivo posteriormente. Asimismo, estuve al tanto del equipo y sus avances.
        </b><br>
+<br>
     <b>Barrionuevo Reto, Jean Franco Joel	</b><br>
        Completar<br><br>
      <b>Salgado Luna, Fernando Brian</b><br>
        Completar<br><br> 
      <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
-        completar
+        Encargado de llevar a cabo entrevistas con un grupo específico de personas, también encabezó la sección del landing page y capitulo 1. Además, colaboró en la creación de la página de aterrizaje utilizando los diseños proporcionados en Figma.
         <br><br>
      <b>Zoppi Rodríguez, Giacomo</b><br>
     completar <br><br>
-    <td>TB1<br><br>
+    <td>TB1: Hemos optado por un servicio de gestión y logística para granjas con el objetivo de asistir a todos los profesionales involucrados en esta industria. Nuestra startup busca abordar los desafíos de falta de organización y desperdicio de recursos que pueden ocasionar pérdidas significativas.<br><br>
 
 
 
@@ -216,11 +217,11 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
      <b>Salgado Luna, Fernando Brian</b><br>
      Colocar información<br><br> 
      <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
-     Colocar información<br><br>
+Encargado de llevar a cabo entrevistas con un grupo específico de personas, también dirigió la sección de sprint, que incluye la lista de tareas pendientes y la planificación del mismo. Además, contribuyó en la creación de la página de inicio utilizando los diseños proporcionados en Figma.<br><br>
      <b>Zoppi Rodríguez, Giacomo</b><br>
      Colocar información<br><br>
 </td>
-</table>
+ <td>TB1: Gracias al proyecto, pudimos conectar con individuos dentro de la industria y comprender lo beneficioso que podría resultarles una aplicación como la que estamos proponiendo para facilitar sus actividades diarias. <br><br></table>
 
 <br><br>
 
