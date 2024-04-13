@@ -226,7 +226,7 @@ En esta entrega se realicé el diseño de la experiencia de usuario (UX) y la in
      <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
 Encargado de llevar a cabo entrevistas con un grupo específico de personas, también dirigió la sección de sprint, que incluye la lista de tareas pendientes y la planificación del mismo. Además, contribuyó en la creación de la página de inicio utilizando los diseños proporcionados en Figma.<br><br>
      <b>Zoppi Rodríguez, Giacomo</b><br>
-     Colocar información<br><br>
+     Me encargué de el diseño de las base de datos y diagrama de clases, que son parte esencial de la implementación de una landing page y un proyecto de Aplicacion Web. <br><br>
 </td>
  <td>TB1: Gracias al proyecto, pudimos conectar con individuos dentro de la industria y comprender lo beneficioso que podría resultarles una aplicación como la que estamos proponiendo para facilitar sus actividades diarias. <br><br></table>
 
