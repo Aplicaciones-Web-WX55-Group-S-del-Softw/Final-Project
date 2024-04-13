@@ -201,7 +201,7 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 **Evidencia de la reunión:**
 
 <p align="center">
-<img src="/assets/entrevista02.jpeg" alt="Entrevista-02" style="width: 50%;"></img>
+<img src="/assets/entrevista02.jpg" alt="Entrevista-02" style="width: 50%;"></img>
 </p>
 
 **Duracion:** 3:58
@@ -226,7 +226,7 @@ Finalmente, mencionó las principales preocupaciones en términos de calidad, se
 **Evidencia de la reunión**:
 
 <p align="center">
-<img src="/assets/entrevista03.jpeg" alt="Entrevista-03" style="width: 50%;"></img>
+<img src="/assets/entrevista03.jpg" alt="Entrevista-03" style="width: 50%;"></img>
 </p>
 
 **URL de la entrevista**: https://youtu.be/oPnibbkSI90
