@@ -197,7 +197,7 @@ corresponde a la documentación del proyecto, además de aprender a
 utiizar el lenguaje markdown para comunicarlo mediante github en un
 archivo README.md.<br><br>
      <b>Salgado Luna, Fernando Brian</b><br>
-       Completar<br><br> 
+En esta entrega se realicé el diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) para aplicaciones web. Una característica destacada de este diseño es el enfoque en la usabilidad y la accesibilidad para garantizar que los usuarios puedan interactuar de manera efectiva con la aplicación.<br><br> 
      <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
         Encargado de llevar a cabo entrevistas con un grupo específico de personas, también encabezó la sección del landing page y capitulo 1. Además, colaboró en la creación de la página de aterrizaje utilizando los diseños proporcionados en Figma.
         <br><br>
@@ -221,7 +221,8 @@ archivo README.md.<br><br>
      <b>Barrionuevo Reto, Jean Franco Joel</b><br>
      Encargado de los diagramas C4, que son una parte integral del proceso de DDD, también conocido como Domain Driven Design. Un aspecto distintivo de este enfoque es la implementación del lenguaje ubicuo. Este lenguaje facilita la comprensión de los detalles técnicos a un nivel superior para todos los interesados, tanto internos como externos del proyecto, a través de la visualización de los diagramas.<br><br>
      <b>Salgado Luna, Fernando Brian</b><br>
-     Colocar información<br><br> 
+     Durante la ejecución del proyecto, fue fundamental mantener una comunicación constante con nuestro público objetivo para definir claramente nuestra solución. También se priorizó una comunicación efectiva y una organización adecuada a través de reuniones regulares.
+<br><br> 
      <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
 Encargado de llevar a cabo entrevistas con un grupo específico de personas, también dirigió la sección de sprint, que incluye la lista de tareas pendientes y la planificación del mismo. Además, contribuyó en la creación de la página de inicio utilizando los diseños proporcionados en Figma.<br><br>
      <b>Zoppi Rodríguez, Giacomo</b><br>
