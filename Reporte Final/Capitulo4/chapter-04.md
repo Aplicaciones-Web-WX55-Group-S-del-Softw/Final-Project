@@ -7,7 +7,7 @@
 - Esta imagen simboliza nuestra dedicación a la agricultura y a los animales. Al unirse a nosotros, los usuarios experimentarán una conexión sólida y colaborativa, reflejada en nuestra comunidad.
 
 <div align=center>
-   <img src="/assets/img-logo-farm" alt="Logo-farm"></img>
+   <img src="/assets/img-logo-farm.jpeg" alt="Logo-farm"></img>
 </div>
 
 ### Typography:
@@ -224,7 +224,7 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
    <img src="/assets/mockup_diagram_2.png" alt="Mockup-diagram"></img>
 </div>
 <div align=center>
-   <img src="/assets/mockup_diagram_3.png" alt="Mockup-diagram"></img>
+   <img src="/assets/mockup_diagram_3.jpg" alt="Mockup-diagram"></img>
 </div>
 <div align=center>
    <img src="/assets/mockup_diagram_4.png" alt="Mockup-diagram"></img>
