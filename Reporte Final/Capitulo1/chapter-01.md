@@ -202,7 +202,7 @@ En esta entrega se realicé el diseño de la experiencia de usuario (UX) y la in
         Encargado de llevar a cabo entrevistas con un grupo específico de personas, también encabezó la sección del landing page y capitulo 1. Además, colaboró en la creación de la página de aterrizaje utilizando los diseños proporcionados en Figma.
         <br><br>
      <b>Zoppi Rodríguez, Giacomo</b><br>
-    completar <br><br>
+    En esta entrega, me encargue de realizar y apoyar en la creación de los diagramas de clase y de base de datos, así como su diccionario. También, desarrollé parte del capitulo 5 y el landing page <br><br>
     <td>TB1: Hemos optado por un servicio de gestión y logística para granjas con el objetivo de asistir a todos los profesionales involucrados en esta industria. Nuestra startup busca abordar los desafíos de falta de organización y desperdicio de recursos que pueden ocasionar pérdidas significativas.<br><br>
 
 
