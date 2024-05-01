@@ -434,7 +434,21 @@ La industria agrícola y ganadera enfrenta desafíos significativos en términos
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 
-- La  administración de las tareas agrícolas y la  colaboración entre grandes empresas y propietarios de granjas representan desafíos fundamentales en la industria agrícola. Además la gestión diaria de las operaciones en las granjas es esencial para aumentar la productividad y eficiencia de los trabajadores. Por otro lado, mejorar la colaboración entre empresas y propietarios de granjas es vital para facilitar asociaciones provechosas que impulsen el crecimiento y la rentabilidad en toda la cadena de suministro agrícola.
+- El estado actual de la industria agricola se ha centrado en la administación de tareas agricolas con herramientas anticuadas y poco eficaces . Estos pain points incluyen desafios en las operaciones de granja como la organización del trabajo. 
+
+Lo que los productos existentes no logran abordar es la implementación de herramientras eficientes de organización de granjas, lo que afecta la rentabilidad en toda la cadena de suministro agrícola.
+
+Nuestro producto/servicio abordará esta brecha al proporcionar una plataforma integral para optimizar la gestión de tareas. 
+
+Nuestro enfoque inicial estará en involucrar a grandes empresas agrícolas, propietarios de granjas y personal de campo que buscan optimizar sus operaciones.
+
+- El estado actual de la industria agricola  se ha centrado en la colaboración de grandes empresas y propietarios de granjas mediante intermediarios o medios de comunicación poco eficaces .Estos pain points incluyen desafios en las operaciones de granja como problemas con la comunicación entre dueños de granjas  y empresas.
+
+Lo que los productos existentes no logran abordar es la implementación de herramientras eficientes de organización y visualización de granjas, lo que dificulta la facilitación de asociaciones beneficiosas que impulsen el crecimiento de la industria. 
+
+Nuestro producto/servicio abordará esta brecha al proporcionar una plataforma integral para fomentar una colaboración fluida entre empresas agrícolas y propietarios de granjas.
+
+Nuestro enfoque inicial estará en involucrar a grandes empresas agrícolas y propietarios de granjas que buscan optimizar sus operaciones y mejorar la colaboración para beneficio mutuo.
 
 
 #### 1.2.2.2. Lean UX Assumptions
