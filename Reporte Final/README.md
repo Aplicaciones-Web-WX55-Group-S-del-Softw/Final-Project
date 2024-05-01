@@ -528,6 +528,11 @@ Los trabajadores de granja desempeñan tareas esenciales en las operaciones diar
 
 Las empresas y corporaciones en este sector abarcan una amplia gama, desde empresas agrícolas hasta procesadores de alimentos y distribuidores. Están interesadas en establecer asociaciones estratégicas con granjas para mejorar la cadena de suministro y obtener productos de alta calidad. Un dato relevante es que el 70% de los alimentos consumidos por los 32 millones de peruanos proviene de la agricultura familiar, lo que indica la importancia económica de la industria alimentaria. Estas empresas también pueden estar interesadas en alquilar o comprar granjas para expandir sus operaciones. 
 
+Stakeholders internos: 
+- El equipo de FarmLogiTech y el resto del equipo de desarrollo.
+
+Stakeholders externos: 
+- Dueños de granjas. Posesionarios de granjas. Empresas agropecuarias. Trabajadores y comuneros de granjas. 
 
 # CAPITULO II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
@@ -544,7 +549,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
     <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
   </tr>
   <tr>
-    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
+    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos. </td>
   </tr>
   <tr>
     <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
