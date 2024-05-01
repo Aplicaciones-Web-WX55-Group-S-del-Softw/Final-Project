@@ -442,6 +442,8 @@ Nuestro producto/servicio abordará esta brecha al proporcionar una plataforma i
 
 Nuestro enfoque inicial estará en involucrar a grandes empresas agrícolas, propietarios de granjas y personal de campo que buscan optimizar sus operaciones.
 
+Sabremos que hemos tenido éxito cuando veamos un aumento en la adopción de nuestra plataforma entre nuestro público objetivo, lo que llevará a una mayor eficiencia en las operaciones de las granjas. 
+
 - El estado actual de la industria agricola  se ha centrado en la colaboración de grandes empresas y propietarios de granjas mediante intermediarios o medios de comunicación poco eficaces .Estos pain points incluyen desafios en las operaciones de granja como problemas con la comunicación entre dueños de granjas  y empresas.
 
 Lo que los productos existentes no logran abordar es la implementación de herramientras eficientes de organización y visualización de granjas, lo que dificulta la facilitación de asociaciones beneficiosas que impulsen el crecimiento de la industria. 
@@ -449,6 +451,8 @@ Lo que los productos existentes no logran abordar es la implementación de herra
 Nuestro producto/servicio abordará esta brecha al proporcionar una plataforma integral para fomentar una colaboración fluida entre empresas agrícolas y propietarios de granjas.
 
 Nuestro enfoque inicial estará en involucrar a grandes empresas agrícolas y propietarios de granjas que buscan optimizar sus operaciones y mejorar la colaboración para beneficio mutuo.
+
+Sabremos que hemos tenido éxito cuando veamos un aumento en la adopción de nuestra plataforma entre nuestro público objetivo y una mayor fortaleza en las asociaciones dentro del ecosistema agrícola.
 
 
 #### 1.2.2.2. Lean UX Assumptions
@@ -470,12 +474,21 @@ Nuestro enfoque inicial estará en involucrar a grandes empresas agrícolas y pr
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Creemos que al implementar un sistema de seguimiento y análisis de datos agrícolas, podemos mejorar la toma de decisiones y la eficiencia en las operaciones agrícolas.
-- Creemos que al integrar funcionalidades de pronóstico meteorológico en la plataforma, podemos ayudar a los agricultores a tomar medidas preventivas contra eventos climáticos adversos.
-- Creemos que al ofrecer una interfaz intuitiva y fácil de usar en la plataforma, podemos aumentar tanto por parte de los usuarios, lo que resultará en una mayor satisfacción del cliente y una mayor retención.
-- Creemos que al ofrecer herramientas de análisis de rendimiento de cultivos en tiempo real, podemos proporcionar a los agricultores información detallada sobre el rendimiento de sus cultivos y áreas de mejora, lo que resultará en una optimización de los procesos de producción agrícola.
-- Creemos que al incorporar características de planificación de cultivos y rotación de cultivos en la plataforma, podemos ayudar a los agricultores a maximizar el rendimiento de sus tierras y mejorar la sostenibilidad a largo plazo de sus operaciones.
-- Creemos que al estar al tanto del bienestar animal, podemos proporcionar a los ganaderos información crucial sobre la salud y el comportamiento de su ganado, lo que resultará en una mejor atención y manejo, así como en la detección temprana de problemas de salud.
+Siguiendo el siguiente formato, extraido del libro "Lean Ux, 3rd edition", escrito por Jeff Gothelf y Josh Seiden: "We believe that [business outcome] will be achieved if [user] attains [user benefit] with [feature]".
+
+
+1. Nosotros creemos que el aumento de  la adopción y fidelización  de usuarios  será conseguido si los dueños de granja y agricultores independientes tienen una mejora en la gestión de operaciones agrícolas y en la calidad de los productos con la implementación de planes estándar y premium que se adapten a lo que necesite el usuario, ofreciendo así una mayor flexibilidad y valor agregado.
+
+
+2. Nosotros creemos que el establecimiento de alianzas estratégicas entre empresas y granjas será conseguido si las empresas agrícolas y ganaderas interesadas en asociarse con granjas. Tienen una facilitación en la visualización  y colaboración entre granjas y empresas con el uso del catálogo de granjas para alianzas empresariales. 
+
+3. Nosotros creemos que el establecimiento de alianzas estratégicas entre empresas y granjas será conseguido si los dueños de granjas y agricultores independientes tienen una facilitación en la visualización y colaboración entre granjas y empresas con la funcionalidad de valoración y contacto de granja.
+
+4. Nosotros creemos que la reducción de pérdidas económicas y de productos será conseguido si los dueños de granjas y agricultores independientes tienen una mejora en la gestión de operaciones agrícolas y en la calidad de productos con un sistema de seguimiento en tiempo real del estado de los cultivos y el bienestar animal en la plataforma,
+
+5.Nosotros creemos que la reducción de pérdidas económicas y calidad de productos será conseguida si los trabajadores agrícolas y personal de granja tienen una mayor eficiencia y productividad en las tareas de la granja con la implementación de características de comunicación en tiempo real y herramientas de colaboración para mejorar la coordinación entre propietarios de granjas  y trabajadores agrícolas.
+
+6. Nosotros creemos que la reducción de pérdidas económicas y calidad de productos será conseguida si los dueños de granja y agricultores independientes tienen una mejora en la gestión de operaciones agrícolas y en la calidad de productos con una plataforma tecnológica completa para la gestión eficaz de actividades agrícolas y ganaderas
 
 #### 1.2.2.4. Lean UX Canvas
 
