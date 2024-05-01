@@ -237,6 +237,10 @@ Encargado de llevar a cabo entrevistas con un grupo específico de personas, tam
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
 FarmLogiTech es una plataforma fundada el 22 de marzo de 2024 por un equipo de cinco estudiantes. El propósito es brindar soluciones completas para la administración agrícola, promoviendo la cooperación entre corporaciones, propietarios de granjas y trabajadores del campo.
+
+**Misión**: Nuestra misión en FarmLogiTech es revolucionar la industria agrícola al proporcionar soluciones tecnológicas integrales que optimicen la gestión de las actividades agrícolas, promoviendo la colaboración y la eficiencia en toda la cadena de valor. Nos esforzamos por empoderar a los agricultores, corporaciones y trabajadores del campo al ofrecer herramientas innovadoras que impulsen el crecimiento sostenible, la productividad y el bienestar tanto de las personas como del medio ambiente.
+
+**Visión**: En FarmLogiTech, visualizamos un futuro donde la tecnología agrícola transforma radicalmente la forma en que se cultiva, gestiona y distribuye la comida en todo el mundo. Nos vemos como líderes en la vanguardia de esta transformación, siendo reconocidos por nuestra capacidad para conectar a los diferentes actores del sector agrícola y proporcionar soluciones que aborden los desafíos más apremiantes de la agricultura moderna. Aspiramos a crear un ecosistema agrícola global más colaborativo, eficiente y sostenible, donde la innovación tecnológica impulse el progreso y mejore la calidad de vida de las comunidades agrícolas en todo el planeta.
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center" border="1" width="70%" style="text-align:center;">
@@ -402,37 +406,48 @@ Giacomo Zoppi Rodríguez
 ### 1.2.1. Antecedentes y problemática
 La industria agrícola y ganadera enfrenta desafíos significativos en términos de mejorar la producción, calidad y gestión de cultivos y ganado. Los agricultores y ganaderos se ven presionados por el crecimiento de la población mundial y los cambios en las demandas del mercado, pero enfrentan obstáculos como la falta de herramientas tecnológicas, la coordinación ineficiente entre granjasy la escasez de información en tiempo real sobre el estado de los cultivos, condiciones climáticas y bienestar animal. Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
 
+Siguiendo la estructura propuesta
+
 -   **What?**
 
     La industria  enfrenta desafíos significativos en la gestión eficiente de las granjas, debido a la falta de herramientas tecnológicas adecuadas y la presión para aumentar la producción y calidad de los cultivos.
 
 
 -   **When?**
-
+    ¿Cuando estamos viendo el problema? 
     Este problema ha ido aumentando en los últimos años, especialmente con el crecimiento de la población y los cambios en las demandas del mercado agrícola.
+    
+    ¿En que momento del día y/o del proceso en cuestión?
+    Durante las horas de trabajo y en el proceso de organización de tareas.  
 
 -   **Where?**
-
+      ¿Donde estamos viendo los problemas?¿En que parte/lugar del producto/proceso estamos viendo el problema?
     Este problema es global y afecta a las granjas en diversas regiones del mundo, tanto en países desarrollados como en desarrollo.
 
 -   **Who?**
-
-    Los agricultores, tanto pequeños como grandes, están directamente involucrados en estas dificultades, ya que son responsables de la producción agrícola y deben enfrentar las demandas del mercado.
+      ¿A quien le sucede? ¿El problema está relacionado con las habilitades de las personas?
+    Los agricultores, tanto pequeños como grandes, están directamente involucrados en estas dificultades, ya que son responsables de la producción agrícola y deben enfrentar las demandas del mercado. Asi que sí, esta relacionado con sus habilidades en cuanto a teconologia y organización se refiere. 
 
 - **Why?**
-
+    ¿Por qué sucede el problema? ¿Cual es la causa?
   Es crucial abordar esta problemática porque la agricultura desempeña un papel fundamental en la alimentación de la creciente población mundial y en la economía global.
 
 -   **How?**
-
-    Se necesitan soluciones tecnológicas innovadoras que ayuden a los agricultores a optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola.
-
+    ¿Como se diferencia el problema del estado normal(optimo)? ¿La tendencia en la que aparece el problema es aleatoria o sigue un patrón?
+    El problema genera que muchas veces el sistema de organización resulte ineficaz. En su lugar, si el sistema fuera optimo, las tareas serian claras y la producción seria mucho mas         eficiente. 
+    ¿Como se utilizará el producto? 
+    Permitirá a los agricultores optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola.
+    
 -   **How much?**
-
+    ¿Cuantos problemas se dan en un dia? ¿En una semana? ¿En un mes?
+    Esto genera dificultades en el dia a dia de los dueños de granjas y agricultores independientes. 
+    ¿Cuanto dinero están implicando?
     El costo de implementar estas soluciones tecnológicas puede variar dependiendo de la escala de la granja y los recursos disponibles para la adopción de tecnología agrícola.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
+Siguiendo la estructura propuesta por Jeff Gothelf y Josh Seiden, en su libro "Lean Ux":
 
 - El estado actual de la industria agricola se ha centrado en la administación de tareas agricolas con herramientas anticuadas y poco eficaces . Estos pain points incluyen desafios en las operaciones de granja como la organización del trabajo. 
 
@@ -472,6 +487,8 @@ Sabremos que hemos tenido éxito cuando veamos un aumento en la adopción de nue
 - Dueños de Granjas: Mayor eficiencia en la gestión de las operaciones agrícolas y aumento en la rentabilidad.
 - Trabajadores de Granjas: Facilidad para realizar tareas diarias y mejora en su eficiencia laboral.
 
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 Siguiendo el siguiente formato, extraido del libro "Lean Ux, 3rd edition", escrito por Jeff Gothelf y Josh Seiden: "We believe that [business outcome] will be achieved if [user] attains [user benefit] with [feature]".
@@ -500,19 +517,16 @@ Siguiendo el siguiente formato, extraido del libro "Lean Ux, 3rd edition", escri
 
 
 **Dueños de Granjas y Agricultores Independientes:**
--  Propietarios de granjas de diferentes tipos, ya sea ganado o cultivos.
-- Buscan herramientas tecnológicas para optimizar la gestión de sus operaciones agrícolas o ganaderas.
-- Interesados en mejorar la eficiencia, productividad y rentabilidad de sus cultivos y ganado.
 
-**Trabajadores de granja:**
-- Empleados que realizan tareas diarias en las granjas, como la siembra, el riego, la cosecha y el cuidado del ganado.
-- Necesitan herramientas prácticas y fáciles de usar para realizar sus tareas de manera eficiente y colaborativa.
-- Buscan mejorar su productividad y contribuir al éxito general de la granja.
+Los propietarios de granjas y agricultores independientes representan una diversidad de tipos de granjas, incluyendo ganado y cultivos. La mayoría, aproximadamente el 80%, se dedican principalmente a la venta de sus productos, aunque un segmento significativo, el 20%, también los destina al autoconsumo. Predominantemente masculino, con un 64.88%, y con niveles educativos variados, donde un 36.9% ha culminado la secundaria y un 44.6% solo cuenta con educación primaria. Mayormente operan en granjas de pequeña escala, con un 92.7% poseyendo menos de 10 hectáreas (Santisteban,2022). Su principal fuente de ingresos proviene de actividades agrarias, y aunque la mayoría posee un celular, solo un pequeño porcentaje recibe asistencia técnica. Buscan activamente herramientas tecnológicas para mejorar la gestión de sus operaciones agrícolas o ganaderas, con un interés claro en optimizar la eficiencia, productividad y rentabilidad de sus cultivos y ganado.
 
-**Empresas y Corporaciones del Sector Agrícola y Ganadera:**
-- Empresas agrícolas, procesadores de alimentos y distribuidores.
-- Buscan establecer asociaciones estratégicas con granjas para mejorar la cadena de suministro y obtener productos  de alta calidad.
-- Interesados en alquilar o comprar granjas.
+**Trabajadores de Granja:**
+
+Los trabajadores de granja desempeñan tareas esenciales en las operaciones diarias, como siembra, riego, cosecha y cuidado del ganado. Este grupo necesita herramientas prácticas y de fácil uso para realizar sus labores de manera eficiente y colaborativa. Gran parte de los trabajadores de granja no son dueños, sino que tienen roles comunitarios, como comuneros o poseesionarios, por lo que cumplen con una serie de responsabilidades y tareas guiadas por una persona con un rol superior; sin embargo, tan solo un 0.41% utiliza tecnología para poder elaborar su trabajo (Santisteban,2022). Su objetivo principal es mejorar la productividad y contribuir al éxito general de la granja y predomina el género masculino. 
+
+**Empresas y Corporaciones del Sector Agrícola y Ganadero:**
+
+Las empresas y corporaciones en este sector abarcan una amplia gama, desde empresas agrícolas hasta procesadores de alimentos y distribuidores. Están interesadas en establecer asociaciones estratégicas con granjas para mejorar la cadena de suministro y obtener productos de alta calidad. Un dato relevante es que el 70% de los alimentos consumidos por los 32 millones de peruanos proviene de la agricultura familiar, lo que indica la importancia económica de la industria alimentaria. Estas empresas también pueden estar interesadas en alquilar o comprar granjas para expandir sus operaciones. 
 
 
 # CAPITULO II: Requirements Elicitation & Analysis
