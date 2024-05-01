@@ -50,7 +50,8 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
 |:-------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|TB1| 02/04/2024 |Todos los integrantes del equipo| El equipo colaboró en la definición de la solución propuesta a través de un análisis Lean UX e identificación del segmento objetivo. Se recopilaron todos los requisitos necesarios, incluidos User Person, Product Backlog, Impact Mapping, entre otros. Luego se diseñaron maquetas y prototipos wireframe y mockups en base a la información recopilada. Finalmente, implementamos la landing page utilizando el sprint backlog para garantizar un control efectivo del progreso realizado.| 
+|1.0.0| 02/04/2024 |Todos los integrantes del equipo| TB1: El equipo colaboró en la definición de la solución propuesta a través de un análisis Lean UX e identificación del segmento objetivo. Se recopilaron todos los requisitos necesarios, incluidos User Person, Product Backlog, Impact Mapping, entre otros. Luego se diseñaron maquetas y prototipos wireframe y mockups en base a la información recopilada. Finalmente, implementamos la landing page utilizando el sprint backlog para garantizar un control efectivo del progreso realizado.| 
+|2.0.0| 02/05/2024 |Todos los integrantes del equipo| TP: El equipo colaboró corrigiendo errores y puliendo detalles de la entrega anterior. Luego, diseñamos nuestro Web Application Service, con el uso de Angular y sus componentes. | 
 
 <br><br>
 
@@ -226,7 +227,7 @@ En esta entrega, me encargue de realizar y apoyar en la creación de los diagram
      <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
 Encargado de llevar a cabo entrevistas con un grupo específico de personas, también dirigió la sección de sprint, que incluye la lista de tareas pendientes y la planificación del mismo. Además, contribuyó en la creación de la página de inicio utilizando los diseños proporcionados en Figma.<br><br>
      <b>Zoppi Rodríguez, Giacomo</b><br>
-     Colocar información<br><br>
+     Durante el proyecto, tuve que aprender sobre el funcionamiento de una granja, tuve que dirigir la sección de la base de datos, así como el diagrama de clases. También contribuí con los user flow diagrams y el landing page. <br><br>
 </td>
  <td>TB1: Gracias al proyecto, pudimos conectar con individuos dentro de la industria y comprender lo beneficioso que podría resultarles una aplicación como la que estamos proponiendo para facilitar sus actividades diarias. <br><br></table>
 
@@ -251,9 +252,16 @@ Mathias Tsuneo Kunimoto Watanabe
     </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
+        <b>Código de estudiantes: </b>
         <br>
-        Ing. de Software
+        u202210148
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera: </b>
+        <br>
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
@@ -274,11 +282,18 @@ Mathias Tsuneo Kunimoto Watanabe
 Rodrigo Alejandro Aguilar Castillo
 </td>
     </tr>
-     <tr>
+    <tr>
         <td align="left">
-        <b>Carrera:</b>
+        <b>Código de estudiantes: </b>
         <br>
-        Ing. de Software
+        u202210584
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera: </b>
+        <br>
+        Ingeniería de Software
         </td>
     </tr>
    <tr>
@@ -298,11 +313,18 @@ Rodrigo Alejandro Aguilar Castillo
 Fernando Brian Salgado Luna
 </td>
     </tr>
+     <tr>
+        <td align="left">
+        <b>Código de estudiantes: </b>
+        <br>
+        u202212023
+        </td>
+    </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
+        <b>Descripción de carrera: </b>
         <br>
-        Ing. de Software
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
@@ -322,11 +344,18 @@ Fernando Brian Salgado Luna
 Jean Franco Joel Barrionuevo Reto
 </td>
     </tr>
+     <tr>
+        <td align="left">
+        <b>Código de estudiantes: </b>
+        <br>
+        u202219284
+        </td>
+    </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
+        <b>Descripción de carrera: </b>
         <br>
-        Ing. de Software
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
@@ -346,11 +375,18 @@ Jean Franco Joel Barrionuevo Reto
 Giacomo Zoppi Rodríguez
 </td>
     </tr>
+     <tr>
+        <td align="left">
+        <b>Código de estudiantes: </b>
+        <br>
+        u202210029
+        </td>
+    </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
+        <b>Descripción de carrera: </b>
         <br>
-        Ing. de Software
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
