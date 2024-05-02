@@ -841,7 +841,7 @@ Preguntas Complementarias
 **Enlace de entrevista:** [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 #### Evidencia de la reunión:
 
-Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
+Rodrigo Noreña es un joven de 19 años que trabaja en una granja de cultivos de maracuyas en Huacho, Perú. Se muestra como alguien metódico y detallista, valorando la organización y el registro preciso de información. Prefiere evitar desafíos abrumadores y climáticos en su trabajo diario. Rodrigo es colaborativo y está dispuesto a brindar feedback para mejorar la plataforma FarmLogitech, que espera que sea fácil de usar y lo ayude a ser más eficiente. Su disposición a ser entrevistado nuevamente muestra su compromiso con el proyecto y su apertura a nuevas tecnologías para mejorar su trabajo.
 
 
 **Entrevista 02**: Harold López
@@ -884,7 +884,7 @@ Harold, un estudiante de 21 años y administrador de una granja familiar en Huan
 
 #### Evidencia de la reunión:
 
-Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo.
+Miriam Higashi, una administradora de granja avícola de 55 años de Jesús María, busca optimizar sus procesos y recursos para maximizar la productividad. Implementa estrategias como incentivos y aumentos de sueldo para estabilizar su personal. Estaría dispuesta a pagar por una aplicación que le ayude a gestionar su granja de manera eficiente, valorando la facilidad de uso y la capacidad de monitoreo en línea. Enfrenta desafíos como la rotación del personal y la fiscalización medioambiental, pero está abierta a nuevas tecnologías. Busca una plataforma que simplifique tareas y mejore la eficiencia. Aunque no ha tenido experiencia con plataformas similares, considera importante la adaptación de ideas innovadoras a su contexto. Miriam muestra una actitud positiva hacia la tecnología, buscando siempre mejorar su granja.
 
 **Minuto de la entrevista**: 13:12
 **Duración de la entrevista:** 7:00 minutos 
