@@ -671,36 +671,47 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 ¿A qué te dedicas?
 
 #### Segmento objetivo: Dueño
-- ¿Qué desafíos enfrenta actualmente al gestionar su granja?
-- ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
-- De tener experiencia en gestionar una granja, ¿cómo ha realizado las gestiones de toda la granja?
-- ¿Qué te parece más importante para un plataforma de gestion: la facilidad de uso de la plataforma, la seguridad de la informacion, la diversidad de opciones disponibles, u otros aspectos?
-- ¿Cuáles son las principales características que busca en una plataforma de gestion de granjas?
-- ¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestion de granjas de manera más frecuente?
-- ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
-- ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
-- ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
+1. ¿Qué desafíos enfrenta actualmente al gestionar su granja?
+2. ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
+3. De tener experiencia en gestionar una granja, ¿cómo ha realizado las gestiones de toda la granja?
+4. ¿Qué te parece más importante para un plataforma de gestion: la facilidad de uso de la plataforma, la seguridad de la informacion, la diversidad de opciones disponibles, u otros aspectos?
+5. ¿Cuáles son las principales características que busca en una plataforma de gestion de granjas?
+6. ¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestion de granjas de manera más frecuente?
+7. ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
+8. ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
+9. ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
+Preguntas Complementarias
+- ¿Cuales son sus frustraciones respecto la organización y administración de una granja?
+- ¿Cual es tu principal fuente de ingresos?
+- ¿Tus productos son solo para la venta o tambien de autoconsumo?
 
-#### Segmento objetivo: Administrador
-- ¿Qué tipo de productos agrícolas o ganaderos suelen adquirir para sus operaciones?
-- ¿Qué criterios son más importantes al seleccionar proveedores de productos agrícolas o ganaderos?
-- ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
-- ¿Qué información consideran crucial al evaluar a una granja como posible proveedor?
-- ¿Cómo prefieren comunicarse con las granjas proveedoras potenciales?
-- ¿Qué características o funcionalidades esperarían encontrar en una plataforma que facilite la conexión con granjas proveedoras?
-- ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
-- ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
-- ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
+#### Segmento objetivo: Administrador de Empresa Agropecuaria
+1. ¿Qué tipo de productos agrícolas o ganaderos suelen adquirir para sus operaciones?
+2. ¿Qué criterios son más importantes al seleccionar proveedores de productos agrícolas o ganaderos?
+3. ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
+4. ¿Qué información consideran crucial al evaluar a una granja como posible proveedor?
+5. ¿Cómo prefieren comunicarse con las granjas proveedoras potenciales?
+6. ¿Qué características o funcionalidades esperarían encontrar en una plataforma que facilite la conexión con granjas proveedoras?
+7. ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
+8. ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
+9. ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
+Preguntas complementarias:
+- ¿Que le inspira a trabajar en la administración?
+- ¿Cuales son sus objetivos laborales a dia de hoy?
+  
 #### Segmento objetivo: Trabajador
-- ¿Qué tipo de tareas realizas habitualmente en la granja?
-- ¿Qué herramientas o recursos necesitas para llevar a cabo tus tareas de manera eficiente?
-- ¿Qué aspectos de tu trabajo requieren una supervisión o seguimiento más cercano?
-- ¿Cuáles son los principales desafíos que enfrentas al llevar a cabo tus tareas diarias?
-- ¿Qué información consideras importante registrar sobre la producción de animales o cultivos?
-- ¿Qué funcionalidades te gustaría ver en una plataforma de gestión que facilite tu trabajo?
-- ¿Qué sugerencias o mejoras tendrías para una plataforma de gestión que te ayudaría a realizar tus tareas de manera más efectiva?
-- ¿Cómo crees que una plataforma de gestión podría ayudarte a mejorar tu productividad o eficiencia en el trabajo?
-- ¿Qué tan cómodo te sentirías utilizando tecnología para llevar a cabo tus tareas diarias en la granja?
+1. ¿Qué tipo de tareas realizas habitualmente en la granja?
+2. ¿Qué herramientas o recursos necesitas para llevar a cabo tus tareas de manera eficiente?
+3. ¿Qué aspectos de tu trabajo requieren una supervisión o seguimiento más cercano?
+4. ¿Cuáles son los principales desafíos que enfrentas al llevar a cabo tus tareas diarias?
+5. ¿Qué información consideras importante registrar sobre la producción de animales o cultivos?
+6. ¿Qué funcionalidades te gustaría ver en una plataforma de gestión que facilite tu trabajo?
+7. ¿Qué sugerencias o mejoras tendrías para una plataforma de gestión que te ayudaría a realizar tus tareas de manera más efectiva?
+8. ¿Cómo crees que una plataforma de gestión podría ayudarte a mejorar tu productividad o eficiencia en el trabajo?
+9. ¿Qué tan cómodo te sentirías utilizando tecnología para llevar a cabo tus tareas diarias en la granja?
+Preguntas Complementarias
+- ¿Haces uso de aplicaciones o dispositivos moviles?¿Cuales? ¿Que usos le brindas?
+- ¿Cuales son sus frustraciones respecto la organización y administración de una granja?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -720,6 +731,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
   </p>
 
 **Inicia:** 0:00
+**Duración de la entrevista:** 6:00 minutos 
 
 
 **Enlace de entrevista:** [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
@@ -745,6 +757,7 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 **URL de la entrevista**: [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 **Inicia**: 6:00
+**Duración de la entrevista:** 7:00 minutos 
 
 **Resumen de la entrevista**:
 
@@ -770,6 +783,7 @@ Harold, un estudiante de 21 años y administrador de una granja familiar en Huan
 Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo.
 
 **Minuto de la entrevista**: 13:12
+**Duración de la entrevista:** 7:00 minutos 
 
 **Link de la entrevista**: [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
@@ -812,6 +826,7 @@ Link de la entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.co
 </p>
 
 **Inicia:** 25:20
+**Duración de la entrevista:** 5:00 minutos 
 
 **Enlace de entrevista:** [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
@@ -841,6 +856,7 @@ Finalmente, mencionó las principales preocupaciones en términos de calidad, se
 Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta diversos desafíos en la gestión de su granja. La rotación de personal y las regulaciones medioambientales son preocupaciones constantes, mientras que la proximidad a áreas pobladas agrega complejidad a las operaciones. La renovación de equipos e infraestructura es esencial para mantener la competitividad en un mercado en constante cambio. En su granja, se especializa en la cría y producción avícola, priorizando el bienestar de las aves y la bioseguridad. Jorge ha implementado estrategias para estabilizar el equipo de trabajo y cumplir con las regulaciones, optimizando procesos y concientizando al personal sobre su papel en el éxito de la granja. Considera que la facilidad de uso es vital en cualquier plataforma de gestión y busca constantemente mejorar los procesos internos. La optimización del tiempo es crucial, y Jorge estaría dispuesto a pagar por una aplicación que mejore la eficiencia de su operación. En la búsqueda de herramientas prácticas en una plataforma de gestión, prioriza soluciones integrales que aborden los desafíos específicos de su granja avícola.
 
 **Inicia**: 29:12
+**Duración de la entrevista:** 4:00 minutos 
 
 **Link de la entrevista**: [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
