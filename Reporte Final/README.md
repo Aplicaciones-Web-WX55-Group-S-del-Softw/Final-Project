@@ -1000,10 +1000,8 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
   Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860 
 ## 2.4 Ubiquitous Language
 - **Outcomes**: Se refiere a los efectos o consecuencias de una acción o evento.
-- **Fidelization**(Fidelización): Proceso de convertir a clientes ocasionales en clientes leales y recurrentes.
 - **Communal farmer**(Comunero): Individuo que es miembro de una comunidad agrícola y posee tierras de manera comunal.
 - **Landholder**(Posesionario): Persona que posee derechos de uso sobre una propiedad, pero no es el propietario legal.
-- **Stakeholders**(Partes interesadas): Personas, grupos o entidades que tienen interés o están afectados por una organización, proyecto o situación.
 - **Profile**(Perfil): Descripción o representación de las características, habilidades o historial de una persona o entidad.
 - **Inventory**(Inventario): Lista detallada de bienes, productos o recursos disponibles en un determinado momento.
 - **Monitory**(Monitoreo): Acción de vigilar, supervisar o controlar continuamente una situación o actividad.
@@ -1762,6 +1760,10 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
 
 
 ## 3.3 Impact Mapping
+![Imagen de Impact Mapping del dueño de granja y empresaria](https://camo.githubusercontent.com/60494495a22e22d53a6d9bdf085461386f32857b01ecf5339ec50851db8e350a/68747470733a2f2f692e706f7374696d672e63632f54314e54486a46562f496d706163742d4d617070696e672d4475652d6f2d64652d6772616e6a612d792d456d707265736172696f2e6a7067)
+
+![Imagen de Impact Mapping del dueño de granja y empresaria](https://i.postimg.cc/RFGYLGJV/impact-map-due-oempresas.jpg)
+
 
 ## 3.4 Product Backlog
 
@@ -1797,7 +1799,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como dueño de granja, quiero crear y asignar tareas a los trabajadores para mejorar la gestión de la mano de obra en mi finca.
         </td>
         <td>
-            8
+            4
         </td>
     </tr>
     <tr>
@@ -1814,7 +1816,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como usuario potencial, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola y ganadera.
         </td>
         <td>
-            5
+            4
         </td>
     </tr>
     <tr>
@@ -1882,7 +1884,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como empresario, quiero buscar y contactar a dueños de granjas potenciales, para establecer asociaciones comerciales y mejorar nuestra cadena de suministro.
         </td>
         <td>
-            8
+            4
         </td>
     </tr>
     <tr>
@@ -1899,7 +1901,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como dueño de la granja, quiero verificar fácilmente los niveles de inventario de productos agrícolas y ganaderos, y recibir notificaciones cuando sea necesario reponerlos, para garantizar un flujo de trabajo ininterrumpido.
         </td>
         <td>
-            5
+            4
         </td>
     </tr>
     <tr>
@@ -2137,7 +2139,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como desarrollador, necesito crear una API RESTful, para permitir que la plataforma web se comunique con el backend y acceda a los datos agrícolas y ganaderos de los usuarios.
         </td>
         <td>
-            8
+            5
         </td>
     </tr>
     <tr>
@@ -2205,7 +2207,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como desarrollador, necesito garantizar la escalabilidad del sistema, para manejar un creciente número de usuarios y datos agrícolas sin comprometer el rendimiento.
         </td>
         <td>
-            5
+            4
         </td>
     </tr>
     <tr>
@@ -2222,7 +2224,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como dueño de la granja, quiero un informe detallado sobre la producción y la gestión de la granja, para garantizar el cumplimiento de los estándares de calidad y rentabilidad.
         </td>
         <td>
-            5
+            4
         </td>
     </tr>
     <tr>
