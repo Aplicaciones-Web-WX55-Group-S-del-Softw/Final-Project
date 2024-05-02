@@ -576,7 +576,7 @@ Siguiendo el siguiente formato, extraido del libro "Lean Ux, 3rd edition", escri
 
 #### 1.2.2.4. Lean UX Canvas
 
-![modelo_canvas](https://i.postimg.cc/YSMYWDhv/modelo-canvas.jpg)
+![modelo_canvas](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/eef04133-7c88-45f7-80b2-011204f9b328)
 
 
 ## 1.3. Segmentos Objetivo
