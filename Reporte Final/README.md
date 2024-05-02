@@ -2372,10 +2372,15 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
 
 ### Branding:
 - Esta imagen simboliza nuestra dedicación a la agricultura y a los animales. Al unirse a nosotros, los usuarios experimentarán una conexión sólida y colaborativa, reflejada en nuestra comunidad.
-
-<div align=center>
+  <div align=center>
    <img src="/assets/img-logo-farm.jpeg" alt="Logo-farm"></img>
 </div>
+#### Brand Name:
+      Farm: Este término se refiere a la agricultura o a las actividades relacionadas con la producción de cultivos y/o cría de animales. En inglés, "farm" significa granja.
+      Logi: Esta parte del nombre deriva de "logística", que se refiere a la organización y gestión eficiente de los recursos, materiales y actividades en las operaciones agrícolas.
+      Tech: Es una abreviatura de "technology" en inglés, que significa tecnología. 
+
+
 
 ### Typography:
 - La tipografía de nuestro logotipo adoptará el elegante estilo Semibold, reconocido por su modernidad y su atractivo visual para nuestros usuarios. Este estilo no solo refleja la innovación y la creatividad que caracterizarán a nuestra aplicación, sino que también resalta la vanguardia que buscamos transmitir.
@@ -2395,6 +2400,27 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
 </div>
 <br>
 
+### Spacing:
+Estos son los espaciados que utilizamos a la hora de elaborar nuestro proyecto. 
+![Espaciados](https://i.postimg.cc/kgH0Rj3Q/spacing.png)
+
+## Tone of Voice
+Tomando en cuenta las 4 dimensiones del tono de voz descritas por Kate Moran en su articulo, nos hemos decidido por inclinarnos mas hacia estos 4 tonos: 
+
+Dimension del humor: 
+Serio: En FarmLogiTech, creemos que es importante mantener un tono serio para transmitir confiabilidad y profesionalismo. Es crucial comunicar seriedad en el enfoque.
+
+Dimensión de la formalidad: 
+Formal:  Los usuarios, especialmente los propietarios de granjas y las empresas agrícolas, esperarán un tono formal que refleje el nivel de profesionalismo y experiencia de FarmLogiTech en el campo agrícola.
+
+Dimensión del respeto:
+Respetuoso: El respeto hacia los usuarios, clientes y colaboradores es fundamental para construir relaciones sólidas y duraderas.
+
+Dimensión del entusiasmo:
+Entusiasta: Aunque se mantiene un tono serio y formal, agregar un toque de entusiasmo puede generar interés y motivación entre los usuarios. 
+
+![Tone of voice](https://i.postimg.cc/NFL8XxwX/tone-of-voice.png)
+
 ### 4.1.2. Web Style Guidelines
 
 *Icons:*
@@ -2411,10 +2437,32 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
 
 - Y los que usaremos en el proyecto principalmente son los de 768px y 1024px, ya que son los más comunes en los dispositivos móviles y de escritorio.
 
+*Tarjetas*
+Se hace uso del componente "mat-card" de la colección de Angular Material para representar algunas imagenes, cuadros, etc. 
+
+*Botones*
+Se utilizan los botones en la parte inferior de algunas secciones de la web. Principalmente, los usamos para el guardado de datos. 
+
+*Tablas*
+Las tablas, por lo general, blancas y grises. Son el elemento que usamos para mostrar los datos de registros asi como historiales y listas. 
+
+*Barras de búsqueda*
+Solemos usarlos para la selección de datos del usuario. Así mismo, algunas tienen la posibilidad de ingresar datos escritos como de seleccioar datos especificos predeterminados. Los usamos para la busqueda, los filtros y la adicion de datos. 
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 
-Al entrar a nuestro Website, el usuario podrá visualizar 5 secciones: El inicio, las tarifas, Login (Administradores) y publica tu anuncio .
+Empleamos tres diferentes formas en la organización visual de contenido: 
+
+- **La organización de forma jerárquica** presenta al usuario con un orden de importancia para los elementos que se muestran en pantalla. Los empleamos en las pantallas de ingresos de datos, asi como listado de datos. Los titulos acaparan gran parte de la pantalla, asi como aquellas imagenes o textos que tienne un mayor nivel de importancia que otros elementos en pantalla.
+- **La organización secuencial** presenta al usuario una especie de camino o paso a paso para completar la tarea que necesitan. Empleamos esto en las secciones de añadir tarea o añadir empleado que usan una secuencia de pantallas para poder registrar la información necesiaria. De igual modo, para hacer el pago de la paquete Premium, tambien seguimos una secuencia que permita hacer la adquisición.
+- **Organización matricial** presenta al usuario una matriz, asi como la libertad de escoger el camino de navegación que siguen. Los usamos unicamente en la presentación principal de la pagina, en la que el usuario puede visualizar las granjas destacadas como una matriz. En esta vista, el usuario puede escoger la granja en la cual
+
+- **Esquemas de organización**
+      -**Chronological Schemes**: Los empleamos en la vista de emergencias. El historial de emergencias esta organizado de forma que primero se ve la mas reciente. Así como el historial de pagos. 
+      -**Topic Schemes**: Con los filtros de busqueda de granjas, asi como de animales o de cultivos, se pueden aplicar diferentes topicos: como el tipo, el tipo de galpón, especies, etc. 
+      -**Audience schemes**: Cada uno de lossegmentos objetivos tiene un propósito diferente al momento de acceder. Los trabajadores tienen su propia pestaña dedicada a observar sus tareas pendientes. El dueño de granja puede visualizar todo el contenido de su granja, asi como sus empleados y sus pagos. Finalmente, las empresas visualizan las granjas y sus numeros de contacto. 
+
 
 ### 4.2.2. Labeling Systems
 
