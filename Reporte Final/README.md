@@ -473,19 +473,49 @@ Sabremos que hemos tenido éxito cuando veamos un aumento en la adopción de nue
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes:**
-- Aumento de la productividad y eficiencia en las operaciones agrícolas.
-- Mejora en la colaboración entre empresas grandes y dueños de granjas.
-- Incremento en la rentabilidad y calidad de los productos agrícolas.
+1. **Creemos que nuestros usuarios necesitan**: Una forma mas eficaz de organizar las actividades, producción, egresos y ventas de su granja. Así como facilitar la comunicación entre empresas y granjas. 
+2. **Estas necesidades se pueden satisfacer**: Con la creación de un proyecto que les permita acceder a estas funcionalidades desde su telefono movil u ordenador. 
+3. **Nuestros clientes iniciales serán**: Los dueños de granjas, trabajadores de granjas y empresas. 
+4. **El valor #1 que un cliente quiere de nuestro servicio es:** registrar y organizar la producción de su granja
+   **Los clientes tambien pueden obtener:** la visualización, promoción y facil asociacion con empresas. 
+5. **Vamos a obtener la mayoria de los clientes mediante** publicidad en linea y campañas en internet o televisión. 
+6. **Vamos a hacer dinero mediante** las suscripciones premium. 
+7. **Nuestra competencia en el mercado serán** las plataformas dedicadas tambien a la organización de actividades de granja. 
+    **Vamos a tener ventaja frente a nuestra competencia debido a**que ofrecemos un registro de animales, cultivos, galpones, asi como una promoción de granjas. 
+8. **El mayor riesgo de producción es** que el segmento objetivo, en especial los trabajadores de granja o dueños de granja no se encuentren dispuestos a cambiar su modus operandi y adaptarse al avance tecnologico. 
+   **Lo resolvemos realizando**una promoción adecuada que logre cautivar a nuestro segmento obejtivo. Así como una interfaz accesible y facil de utilizar. 
+9. **Que otros assumptions tenemos, que si son probados como falsos, podria ocasionar que nuestro proyecto fracase:**Las empresas grandes no usen nuestra aplicación para comunicarse con los dueños de granjas. En ese caso, perderiamos gran parte de nuestro segmento, así como la funcionalidad de promoción de granjas y asociación con empresas. 
 
-**Users:**
-- Empresas Grandes: Interesadas en mejorar su cadena de suministro y obtener productos agrícolas de alta calidad.
-- Dueños de Granjas: Buscan optimizar la gestión de sus operaciones y aumentar su rentabilidad.
-- Trabajadores de Granjas: Necesitan herramientas para facilitar la realización de tareas diarias y mejorar su eficiencia.
+User Assumptions
+**1. ¿Quien es el usuario?**
+   - Empresas Grandes
+   - Dueños de Granjas
+   - Trabajadores de Granjas
+**2. ¿Donde entra nuestro producto en su trabajo o su vida?**
+   - Entra en su trabajo directamente. Encaja en la mejora de la gestión de procesos en una granja, lo que culmina en una mayor rentabilidad, así como un mejor funcionamiento de las granjas. 
+**3. ¿Cual es el problema que nuestro producto soluciona?**
+   - La dificil comunicación que puede resultar entre granjas y empresas. Así, como la desconfianza que puede haber en los productos de la granja. Además abre la puerta a negocios nuevos en un mercado saturado.
+   - Problemas de optimización en las operaciones, asi como de organización y de promoción. 
+   - Necesitan herramientas para facilitar la realización de tareas diarias y mejorar su eficiencia.
+**4. ¿Como y cuando nuestro producto es usado?**
+   El servicio será usado por los dueños y trabajadores de granja durante su jornada laboral o antes, para poder designar las tareas con anticipación o registrar el ingreso de nuevos animales o cultivos. Mientras que, por las empresas podrá ser utilizado cuando surja la necesidad de encontrar nuevos proveedores y formar alianzas estratégicas con agricultores. 
+**5. ¿Que caracteristicas son importantes?**
+    - Un correcto funcionamiento
+    - Organización de tareas y actividades de granja
+    - Registro y organización de empleados.
+    - Asignación de tareas a empleados
+    - Registro y organización de animales, cultivos y galpones.
+    - Promoción, publicación y rating de granjas. 
+**6. ¿Como deberia nuestro producto verse o comportarse?**
+    El producto debe verse con una interfaz simple, interactiva, atractiva e inclusiva. Debe poder comportarse correctamente, ser capaz de llamar la atención de quien la use, pero tambien otorgar una experiencia innovadora y acogedora a nuestro segmento objetivo.
+    
+
 
 **User Outcomes:**
 - Empresas Grandes: Acceso a productos agrícolas de alta calidad y mejora en la eficiencia de su cadena de suministro.
 - Dueños de Granjas: Mayor eficiencia en la gestión de las operaciones agrícolas y aumento en la rentabilidad.
 - Trabajadores de Granjas: Facilidad para realizar tareas diarias y mejora en su eficiencia laboral.
+
 
 
 
