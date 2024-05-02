@@ -8,7 +8,7 @@
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Aplicaciones Web - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TB1
+    <br>INFORME DE TRABAJO FINAL - TP
 </p>
 
 <p align="center">
