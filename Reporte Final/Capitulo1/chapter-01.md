@@ -203,15 +203,28 @@ En esta entrega se realicé el diseño de la experiencia de usuario (UX) y la in
         <br><br>
      <b>Zoppi Rodríguez, Giacomo</b><br>
     En esta entrega, me encargue de realizar y apoyar en la creación de los diagramas de clase y de base de datos, así como su diccionario. También, desarrollé parte del capitulo 5 y el landing page <br><br>
-    <td>TB1: Hemos optado por un servicio de gestión y logística para granjas con el objetivo de asistir a todos los profesionales involucrados en esta industria. Nuestra startup busca abordar los desafíos de falta de organización y desperdicio de recursos que pueden ocasionar pérdidas significativas.<br><br>
+<b>TP</b><br>
+
+<b>Aguilar Castillo, Rodrigo Alejandro</b><br>
+Durante esta entrega, llevamos a cabo la implementación completa de los features relacionados con las suscripciones y los métodos de pago. <br><br>
+<b>Barrionuevo Reto, Jean Franco Joel</b><br>
+Durante esta fase de desarrollo, hemos completado la implementación total de las funcionalidades vinculadas al dashboard analytics y c4 model.
+
+<b>Salgado Luna, Fernando Brian</b><br>
+En esta etapa del desarrollo, hemos finalizado la implementación completa de todas las funciones relacionadas con el social-interaction y el communication management
+
+<b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
+Mediante la implementacion de esta entrega, hemos completado integrar las funcionalidades relacionadas con las búsquedas y encontrar granjas en la plataforma. <br><br>
+<b>Zoppi Rodríguez, Giacomo</b><br>
+Durante esta fase de desarrollo, hemos completado la implementación total de todas las funcionalidades relacionadas con el monitoreo, la corrección del diagrama de clases, los mapas de empatía y el lenguaje ubiquitous.
+
+<td>TB1: Hemos optado por un servicio de gestión y logística para granjas con el objetivo de asistir a todos los profesionales involucrados en esta industria. Nuestra startup busca abordar los desafíos de falta de organización y desperdicio de recursos que pueden ocasionar pérdidas significativas.<br><br>
+TP: Implementamos un sitio web para ofrecer un servicio de gestión y logística de granjas, con el objetivo de asistir a todas las personas involucradas en este sector. Nos propusimos abordar la problemática de la falta de organización e implementar todos los feature, que puede ayudar a este sector, mediante nuestra startup.<br><br>
 
 
 
-</td>  
 
-
-
-
+</td>
 </tr>
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
@@ -227,8 +240,26 @@ En esta entrega se realicé el diseño de la experiencia de usuario (UX) y la in
 Encargado de llevar a cabo entrevistas con un grupo específico de personas, también dirigió la sección de sprint, que incluye la lista de tareas pendientes y la planificación del mismo. Además, contribuyó en la creación de la página de inicio utilizando los diseños proporcionados en Figma.<br><br>
      <b>Zoppi Rodríguez, Giacomo</b><br>
      Me encargué de el diseño de las base de datos y diagrama de clases, que son parte esencial de la implementación de una landing page y un proyecto de Aplicacion Web. <br><br>
+<b>TP</b><br>
+
+<b>Aguilar Castillo, Rodrigo Alejandro</b><br>
+
+En la implementación, gestioné la asignación de tareas al grupo de desarrollo para su implementación durante el sprint 2. También estuve a cargo de coordinar y ejecutar exitosamente el proceso de merge entre los diferentes branches y la rama principal del repositorio.
+
+<b>Barrionuevo Reto, Jean Franco Joel</b><br>
+Durante esta fase de desarrollo, logré completar totalmente la implementación de las funcionalidades asociadas al dashboard analytics y al modelo C4.
+
+<b>Salgado Luna, Fernando Brian</b><br>
+En la implementación, realice la gestión relacionada con la social-interaction y el communication management.
+
+<b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
+Además de realizar la implementación, coordiné la asignación de tareas al equipo de desarrollo para su ejecución durante el sprint 2. También tuve la responsabilidad de corregir y llevar a cabo de manera efectiva como arreglar el código. <br><br>
+<b>Zoppi Rodríguez, Giacomo</b><br>
+En la implementación, lideré la gestión relacionada con el monitoreo, la corrección del diagrama de clases, la elaboración de mapas de empatía y el establecimiento del lenguaje ubiquitous.
 </td>
- <td>TB1: Gracias al proyecto, pudimos conectar con individuos dentro de la industria y comprender lo beneficioso que podría resultarles una aplicación como la que estamos proponiendo para facilitar sus actividades diarias. <br><br></table>
+
+ <td>TB1: Gracias al proyecto, pudimos conectar con individuos dentro de la industria y comprender lo beneficioso que podría resultarles una aplicación como la que estamos proponiendo para facilitar sus actividades diarias. <br><br>
+TP:Gracias a la ejecución del proyecto, pudimos establecer conexiones con profesionales de la industria y comprender el potencial beneficioso que una aplicación como la nuestra podría ofrecer al simplificar las actividades cotidianas. <br><br></table>
 
 <br><br>
 
