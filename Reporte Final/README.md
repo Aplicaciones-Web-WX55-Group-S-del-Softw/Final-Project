@@ -516,7 +516,13 @@ User Assumptions
 - Dueños de Granjas: Mayor eficiencia en la gestión de las operaciones agrícolas y aumento en la rentabilidad.
 - Trabajadores de Granjas: Facilidad para realizar tareas diarias y mejora en su eficiencia laboral.
 
-
+**Feature Assumptions**
+- **Creemos que** el producto debe contar con planes estandares y premium que se adapten a lo que necesite el usuario, ofreciendo así una mayor flexibilidad y un valor agregado.
+- **Creemos que** el producto debe podar hacer uso del catálogo de granjas para alianzas empresariales.
+- **Creemos que** el producto debe poder ofrecer la funcionalidad de valoración y contacto de granja.
+- **Creemos que** el producto debe ofrecer un sistema de seguimiento en tiempo real del estado de los cultivos y el bienestar animal en la plataforma,
+- **Creemos que** el prodcuto debe implementar características de comunicación en tiempo real y herramientas de colaboración para mejorar la coordinación entre propietarios de granjas  y trabajadores agrícolas.
+- **Creemos que** el producto debe ofrecer una plataforma tecnológica completa para la gestión eficaz de actividades agrícolas y ganaderas
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
@@ -524,14 +530,14 @@ User Assumptions
 Siguiendo el siguiente formato, extraido del libro "Lean Ux, 3rd edition", escrito por Jeff Gothelf y Josh Seiden: "We believe that [business outcome] will be achieved if [user] attains [user benefit] with [feature]".
 
 
-1. Nosotros creemos que el aumento de  la adopción y fidelización  de usuarios  será conseguido si los dueños de granja y agricultores independientes tienen una mejora en la gestión de operaciones agrícolas y en la calidad de los productos con la implementación de planes estándar y premium que se adapten a lo que necesite el usuario, ofreciendo así una mayor flexibilidad y valor agregado.
+1. Nosotros creemos que el aumento de  la adopción y fidelización  de usuarios  será conseguido si los dueños de granja y agricultores independientes tienen una mejora en la gestión de operaciones agrícolas y en la calidad de los productos con la implementación de planes estándar y premium que se adapten a lo que necesite el usuario, ofreciendo así una mayor flexibilidad y un valor agregado.
 
 
-2. Nosotros creemos que el establecimiento de alianzas estratégicas entre empresas y granjas será conseguido si las empresas agrícolas y ganaderas interesadas en asociarse con granjas. Tienen una facilitación en la visualización  y colaboración entre granjas y empresas con el uso del catálogo de granjas para alianzas empresariales. 
+2. Nosotros creemos que el establecimiento de alianzas estratégicas entre empresas y granjas será conseguido si las empresas agrícolas y ganaderas interesadas en asociarse con granjas tienen una facilitación en la visualización  y colaboración entre granjas y empresas con el uso del catálogo de granjas para alianzas empresariales. 
 
 3. Nosotros creemos que el establecimiento de alianzas estratégicas entre empresas y granjas será conseguido si los dueños de granjas y agricultores independientes tienen una facilitación en la visualización y colaboración entre granjas y empresas con la funcionalidad de valoración y contacto de granja.
 
-4. Nosotros creemos que la reducción de pérdidas económicas y de productos será conseguido si los dueños de granjas y agricultores independientes tienen una mejora en la gestión de operaciones agrícolas y en la calidad de productos con un sistema de seguimiento en tiempo real del estado de los cultivos y el bienestar animal en la plataforma,
+4. Nosotros creemos que la reducción de pérdidas económicas y de productos será conseguido si los dueños de granjas y agricultores independientes tienen una mejora en la gestión de operaciones agrícolas y en la calidad de productos con un sistema de seguimiento en tiempo real del estado de los cultivos y el bienestar animal en la plataforma.
 
 5.Nosotros creemos que la reducción de pérdidas económicas y calidad de productos será conseguida si los trabajadores agrícolas y personal de granja tienen una mayor eficiencia y productividad en las tareas de la granja con la implementación de características de comunicación en tiempo real y herramientas de colaboración para mejorar la coordinación entre propietarios de granjas  y trabajadores agrícolas.
 
