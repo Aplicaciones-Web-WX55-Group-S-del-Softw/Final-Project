@@ -982,27 +982,36 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 ### 2.3.4 Empathy Mapping
 A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
 - User Empathy Mapping trabajador en granja
-  ![Imagen de EmpathyMapping1]()
+  ![Imagen de EmpathyMapping1](https://i.postimg.cc/j5sJHjtr/empathy-map-trabajador.png)
 - User Empathy Mapping dueño de granja
-  ![Imagen de EmpathyMapping2]()
+  ![Imagen de EmpathyMapping2](https://i.postimg.cc/50nQnM2Q/empathy-map-due-odegranja.png)
 - User Empathy Mapping empresaria
-  ![Imagen de EmpathyMapping3]()
-  Enlace de Miro: https://miro.com/app/board/uXjVKYifYmY=/?share_link_id=198034930149
+  ![Imagen de EmpathyMapping3](https://i.postimg.cc/TPjD5b89/empathy-map-empresaria.png)
+  
 ### 2.3.5 As-Is Scenario Mapping
 A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
+Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las columnas correspondientes de forma individual. De ahi lo que hicimos fue identificar fases y agrupamos las ideas en las diferentes columnas. 
 - User As-Is Scenario trabajador en granja
   ![Imagen de As-Is1](https://i.postimg.cc/B6j4sVqb/Scenario-Mapping-Trabajador.jpg)
 - User As-Is Scenario dueño de granja
-  ![Imagen de As-Is2](https://i.postimg.cc/Zq74GSzX/Scenario-Mapping-Granjero.jpg)
+  ![Imagen de As-Is2](https://i.postimg.cc/L89XQbGz/as-is-due-ogranja.png)
 - User As-Is Scenario empresaria
-  ![Imagen de As-Is3](https://i.postimg.cc/tgC9vgwh/Scenario-Mapping-Empresaria.jpg)
-  Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860
+  ![Imagen de As-Is3](https://i.postimg.cc/sDR17XcH/as-is-empresa.png)
+  Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860 
 ## 2.4 Ubiquitous Language
-- **Plataforma**: Representación de un sistema digital
-- **Perfil**: Conjunto de datos del usuario
-- **Dispositivo**: IoT = Red de objetos y dispositivos que son capaces de transmitir y recibir datos usando internet
+- **Outcomes**: Se refiere a los efectos o consecuencias de una acción o evento.
+- **Fidelization**(Fidelización): Proceso de convertir a clientes ocasionales en clientes leales y recurrentes.
+- **Communal farmer**(Comunero): Individuo que es miembro de una comunidad agrícola y posee tierras de manera comunal.
+- **Landholder**(Posesionario): Persona que posee derechos de uso sobre una propiedad, pero no es el propietario legal.
+- **Stakeholders**(Partes interesadas): Personas, grupos o entidades que tienen interés o están afectados por una organización, proyecto o situación.
+- **Profile**(Perfil): Descripción o representación de las características, habilidades o historial de una persona o entidad.
+- **Inventory**(Inventario): Lista detallada de bienes, productos o recursos disponibles en un determinado momento.
+- **Monitory**(Monitoreo): Acción de vigilar, supervisar o controlar continuamente una situación o actividad.
+- **Shed**(Galpón): Edificio o estructura destinada para almacenar herramientas, equipos o productos agrícolas.
+- **Login**(Inicio de sesión): Acción de acceder a un sistema o plataforma digital mediante la introducción de credenciales de usuario.
+- **Fee**(Tarifa): Precio o costo establecido por un servicio o producto.
+- **Agricultural**: Relacionado con la agricultura y la cría de animales.
 
-cupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores, y los incentivos que podrían motivar a utilizar un sitio web como FarmLogitech para su empresa.
 
 # CAPITULO III: Requirements Specifications
 
