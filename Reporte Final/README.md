@@ -658,7 +658,75 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
   </tr>
 </table>
 
+##2.1.2. Estrategias y tácticas frente a competidores. 
+Con ayuda del analisis competitivo, pudimos determinar con precisión las fortalezas, las oportunidades, debilidades y amenazas tanto de nuestro proyecto, como de los competidores. Con esta información, podremos construir estrategias y planear tacticas con acnitipcación que nos permitan destacar en el mercado: 
 
+###Fortalezas de nuestros competidores
+- Facilita el seguimiento y la comunicación entre empleadores y trabajadores.
+- Permite a los usuarios proporcionar comentarios y evaluar su experiencia.
+- Ofrece opciones premium para empresas que buscan destacar sus ofertas laborales 
+
+###Nuestras fortalezas
+-Variedad de trabajos temporales, seguimiento del estatus del trabajo, retroalimentación entre ambas partes y pago seguro para garantizar la satisfacción del empleador y trabajador.
+
+###Estrategias
+- Enfatizar la Personalización y el Servicio al Cliente
+- Optimizar la Seguridad y Confianza
+
+###Tácticas
+- Utilizar nuestra variedad de trabajos temporales como un punto de venta único.
+- Destacar nuestro sistema de seguimiento del estatus del trabajo y la retroalimentación entre empleadores y trabajadores como un diferenciador clave que garantiza una experiencia transparente y satisfactoria para ambas partes.
+- Establecer protocolos rigurosos de verificación y seguridad para todos los usuarios.
+
+###Debilidades de nuestros competidores
+- La falta de funciones avanzadas de filtrado y búsqueda podría dificultar la navegación para los usuarios que buscan ofertas específicas.
+- La competencia con otras plataformas consolidadas podría dificultar la retención y adquisición de usuarios en un mercado saturado.
+- La opción premium para empresas podría limitar la visibilidad de algunas ofertas laborales para las empresas que no pueden pagar por esta opción.
+
+###Nuestras debilidades
+- Inicialmente, no se podrá contar con comentarios de ninguna de las dos partes. Debido a que estamos iniciando desde cero.
+  
+###Estrategias
+- Construir una Comunidad, asi como una base de Comentarios y Evaluaciones.
+- Diferenciarse en un Mercado Saturado:
+- Ofrecer Alternativas a las Opciones Premium
+  
+###Tacticas
+- Crear una campaña de marketing creativa y convincente para destacarnos en un mercado saturado y captar la atención de los usuarios potenciales.
+- Iniciar un programa piloto con un grupo selecto de usuarios para recopilar comentarios y mejorar continuamente la plataforma antes de su lanzamiento completo.
+- Promover nuestras tarifas competitivas y transparentes como una alternativa a las opciones premium de la competencia
+
+###Oportunidades de nuestros competidores: 
+- El desarrollo de alianzas estratégicas con empresas y universidades podría aumentar la diversidad de oportunidades laborales y atraer a más usuarios.
+- El enfoque en mercados específicos de América Latina podría permitir una mayor profundización en áreas locales y satisfacer necesidades específicas.
+- La opción de diversificar su gama de servicios para incluir capacitación y desarrollo profesional podría generar ingresos adicionales.
+
+###Nuestras oportunidades
+- La creciente tendencia hacia trabajos temporales y flexibles podría impulsar la demanda de plataformas que se centran en este tipo de empleos
+
+###Estrategias
+- Mayor enfoque en la Flexibilidad Laboral y Trabajos Temporales
+  
+###Tacticas
+- Destacar nuestra especialización en trabajos temporales y flexibles como una ventaja competitiva en un mercado en crecimiento.
+- Desarrollar campañas de marketing dirigidas a aquellos que valoran la flexibilidad laboral
+
+###Amenazas de nuestros competidores
+- El escaso número de funciones hace que muchas personas opten por buscar otra aplicación más completa.
+- La entrada de nuevos competidores y el aumento de la competencia en el mercado de búsqueda de empleo podría reducir su participación de mercado
+- La competencia de otras plataformas de búsqueda de empleo y la evolución de las tendencias de búsqueda de empleo podrían disminuir la relevancia de Laborum en el mercado.
+
+###Nuestras amenazas
+- Dificultades para establecer relaciones sólidas y de confianza entre los usuarios y los empleadores.
+
+###Estrategias: 
+- Mejorar la Funcionalidad y Complejidad de la Plataforma
+- Mejorar la Experiencia del Usuario
+- Diversificar Nuestra Oferta de Servicios:
+
+###Tacticas
+- Identificar las áreas donde nuestra plataforma puede mejorar y desarrollar nuevas funciones para hacerla más completa y atractiva para los usuarios.
+- Centrarse en mejorar la experiencia del usuario en nuestra plataforma, asegurando que sea intuitiva, fácil de usar y que cumpla con las expectativas de los usuarios.
 
 ## 2.2. Entrevistas
 
@@ -884,6 +952,8 @@ Además, Rodrigo Noreña enfatizó la importancia de una plataforma que permita 
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
+
 - User persona trabajador en granja
   ![Imagen de UserPersona1](https://i.postimg.cc/FRbmXWdt/User-persona-trabajador.jpg)
 
