@@ -544,21 +544,21 @@ Durante el Sprint 2, logramos la implementación y despliegue del Landing Page. 
    En esta sección, se puede visualizar e interactuar con las imágenes principales.
 
 <div align=center>
-   <img src="/assets/img-carrusel.png" alt="Carrusel"></img>
+   <img src="/assets/img-carrusel-1.png" alt="Carrusel"></img>
 </div>
 
 2. Sección de Nosotros
    En esta sección, se puede observar lo que FarmLogitech ofrece.
 
 <div align=center>
-   <img src="/assets/img-nosotros.png" alt="Nosotros"></img>
+   <img src="/assets/img-nosotros-1.png" alt="Nosotros"></img>
 </div>
 
 3. Sección de Características
    En esta sección, se puede observar las caracteristicas.
 
 <div align=center>
-   <img src="/assets/img-caracteristicas.png" alt="Caracteristicas"></img>
+   <img src="/assets/img-caracteristicas-1.png" alt="Caracteristicas"></img>
 </div>
 
 4. Sección Planes
@@ -566,21 +566,21 @@ Durante el Sprint 2, logramos la implementación y despliegue del Landing Page. 
    podrás promocionar tu granja y el premium en la que no solo podrás promocionarla, sino también gestionarla.
 
 <div align=center>
-   <img src="/assets/img-planes.png" alt="Planes"></img>
+   <img src="/assets/img-planes-1.png" alt="Planes"></img>
 </div>
 
 5. Sección Método de Pago
    En esta sección, se visualizan diversos métodos de pago que Farmlogitech ofrece
 
 <div align=center>
-   <img src="/assets/img-metodos.png" alt="Metodos"></img>
+   <img src="/assets/img-metodos-1.png" alt="Metodos"></img>
 </div>
 
 6. Sección Colaboradores
    En esta sección, aparecerán los colaboradores encargados de desarrollar la landing page.
 
 <div align=center>
-   <img src="/assets/img-colaboradores.png" alt="Colaboradores"></img>
+   <img src="/assets/img-colaboradores-1.png" alt="Colaboradores"></img>
 </div>
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -592,7 +592,7 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 Para la entrega del Sprint número 1, se desplegó la landing page completa.
 
 <div align=center>
-   <img src="/assets/img-todo.png" alt="Landing"></img>
+   <img src="/assets/img-todo-1.png" alt="Landing"></img>
 </div>
 
 Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/#
