@@ -2757,6 +2757,9 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
    <img src="/assets/img-landing-m.png" alt="Landing-Mock-up"></img>
 </div>
 
+![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/4240422a-2a10-4af5-859b-70264740f023)
+
+![link del video del Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/ETbEAdlXL0tKlVXCRvmGMdkB0HOmvtODaS1FOnFVQ3XQLA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aLRsaQ) 
 
 
 # 4.6. Domain-Driven Software Architecture
