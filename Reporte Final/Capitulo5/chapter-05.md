@@ -385,6 +385,218 @@ Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del
    <img src="/assets/img-graficos-2.png" alt="graficos2"></img>
 </div>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 5.2. Frontend Web Application
+### 5.2.1 Sprint 2.
+#### 5.2.1.1 Sprint Planing 2.
+
+A partir del 23/04/2024 el segundo sprint tiene como meta corregir errores en la landing page y desarrollar el frontend, así como una fake API, de manera que resulten atractivos y completamente funcionales.
+
+| Sprint | Prepared Date | Time      | Location                              | Prepared By     | Attendees                                                                                   | Sprint 1 Goal                                                                               | Sprint 1 Velocity | Sum of Story Points |
+|--------|---------------|-----------|---------------------------------------|-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------|---------------------|
+|   2    | 23/04/2024    | 11:30  PM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Giacomo Zoppi, Fernando Salgado, Jean franco Barrionuevo | Corregir los errores de la landing page y desarrollar el frontend de la aplicación FarmLogiTech para que resulte atractivo visualmente y funcione correctamente. | 22                | 22                  |
+
+#### 5.2.1.2. Sprint Backlog 2.
+En el primer sprint, el equipo tuvo como objetivo principal crear una landing page atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
+
+<div align=center>
+   <img src="/assets/img-trello.png" alt="Trello"></img>
+</div>
+
+link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+      <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+   <tr>
+       <td>US01</td>
+       <td>Descripcion clara de los servicios</td>
+       <td>T01</td>
+       <td>Agregar divs para los servicios  en la landing page</td>
+       <td>Diseñar los servicios que ofrecemos usando divs</td>
+       <td>2</td>
+       <td>Mathias Kunimoto</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US06</td>
+       <td>Interacción de imágenes en la landing page</td>
+       <td>T02</td>
+       <td>Agregar un carrusel en la landing page</td>
+       <td>Diseñar un carrusel para la interacción con el usuario</td>
+       <td>2</td>
+       <td>Rodrigo Aguilar </td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US02</td>
+       <td> Planes de suscripción en la landing page</td>
+       <td>T03</td>
+       <td>Agregar divs para las suscripciones en la landing page</td>
+       <td>Diseñar los planes que ofrecemos usando divs</td>
+       <td>2</td>
+       <td>Giacomo Zoppi</td>
+       <td>Done</td>
+    </tr>
+<tr>
+<tr>
+       <td>US02</td>
+       <td> Métodos de pago en la landing page</td>
+       <td>T04</td>
+       <td>Agregar divs para los métodos de pago en la landing page</td>
+       <td>Colocar las imagenes de los métodos de pagos usando div</td>
+       <td>2</td>
+       <td>Giacomo Zoppi</td>
+       <td>Done</td>
+    </tr>
+<tr>
+<tr>
+       <td>US02</td>
+       <td> Planes de suscripción en la landing page</td>
+       <td>T05</td>
+       <td>Agregar interacción con los planes</td>
+       <td> Añadir la función hover para planes interactivos</td>
+       <td>2</td>
+       <td>Jean Franco Barrionuevo</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US04</td>
+       <td>Adaptación de landing page a dispositivos</td>
+       <td>T06</td>
+       <td>Agregar responsive </td>
+       <td>Añadir responsXive al landing page para que se pueda acoplar a cualquier dispositivo</td>
+       <td>1</td>
+       <td>Mathias Kunimoto</td>
+       <td>Done</td>
+    </tr>
+ <td>US05</td>
+       <td>Adaptación de sección de colaboradores en la landing page </td>
+       <td>T07</td>
+       <td>Agregar Colaboradores </td>
+       <td>Añadir creadores del  landing page </td>
+       <td>1</td>
+       <td>Fernando Salgado</td>
+       <td>Done</td>
+    </tr>
+
+   </table>
+
+
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+| Repository                                                      | Branch              | Commit id | Commit Message                             | Commit Message Body                                                            | Commited on (Date) |
+|-----------------------------------------------------------------|---------------------|--------|--------------------------------------------|--------------------------------------------------------------------------------|-------------------- 
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/landing-page | add-carousel-images | 2db2724 | feat: update index(image carousel)         |  feat: update index(image carousel)                           | 13/04/2024         | 
+|                                                                 | add-carousel-images | 2db2724 | feat: added carousel images| feat: added carousel images| 13/04/2024         | 
+|                                                                 | add-rates-box       | eb93732 | feat: added rates box      | feat: added rates box       | 13/04/2024         | 
+|                                                                 | main                | 845b3a2 | fix: update landing page structure                     | fix: update landing page structure | 13/04/2024         | 
+|                                                                 | payment_method      | 845b3a2 | fix: update landing page structure                     | fix: update landing page structure| 13/04/2024         | 
+|  | add-features-boxes  | 8d4b6f2 | feat: added features boxes                 |feat: added features boxes | 13/04/2024         |
+|  | add-about-us        | 581c794 | feat: added about us                |feat: added about us | 13/04/2024         |
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review.`
+
+Para la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del Landing Page. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro landing page. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>landing-page</td>
+    <td>Features_testing</td>
+    <td>07fa8d6</td>
+    <td>Giacomo Zoppi</td>
+    <td>doc: add acceptance tests</td>
+    <td>11/04/2024</td>
+  </tr>
+</table>
+
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
+
+1. Sección  carrusel de imágenes
+   En esta sección, se puede visualizar e interactuar con las imágenes principales.
+
+<div align=center>
+   <img src="/assets/img-carrusel.png" alt="Carrusel"></img>
+</div>
+
+2. Sección de Nosotros
+   En esta sección, se puede observar lo que FarmLogitech ofrece.
+
+<div align=center>
+   <img src="/assets/img-nosotros.png" alt="Nosotros"></img>
+</div>
+
+3. Sección de Características
+   En esta sección, se puede observar las caracteristicas.
+
+<div align=center>
+   <img src="/assets/img-caracteristicas.png" alt="Caracteristicas"></img>
+</div>
+
+4. Sección Planes
+   En esta sección, se visualizan los planes que Farmlogitech, plan básico en el que solo
+   podrás promocionar tu granja y el premium en la que no solo podrás promocionarla, sino también gestionarla.
+
+<div align=center>
+   <img src="/assets/img-planes.png" alt="Planes"></img>
+</div>
+
+5. Sección Método de Pago
+   En esta sección, se visualizan diversos métodos de pago que Farmlogitech ofrece
+
+<div align=center>
+   <img src="/assets/img-metodos.png" alt="Metodos"></img>
+</div>
+
+6. Sección Colaboradores
+   En esta sección, aparecerán los colaboradores encargados de desarrollar la landing page.
+
+<div align=center>
+   <img src="/assets/img-colaboradores.png" alt="Colaboradores"></img>
+</div>
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint número 1, se desplegó la landing page completa.
+
+<div align=center>
+   <img src="/assets/img-todo.png" alt="Landing"></img>
+</div>
+
+Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/#
+
 # Conclusiones
 
 - En conclusión, creemos que el proyecto FarmLogiTech es una aplicación que tiene un gran potencial para ayudar a los dueños de granja a gestionar sus granjas de manera eficiente y sostenible. A través de la implementación de una landing page atractiva y funcional, hemos logrado comunicar de manera efectiva los beneficios de la aplicación y atraer a los visitantes. Durante el Sprint 1, el equipo ha trabajado de manera colaborativa y eficiente para cumplir con los objetivos establecidos. A través de la implementación de las Historias de Usuario y la realización de pruebas de aceptación, hemos logrado desarrollar una landing page que cumple con los requerimientos del cliente. En el próximo Sprint, nos enfocaremos en el desarrollo de la aplicación y en la implementación de nuevas funcionalidades para mejorar la experiencia del usuario.
