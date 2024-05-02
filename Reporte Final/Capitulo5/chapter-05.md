@@ -538,7 +538,7 @@ Para la entrega del Sprint 1, logramos completar el desarrollo, la implementaci�
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
-Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
+Durante el Sprint 2, logramos la implementación y despliegue del Landing Page. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
 
 1. Sección  carrusel de imágenes
    En esta sección, se puede visualizar e interactuar con las imágenes principales.
