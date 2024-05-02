@@ -2459,6 +2459,7 @@ Empleamos tres diferentes formas en la organización visual de contenido:
 - **Organización matricial** presenta al usuario una matriz, asi como la libertad de escoger el camino de navegación que siguen. Los usamos unicamente en la presentación principal de la pagina, en la que el usuario puede visualizar las granjas destacadas como una matriz. En esta vista, el usuario puede escoger la granja en la cual
 
 - **Esquemas de organización**
+      -**Alphabetical Schemes**: Los empleamos en la vista inicial, el usuario podrá usar orden alfabetico para ordener las granjas y visualizarlas en dicho orden. 
       -**Chronological Schemes**: Los empleamos en la vista de emergencias. El historial de emergencias esta organizado de forma que primero se ve la mas reciente. Así como el historial de pagos. 
       -**Topic Schemes**: Con los filtros de busqueda de granjas, asi como de animales o de cultivos, se pueden aplicar diferentes topicos: como el tipo, el tipo de galpón, especies, etc. 
       -**Audience schemes**: Cada uno de lossegmentos objetivos tiene un propósito diferente al momento de acceder. Los trabajadores tienen su propia pestaña dedicada a observar sus tareas pendientes. El dueño de granja puede visualizar todo el contenido de su granja, asi como sus empleados y sus pagos. Finalmente, las empresas visualizan las granjas y sus numeros de contacto. 
@@ -2467,7 +2468,7 @@ Empleamos tres diferentes formas en la organización visual de contenido:
 ### 4.2.2. Labeling Systems
 
 
-En el proyecto manejaremos un sistema de *etiquetado por facetas*, el cual consiste en la clasificación de los contenidos por categorías, las cuales se pueden combinar entre sí para encontrar un contenido específico.
+En el proyecto manejaremos un sistema de *etiquetado por facetas*, el cual consiste en la clasificación de los contenidos por categorías, las cuales se pueden combinar entre sí para encontrar un contenido específico. 
 
 Dichas categorías son:
 
@@ -2481,10 +2482,11 @@ Dichas categorías son:
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Las etiquetas meta en HTML son esenciales para proporcionar información y metadatos no visibles a los usuarios, pero útiles para los navegadores y rastreadores web. Facilitan el análisis y mantenimiento del contenido, además de contribuir al posicionamiento en los motores de búsqueda. Utilizaremos estas etiquetas para optimizar nuestra página web.
+Las Meta Tags nos permiten insertar información codificada y definir metadatos. Aunque no son visibles en la interfaz de los sitios web, son interpretadas por los navegadores y rastreadores web. Estas etiquetas facilitan el análisis del código HTML y contribuyen al mantenimiento del contenido del sitio. Además, juegan un papel crucial en el posicionamiento de nuestra página web en los motores de búsqueda. Las Meta Tags que utilizaremos son:
 
 - Título: Esta etiqueta es fundamental y suele colocarse antes que cualquier otra metaetiqueta. Todos los motores de búsqueda la utilizan como encabezado en las páginas de resultados de búsqueda (SERP).  
   ```<title>Register your processes with FarmLogiTech</title> ```
+  
 - Autor y Derechos de Autor:
   Esta etiqueta se emplea para registrar la información del autor y los derechos de propiedad de la página web.
 ``` 
@@ -2492,8 +2494,14 @@ Las etiquetas meta en HTML son esenciales para proporcionar información y metad
 <meta name="copyright" content="Copyright FarmLogiTech team" />
 ```
 
+-Descripción: Esta etiqueta nos permite la opción de añadir una breve descripción a la pagina, que es visible en los resultados de busqueda: 
+```<meta name="description" content="FarmLogiTech is a web application focused on farm's organization and visualization"/>```}
 
+-Robots: Esta etiqueta es importante en la estrategia SEO. Le dice especificamente a un motor de busqueda si la pagina debe ser indexada o seguida o ninguno de los dos. Por lo general, una pagina es indexada y seguida, lo que permite que aparezca en los motores de buqueda. Haremos uso de estos, en caso publiquemos nuestra web application en algun motor de busqueda. 
+```<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>```
 
+- Key Items: Esta etiqueta se usa para añadir palabras clave relacionados al contenido de la web.
+ ```<meta name="keywords" content="crops, system, management, farms, organization, farming, agriculture"/>```
 
 ### 4.2.4. Searching Systems
 
