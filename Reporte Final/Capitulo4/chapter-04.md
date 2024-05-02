@@ -370,38 +370,53 @@ El diagrama de contenedores muestra una vista de alto nivel de las relaciones en
 ## 4.6.3. Software Architecture Components Diagrams
 Los diagramas de componentes muestran una vista de las relaciones de los componentes principales del sistema de software “FarmLogitech”. Estos componentes detallan la implementación de los respectivos módulos en el programa.
 
-- Log-In Bounded Context
+- Communicaction Management Bounded Context
 
 <div align=center>
-  <img src="/assets/img-software.png" alt="Login Bounded Context"></img>
+  <img src="/assets/img-bounded-context-1.png" alt="Communicaction Management Bounded Context"></img>
 </div>
 
-- Company Management Bounded Context
+- Dashboard and Analytics Bounded Context
 
 <div align=center>
-  <img src="/assets/img-company.png" alt="Company Management Bounded Context"></img>
+  <img src="/assets/img-bounded-context-2.png" alt="Dashboard and Analytics Bounded Context"></img>
 <div>
 
-- Farm Management Bounded Context
+- Login Bounded Context
 
 <div align=center>
-  <img src="/assets/img-farm.png" alt="Farm Management Bounded Context"></img>
+  <img src="/assets/img-bounded-context-4.png" alt="Login Bounded Context"></img>
 <div>
-
-- Notification Bounded Context
-
-<div align=center>
-  <img src="/assets/img-notificacion.png" alt="Notification Bounded Context"></img>
 
 - Payment Bounded Context
+
 <div align=center>
-  <img src="/assets/img-payment.png" alt="Payment Bounded Context"></img>
+  <img src="/assets/img-bounded-context-3.png" alt="Payment Bounded Context"></img>
+
+- Profile Management Bounded Context
+<div align=center>
+  <img src="/assets/img-bounded-context-6.png" alt="Profile Management Bounded Context"></img>
+<div>
+
+- Resource Management Bounded Context
+<div align=center>
+  <img src="/assets/img-bounded-context-5.png" alt="Resource Management Bounded Context"></img>
+<div>
+
+- Service Operation and Monitoring Bounded Context
+<div align=center>
+  <img src="/assets/img-bounded-context-7.png" alt="Service Operation and Monitoring Bounded Context"></img>
+<div>
+
+- Social Interaction Bounded Context
+<div align=center>
+  <img src="/assets/img-bounded-context-8.png" alt="Social Interaction Bounded Context "></img>
 <div>
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 <div align=center>
-   <img src="/assets/img-class-diagram.jpeg" alt="Diagrama de clase"></img>
+   <img src="/assets/img-class-diagram.png" alt="Diagrama de clase"></img>
 </div>
 
 ### 4.7.2. Class Dictionary
