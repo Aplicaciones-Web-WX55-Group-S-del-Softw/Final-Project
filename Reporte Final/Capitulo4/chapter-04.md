@@ -150,11 +150,11 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
 </div>
 <div align=center>
 <p>Mandar alerta de emergencia</p>
-   <img src="/assets/img-wireframe-8.png" alt="Wireframe"></img>
+   <img src="/assets/img-wireframe-8.jpg" alt="Wireframe"></img>
 </div>
 <div align=center>
 <p>Agregar galpón</p>
-   <img src="/assets/img-wireframe-9.png" alt="Wireframe"></img>
+   <img src="/assets/img-wireframe-9.jpg" alt="Wireframe"></img>
 </div>
 <div align=center>
 <p> Consulta de inventario</p>
