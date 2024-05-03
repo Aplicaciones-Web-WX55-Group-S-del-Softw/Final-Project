@@ -55,8 +55,6 @@
 
 <br><br>
 
-# Project Report Collaboration Insights
-
 
 # Contenido
 ## Tabla de Contenidos
@@ -69,31 +67,31 @@
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
-    - [Tabla de Contenidos](#tabla-de-contenidos)
-        - [Registro de versiones del informe](#registro-de-versiones-del-informe-1)
-        - [Project Report Collaboration Insights](#project-report-collaboration-insights-1)
-        - [Contenido](#contenido-1)
-        - [Student Outcome](#student-outcome)
-        - [Capítulo I: Introducción](#capítulo-i-introducción)
-        - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-        - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-        - [Capítulo IV: Product Design](#capítulo-iv-product-design)
-        - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
-        - [Conclusiones](#conclusiones)
-        - [Bibliografía](#bibliografía)
-        - [Anexos](#anexos)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+    - [Registro de versiones del informe](#registro-de-versiones-del-informe-1)
+    - [Project Report Collaboration Insights](#project-report-collaboration-insights-1)
+    - [Contenido](#contenido-1)
+    - [Student Outcome](#student-outcome)
+    - [Capítulo I: Introducción](#capítulo-i-introducción)
+    - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+    - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+    - [Capítulo IV: Product Design](#capítulo-iv-product-design)
+    - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+    - [Conclusiones](#conclusiones)
+    - [Bibliografía](#bibliografía)
+    - [Anexos](#anexos)
 - [Student Outcome](#student-outcome-1)
 - [Capítulo I: Introducción](#capítulo-i-introducción-1)
-    - [1.1. StartUp Profile](#11-startup-profile)
-        - [1.1.1. Description de la StartUp](#111-description-de-la-startup)
-        - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-        - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-        - [1.2.2. Lean UX Process](#122-lean-ux-process)
-            - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-            - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-            - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+  - [1.1. StartUp Profile](#11-startup-profile)
+    - [1.1.1. Description de la StartUp](#111-description-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
 
 ### [Capítulo II: Requirements Elicitation & Analysis](#capc3adtulo-ii-requirements-elicitation--analysis-1)
 - [2.1. Competidores](#21-competidores)
@@ -263,6 +261,7 @@ En la implementación, lideré la gestión relacionada con el monitoreo, la corr
 TP:Gracias a la ejecución del proyecto, pudimos establecer conexiones con profesionales de la industria y comprender el potencial beneficioso que una aplicación como la nuestra podría ofrecer al simplificar las actividades cotidianas. <br><br></table>
 
 <br><br>
+
 
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
@@ -587,6 +586,7 @@ Siguiendo el siguiente formato, extraido del libro "Lean Ux, 3rd edition", escri
 ## 1.3. Segmentos Objetivo
 
 
+
 **Dueños de Granjas y Agricultores Independientes:**
 
 Los propietarios de granjas y agricultores independientes representan una diversidad de tipos de granjas, incluyendo ganado y cultivos. La mayoría, aproximadamente el 80%, se dedican principalmente a la venta de sus productos, aunque un segmento significativo, el 20%, también los destina al autoconsumo. Predominantemente masculino, con un 64.88%, y con niveles educativos variados, donde un 36.9% ha culminado la secundaria y un 44.6% solo cuenta con educación primaria. Mayormente operan en granjas de pequeña escala, con un 92.7% poseyendo menos de 10 hectáreas (Santisteban,2022). Su principal fuente de ingresos proviene de actividades agrarias, y aunque la mayoría posee un celular, solo un pequeño porcentaje recibe asistencia técnica. Buscan activamente herramientas tecnológicas para mejorar la gestión de sus operaciones agrícolas o ganaderas, con un interés claro en optimizar la eficiencia, productividad y rentabilidad de sus cultivos y ganado.
@@ -620,7 +620,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
     <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
   </tr>
   <tr>
-    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos. </td>
+    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
   </tr>
   <tr>
     <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
@@ -729,6 +729,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
   </tr>
 </table>
 
+
 ##2.1.2. Estrategias y tácticas frente a competidores. 
 Con ayuda del analisis competitivo, pudimos determinar con precisión las fortalezas, las oportunidades, debilidades y amenazas tanto de nuestro proyecto, como de los competidores. Con esta información, podremos construir estrategias y planear tacticas con acnitipcación que nos permitan destacar en el mercado: 
 
@@ -810,56 +811,45 @@ Con ayuda del analisis competitivo, pudimos determinar con precisión las fortal
 ¿A qué te dedicas?
 
 #### Segmento objetivo: Dueño
-1. ¿Qué desafíos enfrenta actualmente al gestionar su granja?
-2. ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
-3. De tener experiencia en gestionar una granja, ¿cómo ha realizado las gestiones de toda la granja?
-4. ¿Qué te parece más importante para un plataforma de gestion: la facilidad de uso de la plataforma, la seguridad de la informacion, la diversidad de opciones disponibles, u otros aspectos?
-5. ¿Cuáles son las principales características que busca en una plataforma de gestion de granjas?
-6. ¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestion de granjas de manera más frecuente?
-7. ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
-8. ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
-9. ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
-Preguntas Complementarias
-- ¿Cuales son sus frustraciones respecto la organización y administración de una granja?
-- ¿Cual es tu principal fuente de ingresos?
-- ¿Tus productos son solo para la venta o tambien de autoconsumo?
+- ¿Qué desafíos enfrenta actualmente al gestionar su granja?
+- ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
+- De tener experiencia en gestionar una granja, ¿cómo ha realizado las gestiones de toda la granja?
+- ¿Qué te parece más importante para un plataforma de gestion: la facilidad de uso de la plataforma, la seguridad de la informacion, la diversidad de opciones disponibles, u otros aspectos?
+- ¿Cuáles son las principales características que busca en una plataforma de gestion de granjas?
+- ¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestion de granjas de manera más frecuente?
+- ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
+- ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
+- ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
 
-#### Segmento objetivo: Administrador de Empresa Agropecuaria
-1. ¿Qué tipo de productos agrícolas o ganaderos suelen adquirir para sus operaciones?
-2. ¿Qué criterios son más importantes al seleccionar proveedores de productos agrícolas o ganaderos?
-3. ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
-4. ¿Qué información consideran crucial al evaluar a una granja como posible proveedor?
-5. ¿Cómo prefieren comunicarse con las granjas proveedoras potenciales?
-6. ¿Qué características o funcionalidades esperarían encontrar en una plataforma que facilite la conexión con granjas proveedoras?
-7. ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
-8. ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
-9. ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
-Preguntas complementarias:
-- ¿Que le inspira a trabajar en la administración?
-- ¿Cuales son sus objetivos laborales a dia de hoy?
-  
+#### Segmento objetivo: Administrador
+- ¿Qué tipo de productos agrícolas o ganaderos suelen adquirir para sus operaciones?
+- ¿Qué criterios son más importantes al seleccionar proveedores de productos agrícolas o ganaderos?
+- ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
+- ¿Qué información consideran crucial al evaluar a una granja como posible proveedor?
+- ¿Cómo prefieren comunicarse con las granjas proveedoras potenciales?
+- ¿Qué características o funcionalidades esperarían encontrar en una plataforma que facilite la conexión con granjas proveedoras?
+- ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
+- ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
+- ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
 #### Segmento objetivo: Trabajador
-1. ¿Qué tipo de tareas realizas habitualmente en la granja?
-2. ¿Qué herramientas o recursos necesitas para llevar a cabo tus tareas de manera eficiente?
-3. ¿Qué aspectos de tu trabajo requieren una supervisión o seguimiento más cercano?
-4. ¿Cuáles son los principales desafíos que enfrentas al llevar a cabo tus tareas diarias?
-5. ¿Qué información consideras importante registrar sobre la producción de animales o cultivos?
-6. ¿Qué funcionalidades te gustaría ver en una plataforma de gestión que facilite tu trabajo?
-7. ¿Qué sugerencias o mejoras tendrías para una plataforma de gestión que te ayudaría a realizar tus tareas de manera más efectiva?
-8. ¿Cómo crees que una plataforma de gestión podría ayudarte a mejorar tu productividad o eficiencia en el trabajo?
-9. ¿Qué tan cómodo te sentirías utilizando tecnología para llevar a cabo tus tareas diarias en la granja?
-Preguntas Complementarias
-- ¿Haces uso de aplicaciones o dispositivos moviles?¿Cuales? ¿Que usos le brindas?
-- ¿Cuales son sus frustraciones respecto la organización y administración de una granja?
+- ¿Qué tipo de tareas realizas habitualmente en la granja?
+- ¿Qué herramientas o recursos necesitas para llevar a cabo tus tareas de manera eficiente?
+- ¿Qué aspectos de tu trabajo requieren una supervisión o seguimiento más cercano?
+- ¿Cuáles son los principales desafíos que enfrentas al llevar a cabo tus tareas diarias?
+- ¿Qué información consideras importante registrar sobre la producción de animales o cultivos?
+- ¿Qué funcionalidades te gustaría ver en una plataforma de gestión que facilite tu trabajo?
+- ¿Qué sugerencias o mejoras tendrías para una plataforma de gestión que te ayudaría a realizar tus tareas de manera más efectiva?
+- ¿Cómo crees que una plataforma de gestión podría ayudarte a mejorar tu productividad o eficiencia en el trabajo?
+- ¿Qué tan cómodo te sentirías utilizando tecnología para llevar a cabo tus tareas diarias en la granja?
 
 ### 2.2.2. Registro de entrevistas
 
 
-**Entrevista 01**
+ **Entrevista 01**  
 
-**Nombres:** Rodrigo
+ **Nombres:** Rodrigo 
 
-**Apellidos:** Noreña Nuñez
+ **Apellidos:** Noreña Nuñez
 
 **Edad:** 19 años
 
@@ -870,13 +860,12 @@ Preguntas Complementarias
   </p>
 
 **Inicia:** 0:00
-**Duración de la entrevista:** 6:00 minutos 
 
 
 **Enlace de entrevista:** [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 #### Evidencia de la reunión:
 
-Rodrigo Noreña es un joven de 19 años que trabaja en una granja de cultivos de maracuyas en Huacho, Perú. Se muestra como alguien metódico y detallista, valorando la organización y el registro preciso de información. Prefiere evitar desafíos abrumadores y climáticos en su trabajo diario. Rodrigo es colaborativo y está dispuesto a brindar feedback para mejorar la plataforma FarmLogitech, que espera que sea fácil de usar y lo ayude a ser más eficiente. Su disposición a ser entrevistado nuevamente muestra su compromiso con el proyecto y su apertura a nuevas tecnologías para mejorar su trabajo.
+Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
 
 
 **Entrevista 02**: Harold López
@@ -896,7 +885,6 @@ Rodrigo Noreña es un joven de 19 años que trabaja en una granja de cultivos de
 **URL de la entrevista**: [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 **Inicia**: 6:00
-**Duración de la entrevista:** 7:00 minutos 
 
 **Resumen de la entrevista**:
 
@@ -919,10 +907,9 @@ Harold, un estudiante de 21 años y administrador de una granja familiar en Huan
 
 #### Evidencia de la reunión:
 
-Miriam Higashi, una administradora de granja avícola de 55 años de Jesús María, busca optimizar sus procesos y recursos para maximizar la productividad. Implementa estrategias como incentivos y aumentos de sueldo para estabilizar su personal. Estaría dispuesta a pagar por una aplicación que le ayude a gestionar su granja de manera eficiente, valorando la facilidad de uso y la capacidad de monitoreo en línea. Enfrenta desafíos como la rotación del personal y la fiscalización medioambiental, pero está abierta a nuevas tecnologías. Busca una plataforma que simplifique tareas y mejore la eficiencia. Aunque no ha tenido experiencia con plataformas similares, considera importante la adaptación de ideas innovadoras a su contexto. Miriam muestra una actitud positiva hacia la tecnología, buscando siempre mejorar su granja.
+Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo.
 
 **Minuto de la entrevista**: 13:12
-**Duración de la entrevista:** 7:00 minutos 
 
 **Link de la entrevista**: [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
@@ -965,7 +952,6 @@ Link de la entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.co
 </p>
 
 **Inicia:** 25:20
-**Duración de la entrevista:** 5:00 minutos 
 
 **Enlace de entrevista:** [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
@@ -995,7 +981,6 @@ Finalmente, mencionó las principales preocupaciones en términos de calidad, se
 Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta diversos desafíos en la gestión de su granja. La rotación de personal y las regulaciones medioambientales son preocupaciones constantes, mientras que la proximidad a áreas pobladas agrega complejidad a las operaciones. La renovación de equipos e infraestructura es esencial para mantener la competitividad en un mercado en constante cambio. En su granja, se especializa en la cría y producción avícola, priorizando el bienestar de las aves y la bioseguridad. Jorge ha implementado estrategias para estabilizar el equipo de trabajo y cumplir con las regulaciones, optimizando procesos y concientizando al personal sobre su papel en el éxito de la granja. Considera que la facilidad de uso es vital en cualquier plataforma de gestión y busca constantemente mejorar los procesos internos. La optimización del tiempo es crucial, y Jorge estaría dispuesto a pagar por una aplicación que mejore la eficiencia de su operación. En la búsqueda de herramientas prácticas en una plataforma de gestión, prioriza soluciones integrales que aborden los desafíos específicos de su granja avícola.
 
 **Inicia**: 29:12
-**Duración de la entrevista:** 4:00 minutos 
 
 **Link de la entrevista**: [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
@@ -1004,7 +989,7 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 ### 2.2.3 Análisis de entrevistas
 
 
-**Segmento 01: Dueño de granja**
+ **Segmento 01: Dueño de granja**
 
 Las entrevistas con Harold , Mirian y Jorge Kunimoto nos ofrecieron una variedad de perspectivas sobre la gestión de granjas y la utilidad de las plataformas de gestión. Se destacó la importancia de la confiabilidad y las buenas referencias al seleccionar proveedores, así como la eficiencia en el transporte de productos y la necesidad de un buen registro de sanidad. Los entrevistados expresaron preferencia por las plataformas que ofrecen rapidez, contacto directo y seguridad. Además, se resaltó la importancia de la facilidad de uso y la optimización del tiempo en cualquier plataforma de gestión.
 
@@ -1023,8 +1008,6 @@ Además, Rodrigo Noreña enfatizó la importancia de una plataforma que permita 
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-
-
 - User persona trabajador en granja
   ![Imagen de UserPersona1](https://i.postimg.cc/FRbmXWdt/User-persona-trabajador.jpg)
 
@@ -1035,11 +1018,15 @@ Además, Rodrigo Noreña enfatizó la importancia de una plataforma que permita 
   ![Imagen de UserPersona3](https://i.postimg.cc/W4hhjvjB/User-persona-empresaria.jpg)
 
 ### 2.3.2. User Task Matrix
-Para la elaboración del User Task Matrix, hemos tomado en cuenta los siguientes segmentos: Los dueños de granja, los trabajadores de granja y las empresas agropecuarias. 
-![Imagen de TaskMatrix](https://i.postimg.cc/x10PvtVs/Tabla-User-Task.jpg)
-Las tareas que tienen mayor frecuencia son aquellas que comparten los dueños de las granjas y los trabajadores de las mismas, debido a que ambos segmentos objetivos laburan formalmente dentro de la granja y se encargan del trabajo manual y la agricultura. Estas por lo general, resultan las tareas con mayor frecuencia, pues además son actividades diarias que ejercen para poder generar ingresos economicos. 
-
-Por otro lado, las empresas tienen tareas que no se comparten con los otros segmentos, pero que son importantes para las granjas, ya que estas se alinean con el negocio, la exportación y la administración, mas no con el trabajo manual de la granja. De igual, modo algunas de ellas son muy frecuentes, porque forman parte del trabajo y el funcionamiento de la industria. 
+A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+![Imagen de TaskMatrix](https://i.postimg.cc/d0ZnRpJK/Tabla-User-Task.jpg)
+![Imagen de TaskMatrix](https://i.postimg.cc/bNYTVsqg/Tabla-User2-Task.jpg)
+![Imagen de TaskMatrix](https://i.postimg.cc/wBNcRNkq/Tabla-User3-Task.jpg)
+Las tareas que tienen mayor frecuencia son aquellas que comparten
+los dueños de las granjas y los trabajadores de las mismas.
+Por otro lado, los empresarios tienen tareas que no se comparten
+con los otros segmentos, pero que son importantes para las granjas,
+ya que estas deben alinearse con los estandares de los empresarios.
 
 ### 2.3.3 User Journey Mapping
 A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
@@ -1080,8 +1067,6 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
 - **Login**(Inicio de sesión): Acción de acceder a un sistema o plataforma digital mediante la introducción de credenciales de usuario.
 - **Fee**(Tarifa): Precio o costo establecido por un servicio o producto.
 - **Agricultural**: Relacionado con la agricultura y la cría de animales.
-
-
 # CAPITULO III: Requirements Specifications
 
 ## 3.1 To-Be Scenario Mapping
@@ -1835,7 +1820,6 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
 
 ![Imagen de Impact Mapping del dueño de granja y empresaria](https://i.postimg.cc/RFGYLGJV/impact-map-due-oempresas.jpg)
 
-
 ## 3.4 Product Backlog
 
 <table align="center" border="1" width="90%" style="text-align:center;">
@@ -1870,7 +1854,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como dueño de granja, quiero crear y asignar tareas a los trabajadores para mejorar la gestión de la mano de obra en mi finca.
         </td>
         <td>
-            4
+            5
         </td>
     </tr>
     <tr>
@@ -1887,7 +1871,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como usuario potencial, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola y ganadera.
         </td>
         <td>
-            4
+            5
         </td>
     </tr>
     <tr>
@@ -1955,7 +1939,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como empresario, quiero buscar y contactar a dueños de granjas potenciales, para establecer asociaciones comerciales y mejorar nuestra cadena de suministro.
         </td>
         <td>
-            4
+            3
         </td>
     </tr>
     <tr>
@@ -1972,7 +1956,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como dueño de la granja, quiero verificar fácilmente los niveles de inventario de productos agrícolas y ganaderos, y recibir notificaciones cuando sea necesario reponerlos, para garantizar un flujo de trabajo ininterrumpido.
         </td>
         <td>
-            4
+            3
         </td>
     </tr>
     <tr>
@@ -2278,7 +2262,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como desarrollador, necesito garantizar la escalabilidad del sistema, para manejar un creciente número de usuarios y datos agrícolas sin comprometer el rendimiento.
         </td>
         <td>
-            4
+            5
         </td>
     </tr>
     <tr>
@@ -2295,7 +2279,7 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
             Como dueño de la granja, quiero un informe detallado sobre la producción y la gestión de la granja, para garantizar el cumplimiento de los estándares de calidad y rentabilidad.
         </td>
         <td>
-            4
+            5
         </td>
     </tr>
     <tr>
@@ -2535,11 +2519,10 @@ Empleamos tres diferentes formas en la organización visual de contenido:
       -**Topic Schemes**: Con los filtros de busqueda de granjas, asi como de animales o de cultivos, se pueden aplicar diferentes topicos: como el tipo, el tipo de galpón, especies, etc. 
       -**Audience schemes**: Cada uno de lossegmentos objetivos tiene un propósito diferente al momento de acceder. Los trabajadores tienen su propia pestaña dedicada a observar sus tareas pendientes. El dueño de granja puede visualizar todo el contenido de su granja, asi como sus empleados y sus pagos. Finalmente, las empresas visualizan las granjas y sus numeros de contacto. 
 
-
 ### 4.2.2. Labeling Systems
 
 
-En el proyecto manejaremos un sistema de *etiquetado por facetas*, el cual consiste en la clasificación de los contenidos por categorías, las cuales se pueden combinar entre sí para encontrar un contenido específico. 
+En el proyecto manejaremos un sistema de *etiquetado por facetas*, el cual consiste en la clasificación de los contenidos por categorías, las cuales se pueden combinar entre sí para encontrar un contenido específico.
 
 Dichas categorías son:
 
@@ -2573,6 +2556,9 @@ Las Meta Tags nos permiten insertar información codificada y definir metadatos.
 
 - Key Items: Esta etiqueta se usa para añadir palabras clave relacionados al contenido de la web.
  ```<meta name="keywords" content="crops, system, management, farms, organization, farming, agriculture"/>```
+
+
+
 
 ### 4.2.4. Searching Systems
 
@@ -2829,7 +2815,6 @@ El patrón de lectura a utilizar para la visualización de nuestro website para 
    <img src="/assets/img-mockup-conexion-14.png" alt="Mockup-diagram"></img>
 </div>
 
-
 #### 4.5. Web Applications Prototyping.
 Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie de criterios fundamentales, entre ellos:
 
@@ -2843,9 +2828,11 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
    <img src="/assets/img-landing-m.png" alt="Landing-Mock-up"></img>
 </div>
 
-![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/4240422a-2a10-4af5-859b-70264740f023)
+Video de prueba
+<br>
 
-![link del video del Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/ETbEAdlXL0tKlVXCRvmGMdkB0HOmvtODaS1FOnFVQ3XQLA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aLRsaQ) 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/ETbEAdlXL0tKlVXCRvmGMdkB0HOmvtODaS1FOnFVQ3XQLA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aLRsaQ 
+
 
 
 # 4.6. Domain-Driven Software Architecture
@@ -2855,51 +2842,66 @@ El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento comp
 ## 4.6.1. Software Architecture Context Diagram
 El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software “FarmLogitech”, los usuarios y, si es el caso, de otros sistemas externos.
 <div align=center>
-<img src="/assets/img-system-diagram.jpeg" alt="System diagram"></img>
+<img src="/assets/img-systemdiagram.jpeg" alt="System diagram"></img>
 </div>
 
 ## 4.6.2. Software Architecture Container Diagram
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software “FarmLogitech”.
 
 <div align=center>
-<img src="/assets/img-container-diagram.png" alt="Container diagram"></img>
+<img src="/assets/img-container.jpeg" alt="Container diagram"></img>
 </div>
 
 ## 4.6.3. Software Architecture Components Diagrams
 Los diagramas de componentes muestran una vista de las relaciones de los componentes principales del sistema de software “FarmLogitech”. Estos componentes detallan la implementación de los respectivos módulos en el programa.
 
-- Log-In Bounded Context
+- Communicaction Management Bounded Context
 
 <div align=center>
-  <img src="/assets/img-software.png" alt="Login Bounded Context"></img>
+  <img src="/assets/img-bounded-context-1.png" alt="Communicaction Management Bounded Context"></img>
 </div>
 
-- Company Management Bounded Context
+- Dashboard and Analytics Bounded Context
 
 <div align=center>
-  <img src="/assets/img-company.png" alt="Company Management Bounded Context"></img>
+  <img src="/assets/img-bounded-context-2.png" alt="Dashboard and Analytics Bounded Context"></img>
 <div>
 
-- Farm Management Bounded Context
+- Login Bounded Context
 
 <div align=center>
-  <img src="/assets/img-farm.png" alt="Farm Management Bounded Context"></img>
+  <img src="/assets/img-bounded-context-4.png" alt="Login Bounded Context"></img>
 <div>
-
-- Notification Bounded Context
-
-<div align=center>
-  <img src="/assets/img-notificacion.png" alt="Notification Bounded Context"></img>
 
 - Payment Bounded Context
+
 <div align=center>
-  <img src="/assets/img-payment.png" alt="Payment Bounded Context"></img>
+  <img src="/assets/img-bounded-context-3.png" alt="Payment Bounded Context"></img>
+
+- Profile Management Bounded Context
+<div align=center>
+  <img src="/assets/img-bounded-context-6.png" alt="Profile Management Bounded Context"></img>
+<div>
+
+- Resource Management Bounded Context
+<div align=center>
+  <img src="/assets/img-bounded-context-5.png" alt="Resource Management Bounded Context"></img>
+<div>
+
+- Service Operation and Monitoring Bounded Context
+<div align=center>
+  <img src="/assets/img-bounded-context-7.png" alt="Service Operation and Monitoring Bounded Context"></img>
+<div>
+
+- Social Interaction Bounded Context
+<div align=center>
+  <img src="/assets/img-bounded-context-8.png" alt="Social Interaction Bounded Context "></img>
 <div>
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 <div align=center>
-   <img src="/assets/img-class-diagram.jpeg" alt="Diagrama de clase"></img>
+   <img src="/assets/img-class-diagrama.png" alt="Diagrama de clase"></img>
 </div>
 
 ### 4.7.2. Class Dictionary
@@ -3047,8 +3049,26 @@ Para el proyecto, nos hemos decidido por utilizar el motor de base de datos de M
 
 ### 4.8.1 Database Diagram
 
-<img src="/assets/img-database.jpeg" alt="Diagrama-database"></img>
+Dashboard-Analytics Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 01 08 55_8379ab0d](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/d416c8ce-ec9f-4338-9213-d4d734ea0a47)
 
+Resource Management Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 49 57_4aa6dc7a](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/db33fbc1-ae69-42ab-91b5-ca3dfcfd0479)
+
+Login Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 35 56_bd2d30b8](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/3aa923e1-50a5-4bbe-b036-f8bfa92619b1)
+
+Profile Management Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 35 51_25ec43d2](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/9ac23077-ab35-48b8-adda-51a88eb3b242)
+
+Payment Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 35 45_24348a5f](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/2c596152-a35e-4231-a6ed-f647c208ee67)
+
+Social Interaction Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 35 26_a17433f2](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/6c6eb54e-2923-458b-996b-7a64b2e998fc)
+
+Service Operation and Monitoring Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 35 17_56c1d275](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/3ec9aad1-a6ee-40f0-b849-6e7c620b7a31)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -3255,7 +3275,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T01</td>
        <td>Agregar divs para los servicios  en la landing page</td>
        <td>Diseñar los servicios que ofrecemos usando divs</td>
-       <td>2</td>
+       <td>5</td>
        <td>Mathias Kunimoto</td>
        <td>Done</td>
     </tr>
@@ -3265,7 +3285,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T02</td>
        <td>Agregar un carrusel en la landing page</td>
        <td>Diseñar un carrusel para la interacción con el usuario</td>
-       <td>2</td>
+       <td>5</td>
        <td>Rodrigo Aguilar </td>
        <td>Done</td>
     </tr>
@@ -3275,7 +3295,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T03</td>
        <td>Agregar divs para las suscripciones en la landing page</td>
        <td>Diseñar los planes que ofrecemos usando divs</td>
-       <td>2</td>
+       <td>5</td>
        <td>Giacomo Zoppi</td>
        <td>Done</td>
     </tr>
@@ -3286,7 +3306,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T04</td>
        <td>Agregar divs para los métodos de pago en la landing page</td>
        <td>Colocar las imagenes de los métodos de pagos usando div</td>
-       <td>2</td>
+       <td>6</td>
        <td>Giacomo Zoppi</td>
        <td>Done</td>
     </tr>
@@ -3297,7 +3317,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T05</td>
        <td>Agregar interacción con los planes</td>
        <td> Añadir la función hover para planes interactivos</td>
-       <td>2</td>
+       <td>5</td>
        <td>Jean Franco Barrionuevo</td>
        <td>Done</td>
     </tr>
@@ -3307,7 +3327,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T06</td>
        <td>Agregar responsive </td>
        <td>Añadir responsXive al landing page para que se pueda acoplar a cualquier dispositivo</td>
-       <td>1</td>
+       <td>5</td>
        <td>Mathias Kunimoto</td>
        <td>Done</td>
     </tr>
@@ -3316,7 +3336,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T07</td>
        <td>Agregar Colaboradores </td>
        <td>Añadir creadores del  landing page </td>
-       <td>1</td>
+       <td>4</td>
        <td>Fernando Salgado</td>
        <td>Done</td>
     </tr>
@@ -3365,7 +3385,6 @@ Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. 
 
 1. Sección  carrusel de imágenes
    En esta sección, se puede visualizar e interactuar con las imágenes principales.
-
 
 <div align=center>
    <img src="/assets/img-carrusel-1.png" alt="Carrusel"></img>
@@ -3419,8 +3438,7 @@ Para la entrega del Sprint número 1, se desplegó la landing page completa.
    <img src="/assets/img-todo-1.png" alt="Landing"></img>
 </div>
 
-Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/#
-
+Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -3440,17 +3458,312 @@ Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del
    <img src="/assets/img-graficos-2.png" alt="graficos2"></img>
 </div>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 5.2. Frontend Web Application
+### 5.2.1 Sprint 2.
+#### 5.2.2.1 Sprint Planing 2.
+
+A partir del 23/04/2024 el segundo sprint tiene como meta corregir errores en la landing page y desarrollar el website, así como una fake API, de manera que resulten atractivos y completamente funcionales.
+
+| Sprint | Prepared Date | Time      | Location                              | Prepared By     | Attendees                                                                                   | Sprint 2 Goal                                          | Sprint 1 Velocity | Sum of Story Points |
+|--------|---------------|-----------|---------------------------------------|-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------|-------------------|---------------------|
+|   2    | 23/04/2024    | 11:30  PM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Giacomo Zoppi, Fernando Salgado, Jean franco Barrionuevo | Implementar la website para la aplicación FarmLogiTech | 22                | 22                  |
+
+#### 5.2.2.2. Sprint Backlog 2.
+En el segundo sprint, el equipo tuvo como objetivo principal crear la website atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
+
+<div align=center>
+   <img src="/assets/img-trello-sprint2.png" alt="Trello"></img>
+</div>
+
+link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+      <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+   <tr>
+       <td>US10</td>
+       <td>Crear y asignar tareas a los trabajadores</td>
+       <td>T01</td>
+       <td>Agregar funcionalidades para implementar la asignación</td>
+       <td>Diseñar la tabla de tareas en donde se va a ir almacenando</td>
+       <td>6</td>
+       <td>Fernando Salgado /
+            Rodrigo Aguilar /
+            Jean Barrionuevo</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US12</td>
+       <td>Registro de progreso de tareas</td>
+       <td>T02</td>
+       <td>Agregar una tabla de tareas</td>
+       <td>Diseñar la tabla de tareas y hacer que funcione el registro</td>
+       <td>5</td>
+       <td>Jean Barrionuevo</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US14</td>
+       <td>Ver información detallada de las granjas</td>
+       <td>T03</td>
+       <td>Agregar interaccion cuando presiones una carta</td>
+       <td>Al realizar la interacción se mostrará informacion de la granja</td>
+       <td>5</td>
+       <td>Giacomo Zoppi</td>
+       <td>Done</td>
+    </tr>
+<tr>
+<tr>
+       <td>US15</td>
+       <td>Buscador de granjas con filtros</td>
+       <td>T05</td>
+       <td>Implementar cartas y que se filtren mediante la busqueda</td>
+       <td> Añadir información del lugar y presionar buscar</td>
+       <td>6</td>
+       <td>Mathias Kunimoto</td>
+       <td>Done</td>
+    </tr>
+<tr>
+       <td>US16</td>
+       <td> Acceso a valoraciones de otras empresas sobre granjas</td>
+       <td>T06</td>
+       <td>Agregar valoraciones </td>
+       <td>Añadir sección de valorar una granja</td>
+       <td>5</td>
+       <td>Fernando Salgado</td>
+       <td>Done</td>
+    </tr>
+ <td>US-19</td>
+       <td>Visualizacion de información detallada sobre el estado de cultivos y ganado</td>
+       <td>T07</td>
+       <td>Visualización estado de cultivo y ganado</td>
+       <td>Información detallada sobre el estado</td>
+       <td>5</td>
+       <td>Giacomo Zoppi</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+ <td>US-20</td>
+       <td>Visualizacion de estadísticas financieras</td>
+       <td>T07</td>
+       <td>Revisión de estadísticas financieras</td>
+       <td>Revisión detallada de estadísticas</td>
+       <td>6</td>
+       <td>Jean Barrionuevo</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+ <td>US-21</td>
+       <td>Registro del cumplimiento de tareas de producción</td>
+       <td>T07</td>
+       <td>Listeo del cumplimiento de tareas de producción</td>
+       <td>Registro completo del cumplimiento de tareas de producción</td>
+       <td>7</td>
+       <td>Fernando Salgado /
+            Rodrigo Aguilar /
+            Jean Barrionuevo</td>
+       <td>Done</td>
+    </tr>
+ <td>US-22</td>
+       <td>Emitir alertas de emergencia</td>
+       <td>T07</td>
+       <td>Informar alertas de emergencia</td>
+       <td>Emitir informe de alertas de emergencia</td>
+       <td>6</td>
+       <td>Fernando Salgado /
+            Rodrigo Aguilar /
+            Jean Barrionuevo</td>
+       <td>Done</td>
+    </tr>
+ <td>US-26</td>
+       <td>Verificacion de estado de actividades diarias y tiempo dedicado por los trabajadores</td>
+       <td>T07</td>
+       <td>Verificación de estado de actividades</td>
+       <td>Revision de estado de actividades</td>
+       <td>6</td>
+       <td>
+            Rodrigo Aguilar /
+            Jean Barrionuevo</td>
+       <td>Done</td>
+    </tr>
+
+   </table>
+
+
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+| Repository                                                      | Branch              | Commit id | Commit Message                             | Commit Message Body                 | Commited on (Date) |
+|-----------------------------------------------------------------|---------------------|--------|--------------------------------------------|-------------------------------------|-------------------- 
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/frontend-application.git | feature/communication-management | ce9ad2f | feat(communication-management): added description and history    | feat: added description and history | 01/05/2024         | 
+|                                                                 | feature/dashboard-analytics | b2e000f |feat(dashboard-analytics): updated task-card|feat: updated task-card        | 01/05/2024         | 
+|                                                                 | feature/monitoring       | 88aa536 |Fix(monitoring): fixed conlficts with dashboard      |Fix: fixed conlficts with dashboard               | 01/05/2024         | 
+|                                                                 | feature/monitoring-api-weather               | 8d9527d | fix(monitoring-api-weather): fixed merge with develop                 | fix: fixed merge with develop  | 01/05/2024         | 
+|                                                                 | payment_method      | 845b3a2 | fix: update landing page structure                   | fix: update landing page structure  | 01/05/2024         | 
+|  | feature/search-and-match  | f51e052 |feat(search-and-match): updated task description                |feat: updated task description          | 02/05/2024         |
+|  | feature/social-interaction       | 68969ae |feat(social-interaction): implementation of the components                |feat: implementation of the components               | 01/05/2024         |
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review.`
+
+Durante la entrega del segundo sprint, el equipo tuvo como objetivo principal implementar la website y que tenga funcionamiento. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>frontend-application</td>
+    <td>develop</td>
+    <td>25c0e1e</td>
+    <td>Rodrigo Aguilar</td>
+    <td>feat(develop): update complete</td>
+    <td>01/05/2024</td>
+  </tr>
+</table>
+
+<br/><br/>
+<br/><br/>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+Durante el Sprint 2, logramos la implementación y despliegue del website. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
+
+1. Sección  home<br/><br/>
+   En esta sección, se puede visualizar e interactuar con las granjas.
+
+<div align=center>
+   <img src="/assets/img-website-1.jpeg" alt="Website1"></img>
+</div>
+
+2. Sección de detalles de granja<br/><br/>
+   En esta sección, se puede observar informacion detallada de una granja.
+
+<div align=center>
+   <img src="/assets/img-website-2.jpeg" alt="Website2"></img>
+</div>
+
+3. Sección de Collaborator<br/><br/>
+   En esta sección, se puede observar los distintos aspectos que se puede realizar.
+
+<div align=center>
+   <img src="/assets/img-website-3.jpeg" alt="Website3"></img>
+</div>
+
+4. Sección Clima <br/><br/>
+   En esta sección, se visualizan el estado y pronostico del clima.
+<div align=center>
+   <img src="/assets/img-website-5.jpeg" alt="Clima"></img>
+</div>
+
+5. Sección Emergencias<br/><br/>
+   En esta sección, se visualizan la funcion de estado de emergencia de la granja.
+
+<div align=center>
+   <img src="/assets/img-website-6.jpeg" alt="Metodos"></img>
+</div>
+
+6. Sección Inventario<br/><br/>
+   En esta sección, aparecerán el estado de inventario de animales y cultivos.
+
+<div align=center>
+   <img src="/assets/img-website-7.jpeg" alt="Inventario"></img>
+</div>
+
+7. Sección Entrar<br/><br/>
+   En esta sección, aparecerán opciones para entrar.
+
+<div align=center>
+   <img src="/assets/img-website-8.jpeg" alt="Entrar"></img>
+</div>
+
+8. Sección Tareas<br/><br/>
+   En esta sección, aparecerán el estado de tareas.
+
+<div align=center>
+   <img src="/assets/img-website-9.jpeg" alt="Tareas"></img>
+</div>
+
+8. Sección Asignacion de Tareas<br/><br/>
+   En esta sección, aparecerán la asignacion de tareas.
+
+<div align=center>
+   <img src="/assets/img-website-10.jpeg" alt="Asignacion"></img>
+</div>
+
+8. Sección Estadisticas<br/><br/>
+   En esta sección, aparecerán las estadisticas y resultados del tiempo que revisen.
+
+<div align=center>
+   <img src="/assets/img-website-11.jpeg" alt="Estadisticas"></img>
+</div>
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+Para este segundo sprint no fue contemplada la evidencia de documentación de los servicios.
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint número 2, se desplegó la website completa.
+
+<div align=center>
+   <img src="/assets/img-website-sprint2.jpeg" alt="Website"></img>
+</div>
+
+Enlace para acceder a la website: https://farmlogitech-aw.web.app/
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+| Alumno                  | Actividad                                                              | 
+|-------------------------|------------------------------------------------------------------------|
+| Rodrigo Aguilar         | Implementación de monitoring-api-weather                               |
+| Fernando Salgado        | Implementación de communication-management<br/> and social-interaction |
+| Mathias Kunimoto        | Implementación de search-and-match                                     |
+| Jean Franco Barrionuevo | Implementación de dashboard-analytics                                  |
+| Giacomo Zoppi           | Implementación de monitoring                                           |
+
+<div align=center>
+   <img src="/assets/img-sprint-2.png" alt="Sprint 2"></img>
+</div>
+
+
 # Conclusiones
 
 - En conclusión, creemos que el proyecto FarmLogiTech es una aplicación que tiene un gran potencial para ayudar a los dueños de granja a gestionar sus granjas de manera eficiente y sostenible. A través de la implementación de una landing page atractiva y funcional, hemos logrado comunicar de manera efectiva los beneficios de la aplicación y atraer a los visitantes. Durante el Sprint 1, el equipo ha trabajado de manera colaborativa y eficiente para cumplir con los objetivos establecidos. A través de la implementación de las Historias de Usuario y la realización de pruebas de aceptación, hemos logrado desarrollar una landing page que cumple con los requerimientos del cliente. En el próximo Sprint, nos enfocaremos en el desarrollo de la aplicación y en la implementación de nuevas funcionalidades para mejorar la experiencia del usuario.
-
+  <br/>
+   <br/>
+- En resumen, creemos que FarmLogiTech tiene un enorme potencial para ayudar a los propietarios de granjas a administrar sus operaciones de manera eficiente y sostenible. Mediante la creación de una websitre, hemos logrado de manera efectiva aplicar los beneficios de la aplicación y atraer visitantes. Durante el segundo sprint, el equipo ha trabajado de manera colaborativa y eficiente para alcanzar los objetivos establecidos. Gracias a la implementación de historias de usuario y pruebas de aceptación, hemos desarrollado un sitio web que satisface los requisitos del cliente. En el próximo sprint, nos centraremos en el desarrollo de la aplicación y en la introducción de nuevas funcionalidades para mejorar la experiencia del usuario.
 ### Video de exposición
 
 [Video de exposición]()
-[Link del Landing page] (https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/)
+<br/>
+[Link del Landing page]  
+(https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/)
+
+[Link del Website]  
+(https://farmlogitech-aw.web.app/)
 
 # Bibliografía
-
 - Infobae. (2023, 22 de marzo). Crisis en el sector avícola: Precio del pollo se eleva, granjas quebradas y millones de aves sacrificadas por influenza. https://www.infobae.com/peru/2023/03/22/crisis-en-el-sector-avicola-precio-del-pollo-se-eleva-granjas-quebradas-y-millones-de-aves-sacrificadas-por-influenza/
 - AviNews. (2023, 14 de noviembre). Brote de influenza aviar en granja de postura comercial en Perú. https://avinews.com/peru-se-presenta-brote-de-influenza-aviar-en-granja-de-postura-comercial/
 - Gobierno Regional de Lima. (2021, 3 de mayo). Productores de Barranca apuestan por el cultivo de maracuyá. https://www.gob.pe/regionlima
@@ -3460,12 +3773,9 @@ Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del
 - UX Planet. (2017). Information Architecture. Basics for Designers. - UX Planet. Medium; UX Planet. https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20
 - Gothelf, J. (2024). Leanux Sampler. https://es.scribd.com/document/655516553/Leanux-Sampler
 
-‌
+- Infobae. (2023, 22 de marzo). Crisis en el sector avícola: Precio del pollo se eleva, granjas quebradas y millones de aves sacrificadas por influenza. https://www.infobae.com/peru/2023/03/22/crisis-en-el-sector-avicola-precio-del-pollo-se-eleva-granjas-quebradas-y-millones-de-aves-sacrificadas-por-influenza/
+- AviNews. (2023, 14 de noviembre). Brote de influenza aviar en granja de postura comercial en Perú. https://avinews.com/peru-se-presenta-brote-de-influenza-aviar-en-granja-de-postura-comercial/
+- Gobierno Regional de Lima. (2021, 3 de mayo). Productores de Barranca apuestan por el cultivo de maracuyá. https://www.gob.pe/regionlima 
 
-‌
 
-‌
 
-‌
-
-‌
