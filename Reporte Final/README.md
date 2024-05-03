@@ -522,14 +522,18 @@ User Assumptions
    - Empresas Grandes
    - Dueños de Granjas
    - Trabajadores de Granjas
+
 **2. ¿Donde entra nuestro producto en su trabajo o su vida?**
-   - Entra en su trabajo directamente. Encaja en la mejora de la gestión de procesos en una granja, lo que culmina en una mayor rentabilidad, así como un mejor funcionamiento de las granjas. 
+   - Entra en su trabajo directamente. Encaja en la mejora de la gestión de procesos en una granja, lo que culmina en una mayor rentabilidad, así como un mejor funcionamiento de las granjas.
+     
 **3. ¿Cual es el problema que nuestro producto soluciona?**
    - La dificil comunicación que puede resultar entre granjas y empresas. Así, como la desconfianza que puede haber en los productos de la granja. Además abre la puerta a negocios nuevos en un mercado saturado.
    - Problemas de optimización en las operaciones, asi como de organización y de promoción. 
    - Necesitan herramientas para facilitar la realización de tareas diarias y mejorar su eficiencia.
+     
 **4. ¿Como y cuando nuestro producto es usado?**
    El servicio será usado por los dueños y trabajadores de granja durante su jornada laboral o antes, para poder designar las tareas con anticipación o registrar el ingreso de nuevos animales o cultivos. Mientras que, por las empresas podrá ser utilizado cuando surja la necesidad de encontrar nuevos proveedores y formar alianzas estratégicas con agricultores. 
+
 **5. ¿Que caracteristicas son importantes?**
     - Un correcto funcionamiento
     - Organización de tareas y actividades de granja
@@ -537,6 +541,7 @@ User Assumptions
     - Asignación de tareas a empleados
     - Registro y organización de animales, cultivos y galpones.
     - Promoción, publicación y rating de granjas. 
+
 **6. ¿Como deberia nuestro producto verse o comportarse?**
     El producto debe verse con una interfaz simple, interactiva, atractiva e inclusiva. Debe poder comportarse correctamente, ser capaz de llamar la atención de quien la use, pero tambien otorgar una experiencia innovadora y acogedora a nuestro segmento objetivo.
     
