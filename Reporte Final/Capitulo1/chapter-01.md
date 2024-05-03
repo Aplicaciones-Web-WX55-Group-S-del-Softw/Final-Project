@@ -8,7 +8,7 @@
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Aplicaciones Web - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TB1
+    <br>INFORME DE TRABAJO FINAL - TP
 </p>
 
 <p align="center">
@@ -50,11 +50,10 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
 |:-------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|TB1| 02/04/2024 |Todos los integrantes del equipo| El equipo colaboró en la definición de la solución propuesta a través de un análisis Lean UX e identificación del segmento objetivo. Se recopilaron todos los requisitos necesarios, incluidos User Person, Product Backlog, Impact Mapping, entre otros. Luego se diseñaron maquetas y prototipos wireframe y mockups en base a la información recopilada. Finalmente, implementamos la landing page utilizando el sprint backlog para garantizar un control efectivo del progreso realizado.| 
+|1.0.0| 02/04/2024 |Todos los integrantes del equipo| TB1: El equipo colaboró en la definición de la solución propuesta a través de un análisis Lean UX e identificación del segmento objetivo. Se recopilaron todos los requisitos necesarios, incluidos User Person, Product Backlog, Impact Mapping, entre otros. Luego se diseñaron maquetas y prototipos wireframe y mockups en base a la información recopilada. Finalmente, implementamos la landing page utilizando el sprint backlog para garantizar un control efectivo del progreso realizado.| 
+|2.0.0| 02/05/2024 |Todos los integrantes del equipo| TP: El equipo colaboró corrigiendo errores y puliendo detalles de la entrega anterior. Luego, diseñamos nuestro Web Application Service, con el uso de Angular y sus componentes. | 
 
 <br><br>
-
-# Project Report Collaboration Insights
 
 
 # Contenido
