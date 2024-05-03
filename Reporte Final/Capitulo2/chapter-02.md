@@ -123,6 +123,75 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 </table>
 
 
+##2.1.2. Estrategias y tácticas frente a competidores. 
+Con ayuda del analisis competitivo, pudimos determinar con precisión las fortalezas, las oportunidades, debilidades y amenazas tanto de nuestro proyecto, como de los competidores. Con esta información, podremos construir estrategias y planear tacticas con acnitipcación que nos permitan destacar en el mercado: 
+
+**Fortalezas de nuestros competidores**
+- Facilita el seguimiento y la comunicación entre empleadores y trabajadores.
+- Permite a los usuarios proporcionar comentarios y evaluar su experiencia.
+- Ofrece opciones premium para empresas que buscan destacar sus ofertas laborales 
+
+**Nuestras fortalezas**
+-Variedad de trabajos temporales, seguimiento del estatus del trabajo, retroalimentación entre ambas partes y pago seguro para garantizar la satisfacción del empleador y trabajador.
+
+**Estrategias**
+- Enfatizar la Personalización y el Servicio al Cliente
+- Optimizar la Seguridad y Confianza
+
+**Tácticas**
+- Utilizar nuestra variedad de trabajos temporales como un punto de venta único.
+- Destacar nuestro sistema de seguimiento del estatus del trabajo y la retroalimentación entre empleadores y trabajadores como un diferenciador clave que garantiza una experiencia transparente y satisfactoria para ambas partes.
+- Establecer protocolos rigurosos de verificación y seguridad para todos los usuarios.
+
+**Debilidades de nuestros competidores**
+- La falta de funciones avanzadas de filtrado y búsqueda podría dificultar la navegación para los usuarios que buscan ofertas específicas.
+- La competencia con otras plataformas consolidadas podría dificultar la retención y adquisición de usuarios en un mercado saturado.
+- La opción premium para empresas podría limitar la visibilidad de algunas ofertas laborales para las empresas que no pueden pagar por esta opción.
+
+**Nuestras debilidades**
+- Inicialmente, no se podrá contar con comentarios de ninguna de las dos partes. Debido a que estamos iniciando desde cero.
+  
+**Estrategias**
+- Construir una Comunidad, asi como una base de Comentarios y Evaluaciones.
+- Diferenciarse en un Mercado Saturado:
+- Ofrecer Alternativas a las Opciones Premium
+  
+**Tacticas**
+- Crear una campaña de marketing creativa y convincente para destacarnos en un mercado saturado y captar la atención de los usuarios potenciales.
+- Iniciar un programa piloto con un grupo selecto de usuarios para recopilar comentarios y mejorar continuamente la plataforma antes de su lanzamiento completo.
+- Promover nuestras tarifas competitivas y transparentes como una alternativa a las opciones premium de la competencia
+
+**Oportunidades de nuestros competidores:** 
+- El desarrollo de alianzas estratégicas con empresas y universidades podría aumentar la diversidad de oportunidades laborales y atraer a más usuarios.
+- El enfoque en mercados específicos de América Latina podría permitir una mayor profundización en áreas locales y satisfacer necesidades específicas.
+- La opción de diversificar su gama de servicios para incluir capacitación y desarrollo profesional podría generar ingresos adicionales.
+
+**Nuestras oportunidades**
+- La creciente tendencia hacia trabajos temporales y flexibles podría impulsar la demanda de plataformas que se centran en este tipo de empleos
+
+**Estrategias**
+- Mayor enfoque en la Flexibilidad Laboral y Trabajos Temporales
+  
+**Tacticas**
+- Destacar nuestra especialización en trabajos temporales y flexibles como una ventaja competitiva en un mercado en crecimiento.
+- Desarrollar campañas de marketing dirigidas a aquellos que valoran la flexibilidad laboral
+
+**Amenazas de nuestros competidores**
+- El escaso número de funciones hace que muchas personas opten por buscar otra aplicación más completa.
+- La entrada de nuevos competidores y el aumento de la competencia en el mercado de búsqueda de empleo podría reducir su participación de mercado
+- La competencia de otras plataformas de búsqueda de empleo y la evolución de las tendencias de búsqueda de empleo podrían disminuir la relevancia de Laborum en el mercado.
+
+**Nuestras amenazas**
+- Dificultades para establecer relaciones sólidas y de confianza entre los usuarios y los empleadores.
+
+**Estrategias**
+- Mejorar la Funcionalidad y Complejidad de la Plataforma
+- Mejorar la Experiencia del Usuario
+- Diversificar Nuestra Oferta de Servicios:
+
+**Tacticas**
+- Identificar las áreas donde nuestra plataforma puede mejorar y desarrollar nuevas funciones para hacerla más completa y atractiva para los usuarios.
+- Centrarse en mejorar la experiencia del usuario en nuestra plataforma, asegurando que sea intuitiva, fácil de usar y que cumpla con las expectativas de los usuarios.
 
 ## 2.2. Entrevistas
 
@@ -362,24 +431,30 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 ### 2.3.4 Empathy Mapping
 A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
 - User Empathy Mapping trabajador en granja
-  ![Imagen de EmpathyMapping1](https://i.postimg.cc/Hxw80nyb/Empathy-Map-Trabajador.jpg)
+  ![Imagen de EmpathyMapping1](https://i.postimg.cc/j5sJHjtr/empathy-map-trabajador.png)
 - User Empathy Mapping dueño de granja
-  ![Imagen de EmpathyMapping2](https://i.postimg.cc/QCj9fDQw/Empathy-Map-Granjero.jpg)
+  ![Imagen de EmpathyMapping2](https://i.postimg.cc/50nQnM2Q/empathy-map-due-odegranja.png)
 - User Empathy Mapping empresaria
-  ![Imagen de EmpathyMapping3](https://i.postimg.cc/j50JJPLs/Empathy-Map-Empresaria.jpg)
-  Enlace de Miro: https://miro.com/app/board/uXjVKYifYmY=/?share_link_id=198034930149
+  ![Imagen de EmpathyMapping3](https://i.postimg.cc/TPjD5b89/empathy-map-empresaria.png)
+  
 ### 2.3.5 As-Is Scenario Mapping
 A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
+Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las columnas correspondientes de forma individual. De ahi lo que hicimos fue identificar fases y agrupamos las ideas en las diferentes columnas. 
 - User As-Is Scenario trabajador en granja
   ![Imagen de As-Is1](https://i.postimg.cc/B6j4sVqb/Scenario-Mapping-Trabajador.jpg)
 - User As-Is Scenario dueño de granja
-  ![Imagen de As-Is2](https://i.postimg.cc/Zq74GSzX/Scenario-Mapping-Granjero.jpg)
+  ![Imagen de As-Is2](https://i.postimg.cc/L89XQbGz/as-is-due-ogranja.png)
 - User As-Is Scenario empresaria
-  ![Imagen de As-Is3](https://i.postimg.cc/tgC9vgwh/Scenario-Mapping-Empresaria.jpg)
-  Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860
+  ![Imagen de As-Is3](https://i.postimg.cc/sDR17XcH/as-is-empresa.png)
+  Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860 
 ## 2.4 Ubiquitous Language
-- **Plataforma**: Representación de un sistema digital
-- **Perfil**: Conjunto de datos del usuario
-- **Dispositivo**: IoT = Red de objetos y dispositivos que son capaces de transmitir y recibir datos usando internet
-
-cupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores, y los incentivos que podrían motivar a utilizar un sitio web como FarmLogitech para su empresa.
+- **Outcomes**: Se refiere a los efectos o consecuencias de una acción o evento.
+- **Communal farmer**(Comunero): Individuo que es miembro de una comunidad agrícola y posee tierras de manera comunal.
+- **Landholder**(Posesionario): Persona que posee derechos de uso sobre una propiedad, pero no es el propietario legal.
+- **Profile**(Perfil): Descripción o representación de las características, habilidades o historial de una persona o entidad.
+- **Inventory**(Inventario): Lista detallada de bienes, productos o recursos disponibles en un determinado momento.
+- **Monitory**(Monitoreo): Acción de vigilar, supervisar o controlar continuamente una situación o actividad.
+- **Shed**(Galpón): Edificio o estructura destinada para almacenar herramientas, equipos o productos agrícolas.
+- **Login**(Inicio de sesión): Acción de acceder a un sistema o plataforma digital mediante la introducción de credenciales de usuario.
+- **Fee**(Tarifa): Precio o costo establecido por un servicio o producto.
+- **Agricultural**: Relacionado con la agricultura y la cría de animales.
