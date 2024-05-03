@@ -202,7 +202,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T01</td>
        <td>Agregar divs para los servicios  en la landing page</td>
        <td>Diseñar los servicios que ofrecemos usando divs</td>
-       <td>2</td>
+       <td>5</td>
        <td>Mathias Kunimoto</td>
        <td>Done</td>
     </tr>
@@ -212,7 +212,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T02</td>
        <td>Agregar un carrusel en la landing page</td>
        <td>Diseñar un carrusel para la interacción con el usuario</td>
-       <td>2</td>
+       <td>5</td>
        <td>Rodrigo Aguilar </td>
        <td>Done</td>
     </tr>
@@ -222,7 +222,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T03</td>
        <td>Agregar divs para las suscripciones en la landing page</td>
        <td>Diseñar los planes que ofrecemos usando divs</td>
-       <td>2</td>
+       <td>5</td>
        <td>Giacomo Zoppi</td>
        <td>Done</td>
     </tr>
@@ -233,7 +233,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T04</td>
        <td>Agregar divs para los métodos de pago en la landing page</td>
        <td>Colocar las imagenes de los métodos de pagos usando div</td>
-       <td>2</td>
+       <td>6</td>
        <td>Giacomo Zoppi</td>
        <td>Done</td>
     </tr>
@@ -244,7 +244,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T05</td>
        <td>Agregar interacción con los planes</td>
        <td> Añadir la función hover para planes interactivos</td>
-       <td>2</td>
+       <td>5</td>
        <td>Jean Franco Barrionuevo</td>
        <td>Done</td>
     </tr>
@@ -254,7 +254,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T06</td>
        <td>Agregar responsive </td>
        <td>Añadir responsXive al landing page para que se pueda acoplar a cualquier dispositivo</td>
-       <td>1</td>
+       <td>5</td>
        <td>Mathias Kunimoto</td>
        <td>Done</td>
     </tr>
@@ -263,7 +263,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
        <td>T07</td>
        <td>Agregar Colaboradores </td>
        <td>Añadir creadores del  landing page </td>
-       <td>1</td>
+       <td>4</td>
        <td>Fernando Salgado</td>
        <td>Done</td>
     </tr>
@@ -391,14 +391,14 @@ Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del
 ### 5.2.1 Sprint 2.
 #### 5.2.1.1 Sprint Planing 2.
 
-A partir del 23/04/2024 el segundo sprint tiene como meta corregir errores en la landing page y desarrollar el frontend, así como una fake API, de manera que resulten atractivos y completamente funcionales.
+A partir del 23/04/2024 el segundo sprint tiene como meta corregir errores en la landing page y desarrollar el website, así como una fake API, de manera que resulten atractivos y completamente funcionales.
 
-| Sprint | Prepared Date | Time      | Location                              | Prepared By     | Attendees                                                                                   | Sprint 1 Goal                                                                               | Sprint 1 Velocity | Sum of Story Points |
-|--------|---------------|-----------|---------------------------------------|-----------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------|---------------------|
-|   2    | 23/04/2024    | 11:30  PM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Giacomo Zoppi, Fernando Salgado, Jean franco Barrionuevo | Corregir los errores de la landing page y desarrollar el frontend de la aplicación FarmLogiTech para que resulte atractivo visualmente y funcione correctamente. | 22                | 22                  |
+| Sprint | Prepared Date | Time      | Location                              | Prepared By     | Attendees                                                                                   | Sprint 2 Goal                                          | Sprint 1 Velocity | Sum of Story Points |
+|--------|---------------|-----------|---------------------------------------|-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------|-------------------|---------------------|
+|   2    | 23/04/2024    | 11:30  PM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Giacomo Zoppi, Fernando Salgado, Jean franco Barrionuevo | Implementar la website para la aplicación FarmLogiTech | 22                | 22                  |
 
 #### 5.2.1.2. Sprint Backlog 2.
-En el primer sprint, el equipo tuvo como objetivo principal crear una landing page atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
+En el segundo sprint, el equipo tuvo como objetivo principal crear la website atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
 
 <div align=center>
    <img src="/assets/img-trello.png" alt="Trello"></img>
@@ -409,7 +409,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
 <table align="center" border="1" width="90%" style="text-align:center">
     <tr>
        <td colspan="1"><b>Sprint #</b></td>
-       <td colspan="7"><b>Sprint 1</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
      </tr>
      <tr>
        <td colspan="2"><b>User Story</b></td>
@@ -427,74 +427,109 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
      </tr>
      <tr>
    <tr>
-       <td>US01</td>
-       <td>Descripcion clara de los servicios</td>
+       <td>US10</td>
+       <td>Crear y asignar tareas a los trabajadores</td>
        <td>T01</td>
-       <td>Agregar divs para los servicios  en la landing page</td>
-       <td>Diseñar los servicios que ofrecemos usando divs</td>
-       <td>2</td>
-       <td>Mathias Kunimoto</td>
+       <td>Agregar funcionalidades para implementar la asignación</td>
+       <td>Diseñar la tabla de tareas en donde se va a ir almacenando</td>
+       <td>6</td>
+       <td>Fernando Salgado /
+            Rodrigo Aguilar /
+            Jean Barrionuevo</td>
        <td>Done</td>
     </tr>
 <tr>
-       <td>US06</td>
-       <td>Interacción de imágenes en la landing page</td>
+       <td>US12</td>
+       <td>Registro de progreso de tareas</td>
        <td>T02</td>
-       <td>Agregar un carrusel en la landing page</td>
-       <td>Diseñar un carrusel para la interacción con el usuario</td>
-       <td>2</td>
-       <td>Rodrigo Aguilar </td>
+       <td>Agregar una tabla de tareas</td>
+       <td>Diseñar la tabla de tareas y hacer que funcione el registro</td>
+       <td>5</td>
+       <td>Jean Barrionuevo</td>
        <td>Done</td>
     </tr>
 <tr>
-       <td>US02</td>
-       <td> Planes de suscripción en la landing page</td>
+       <td>US14</td>
+       <td>Ver información detallada de las granjas</td>
        <td>T03</td>
-       <td>Agregar divs para las suscripciones en la landing page</td>
-       <td>Diseñar los planes que ofrecemos usando divs</td>
-       <td>2</td>
+       <td>Agregar interaccion cuando presiones una carta</td>
+       <td>Al realizar la interacción se mostrará informacion de la granja</td>
+       <td>5</td>
        <td>Giacomo Zoppi</td>
        <td>Done</td>
     </tr>
 <tr>
 <tr>
-       <td>US02</td>
-       <td> Métodos de pago en la landing page</td>
-       <td>T04</td>
-       <td>Agregar divs para los métodos de pago en la landing page</td>
-       <td>Colocar las imagenes de los métodos de pagos usando div</td>
-       <td>2</td>
-       <td>Giacomo Zoppi</td>
-       <td>Done</td>
-    </tr>
-<tr>
-<tr>
-       <td>US02</td>
-       <td> Planes de suscripción en la landing page</td>
+       <td>US15</td>
+       <td>Buscador de granjas con filtros</td>
        <td>T05</td>
-       <td>Agregar interacción con los planes</td>
-       <td> Añadir la función hover para planes interactivos</td>
-       <td>2</td>
-       <td>Jean Franco Barrionuevo</td>
-       <td>Done</td>
-    </tr>
-<tr>
-       <td>US04</td>
-       <td>Adaptación de landing page a dispositivos</td>
-       <td>T06</td>
-       <td>Agregar responsive </td>
-       <td>Añadir responsXive al landing page para que se pueda acoplar a cualquier dispositivo</td>
-       <td>1</td>
+       <td>Implementar cartas y que se filtren mediante la busqueda</td>
+       <td> Añadir información del lugar y presionar buscar</td>
+       <td>6</td>
        <td>Mathias Kunimoto</td>
        <td>Done</td>
     </tr>
- <td>US05</td>
-       <td>Adaptación de sección de colaboradores en la landing page </td>
-       <td>T07</td>
-       <td>Agregar Colaboradores </td>
-       <td>Añadir creadores del  landing page </td>
-       <td>1</td>
+<tr>
+       <td>US16</td>
+       <td> Acceso a valoraciones de otras empresas sobre granjas</td>
+       <td>T06</td>
+       <td>Agregar valoraciones </td>
+       <td>Añadir sección de valorar una granja</td>
+       <td>5</td>
        <td>Fernando Salgado</td>
+       <td>Done</td>
+    </tr>
+ <td>US-19</td>
+       <td>Visualizacion de información detallada sobre el estado de cultivos y ganado</td>
+       <td>T07</td>
+       <td>Visualización estado de cultivo y ganado</td>
+       <td>Información detallada sobre el estado</td>
+       <td>5</td>
+       <td>Giacomo Zoppi</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+ <td>US-20</td>
+       <td>Visualizacion de estadísticas financieras</td>
+       <td>T07</td>
+       <td>Revisión de estadísticas financieras</td>
+       <td>Revisión detallada de estadísticas</td>
+       <td>6</td>
+       <td>Jean Barrionuevo</td>
+       <td>Done</td>
+    </tr>
+    </tr>
+ <td>US-21</td>
+       <td>Registro del cumplimiento de tareas de producción</td>
+       <td>T07</td>
+       <td>Listeo del cumplimiento de tareas de producción</td>
+       <td>Registro completo del cumplimiento de tareas de producción</td>
+       <td>7</td>
+       <td>Fernando Salgado /
+            Rodrigo Aguilar /
+            Jean Barrionuevo</td>
+       <td>Done</td>
+    </tr>
+ <td>US-22</td>
+       <td>Emitir alertas de emergencia</td>
+       <td>T07</td>
+       <td>Informar alertas de emergencia</td>
+       <td>Emitir informe de alertas de emergencia</td>
+       <td>6</td>
+       <td>Fernando Salgado /
+            Rodrigo Aguilar /
+            Jean Barrionuevo</td>
+       <td>Done</td>
+    </tr>
+ <td>US-26</td>
+       <td>Verificacion de estado de actividades diarias y tiempo dedicado por los trabajadores</td>
+       <td>T07</td>
+       <td>Verificación de estado de actividades</td>
+       <td>Revision de estado de actividades</td>
+       <td>6</td>
+       <td>
+            Rodrigo Aguilar /
+            Jean Barrionuevo</td>
        <td>Done</td>
     </tr>
 
@@ -504,15 +539,15 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-| Repository                                                      | Branch              | Commit id | Commit Message                             | Commit Message Body                                                            | Commited on (Date) |
-|-----------------------------------------------------------------|---------------------|--------|--------------------------------------------|--------------------------------------------------------------------------------|-------------------- 
-| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/landing-page | add-carousel-images | 2db2724 | feat: update index(image carousel)         |  feat: update index(image carousel)                           | 13/04/2024         | 
-|                                                                 | add-carousel-images | 2db2724 | feat: added carousel images| feat: added carousel images| 13/04/2024         | 
-|                                                                 | add-rates-box       | eb93732 | feat: added rates box      | feat: added rates box       | 13/04/2024         | 
-|                                                                 | main                | 845b3a2 | fix: update landing page structure                     | fix: update landing page structure | 13/04/2024         | 
-|                                                                 | payment_method      | 845b3a2 | fix: update landing page structure                     | fix: update landing page structure| 13/04/2024         | 
-|  | add-features-boxes  | 8d4b6f2 | feat: added features boxes                 |feat: added features boxes | 13/04/2024         |
-|  | add-about-us        | 581c794 | feat: added about us                |feat: added about us | 13/04/2024         |
+| Repository                                                      | Branch              | Commit id | Commit Message                             | Commit Message Body                 | Commited on (Date) |
+|-----------------------------------------------------------------|---------------------|--------|--------------------------------------------|-------------------------------------|-------------------- 
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/frontend-application.git | feature/communication-management | ce9ad2f | feat(communication-management): added description and history    | feat: added description and history | 01/05/2024         | 
+|                                                                 | feature/dashboard-analytics | b2e000f |feat(dashboard-analytics): updated task-card|feat: updated task-card        | 01/05/2024         | 
+|                                                                 | feature/monitoring       | 88aa536 |Fix(monitoring): fixed conlficts with dashboard      |Fix: fixed conlficts with dashboard               | 01/05/2024         | 
+|                                                                 | feature/monitoring-api-weather               | 8d9527d | fix(monitoring-api-weather): fixed merge with develop                 | fix: fixed merge with develop  | 01/05/2024         | 
+|                                                                 | payment_method      | 845b3a2 | fix: update landing page structure                   | fix: update landing page structure  | 01/05/2024         | 
+|  | feature/search-and-match  | f51e052 |feat(search-and-match): updated task description                |feat: updated task description          | 02/05/2024         |
+|  | feature/social-interaction       | 68969ae |feat(social-interaction): implementation of the components                |feat: implementation of the components               | 01/05/2024         |
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.`
 
 Para la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del Landing Page. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro landing page. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
