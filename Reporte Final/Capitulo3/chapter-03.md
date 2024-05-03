@@ -747,6 +747,9 @@
 
 
 ## 3.3 Impact Mapping
+![Imagen de Impact Mapping del dueño de granja y empresaria](https://camo.githubusercontent.com/60494495a22e22d53a6d9bdf085461386f32857b01ecf5339ec50851db8e350a/68747470733a2f2f692e706f7374696d672e63632f54314e54486a46562f496d706163742d4d617070696e672d4475652d6f2d64652d6772616e6a612d792d456d707265736172696f2e6a7067)
+
+![Imagen de Impact Mapping del dueño de granja y empresaria](https://i.postimg.cc/RFGYLGJV/impact-map-due-oempresas.jpg)
 
 ## 3.4 Product Backlog
 
