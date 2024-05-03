@@ -263,10 +263,15 @@ TP:Gracias a la ejecución del proyecto, pudimos establecer conexiones con profe
 
 <br><br>
 
+
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
 ### 1.1.1. Description de la StartUp
 FarmLogiTech es una plataforma fundada el 22 de marzo de 2024 por un equipo de cinco estudiantes. El propósito es brindar soluciones completas para la administración agrícola, promoviendo la cooperación entre corporaciones, propietarios de granjas y trabajadores del campo.
+
+**Misión**: Nuestra misión en FarmLogiTech es revolucionar la industria agrícola al proporcionar soluciones tecnológicas integrales que optimicen la gestión de las actividades agrícolas, promoviendo la colaboración y la eficiencia en toda la cadena de valor. Nos esforzamos por empoderar a los agricultores, corporaciones y trabajadores del campo al ofrecer herramientas innovadoras que impulsen el crecimiento sostenible, la productividad y el bienestar tanto de las personas como del medio ambiente.
+
+**Visión**: En FarmLogiTech, visualizamos un futuro donde la tecnología agrícola transforma radicalmente la forma en que se cultiva, gestiona y distribuye la comida en todo el mundo. Nos vemos como líderes en la vanguardia de esta transformación, siendo reconocidos por nuestra capacidad para conectar a los diferentes actores del sector agrícola y proporcionar soluciones que aborden los desafíos más apremiantes de la agricultura moderna. Aspiramos a crear un ecosistema agrícola global más colaborativo, eficiente y sostenible, donde la innovación tecnológica impulse el progreso y mejore la calidad de vida de las comunidades agrícolas en todo el planeta.
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center" border="1" width="70%" style="text-align:center;">
@@ -282,9 +287,16 @@ Mathias Tsuneo Kunimoto Watanabe
     </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
+        <b>Código de estudiantes: </b>
         <br>
-        Ing. de Software
+        u202210148
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera: </b>
+        <br>
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
@@ -305,11 +317,18 @@ Mathias Tsuneo Kunimoto Watanabe
 Rodrigo Alejandro Aguilar Castillo
 </td>
     </tr>
-     <tr>
+    <tr>
         <td align="left">
-        <b>Carrera:</b>
+        <b>Código de estudiantes: </b>
         <br>
-        Ing. de Software
+        u202210584
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera: </b>
+        <br>
+        Ingeniería de Software
         </td>
     </tr>
    <tr>
@@ -329,11 +348,18 @@ Rodrigo Alejandro Aguilar Castillo
 Fernando Brian Salgado Luna
 </td>
     </tr>
+     <tr>
+        <td align="left">
+        <b>Código de estudiantes: </b>
+        <br>
+        u202212023
+        </td>
+    </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
+        <b>Descripción de carrera: </b>
         <br>
-        Ing. de Software
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
@@ -353,11 +379,18 @@ Fernando Brian Salgado Luna
 Jean Franco Joel Barrionuevo Reto
 </td>
     </tr>
+     <tr>
+        <td align="left">
+        <b>Código de estudiantes: </b>
+        <br>
+        u202219284
+        </td>
+    </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
+        <b>Descripción de carrera: </b>
         <br>
-        Ing. de Software
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
@@ -377,11 +410,18 @@ Jean Franco Joel Barrionuevo Reto
 Giacomo Zoppi Rodríguez
 </td>
     </tr>
+     <tr>
+        <td align="left">
+        <b>Código de estudiantes: </b>
+        <br>
+        u202210029
+        </td>
+    </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
+        <b>Descripción de carrera: </b>
         <br>
-        Ing. de Software
+        Ingeniería de Software
         </td>
     </tr>
     <tr>
@@ -397,87 +437,171 @@ Giacomo Zoppi Rodríguez
 ### 1.2.1. Antecedentes y problemática
 La industria agrícola y ganadera enfrenta desafíos significativos en términos de mejorar la producción, calidad y gestión de cultivos y ganado. Los agricultores y ganaderos se ven presionados por el crecimiento de la población mundial y los cambios en las demandas del mercado, pero enfrentan obstáculos como la falta de herramientas tecnológicas, la coordinación ineficiente entre granjasy la escasez de información en tiempo real sobre el estado de los cultivos, condiciones climáticas y bienestar animal. Según un informe de Rizia, Ana (2020) publicado en la página del MBA USP, muchos ganaderos pueden carecer de la capacitación necesaria en gestión agrícola y comercialización, lo que dificulta la toma de decisiones informadas y eficientes. Además, la falta de un control financiero adecuado puede llevar a dificultades económicas y poner en riesgo la viabilidad de la granja a largo plazo.
 
+Siguiendo la estructura propuesta
+
 -   **What?**
 
     La industria  enfrenta desafíos significativos en la gestión eficiente de las granjas, debido a la falta de herramientas tecnológicas adecuadas y la presión para aumentar la producción y calidad de los cultivos.
 
 
 -   **When?**
-
+    ¿Cuando estamos viendo el problema? 
     Este problema ha ido aumentando en los últimos años, especialmente con el crecimiento de la población y los cambios en las demandas del mercado agrícola.
+    
+    ¿En que momento del día y/o del proceso en cuestión?
+    Durante las horas de trabajo y en el proceso de organización de tareas.  
 
 -   **Where?**
-
+      ¿Donde estamos viendo los problemas?¿En que parte/lugar del producto/proceso estamos viendo el problema?
     Este problema es global y afecta a las granjas en diversas regiones del mundo, tanto en países desarrollados como en desarrollo.
 
 -   **Who?**
-
-    Los agricultores, tanto pequeños como grandes, están directamente involucrados en estas dificultades, ya que son responsables de la producción agrícola y deben enfrentar las demandas del mercado.
+      ¿A quien le sucede? ¿El problema está relacionado con las habilitades de las personas?
+    Los agricultores, tanto pequeños como grandes, están directamente involucrados en estas dificultades, ya que son responsables de la producción agrícola y deben enfrentar las demandas del mercado. Asi que sí, esta relacionado con sus habilidades en cuanto a teconologia y organización se refiere. 
 
 - **Why?**
-
-    Es crucial abordar esta problemática porque la agricultura desempeña un papel fundamental en la alimentación de la creciente población mundial y en la economía global.
+    ¿Por qué sucede el problema? ¿Cual es la causa?
+  Es crucial abordar esta problemática porque la agricultura desempeña un papel fundamental en la alimentación de la creciente población mundial y en la economía global.
 
 -   **How?**
-
-    Se necesitan soluciones tecnológicas innovadoras que ayuden a los agricultores a optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola. 
-
+    ¿Como se diferencia el problema del estado normal(optimo)? ¿La tendencia en la que aparece el problema es aleatoria o sigue un patrón?
+    El problema genera que muchas veces el sistema de organización resulte ineficaz. En su lugar, si el sistema fuera optimo, las tareas serian claras y la producción seria mucho mas         eficiente. 
+    ¿Como se utilizará el producto? 
+    Permitirá a los agricultores optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola.
+    
 -   **How much?**
-
+    ¿Cuantos problemas se dan en un dia? ¿En una semana? ¿En un mes?
+    Esto genera dificultades en el dia a dia de los dueños de granjas y agricultores independientes. 
+    ¿Cuanto dinero están implicando?
     El costo de implementar estas soluciones tecnológicas puede variar dependiendo de la escala de la granja y los recursos disponibles para la adopción de tecnología agrícola.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 
-- La  administración de las tareas agrícolas y la  colaboración entre grandes empresas y propietarios de granjas representan desafíos fundamentales en la industria agrícola. Además la gestión diaria de las operaciones en las granjas es esencial para aumentar la productividad y eficiencia de los trabajadores. Por otro lado, mejorar la colaboración entre empresas y propietarios de granjas es vital para facilitar asociaciones provechosas que impulsen el crecimiento y la rentabilidad en toda la cadena de suministro agrícola.
+Siguiendo la estructura propuesta por Jeff Gothelf y Josh Seiden, en su libro "Lean Ux":
+
+- El estado actual de la industria agricola se ha centrado en la administación de tareas agricolas con herramientas anticuadas y poco eficaces . Estos pain points incluyen desafios en las operaciones de granja como la organización del trabajo. 
+
+Lo que los productos existentes no logran abordar es la implementación de herramientras eficientes de organización de granjas, lo que afecta la rentabilidad en toda la cadena de suministro agrícola.
+
+Nuestro producto/servicio abordará esta brecha al proporcionar una plataforma integral para optimizar la gestión de tareas. 
+
+Nuestro enfoque inicial estará en involucrar a grandes empresas agrícolas, propietarios de granjas y personal de campo que buscan optimizar sus operaciones.
+
+Sabremos que hemos tenido éxito cuando veamos un aumento en la adopción de nuestra plataforma entre nuestro público objetivo, lo que llevará a una mayor eficiencia en las operaciones de las granjas. 
+
+- El estado actual de la industria agricola  se ha centrado en la colaboración de grandes empresas y propietarios de granjas mediante intermediarios o medios de comunicación poco eficaces .Estos pain points incluyen desafios en las operaciones de granja como problemas con la comunicación entre dueños de granjas  y empresas.
+
+Lo que los productos existentes no logran abordar es la implementación de herramientras eficientes de organización y visualización de granjas, lo que dificulta la facilitación de asociaciones beneficiosas que impulsen el crecimiento de la industria. 
+
+Nuestro producto/servicio abordará esta brecha al proporcionar una plataforma integral para fomentar una colaboración fluida entre empresas agrícolas y propietarios de granjas.
+
+Nuestro enfoque inicial estará en involucrar a grandes empresas agrícolas y propietarios de granjas que buscan optimizar sus operaciones y mejorar la colaboración para beneficio mutuo.
+
+Sabremos que hemos tenido éxito cuando veamos un aumento en la adopción de nuestra plataforma entre nuestro público objetivo y una mayor fortaleza en las asociaciones dentro del ecosistema agrícola.
 
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes:**
-- Aumento de la productividad y eficiencia en las operaciones agrícolas.
-- Mejora en la colaboración entre empresas grandes y dueños de granjas.
-- Incremento en la rentabilidad y calidad de los productos agrícolas.
+1. **Creemos que nuestros usuarios necesitan**: Una forma mas eficaz de organizar las actividades, producción, egresos y ventas de su granja. Así como facilitar la comunicación entre empresas y granjas. 
+2. **Estas necesidades se pueden satisfacer**: Con la creación de un proyecto que les permita acceder a estas funcionalidades desde su telefono movil u ordenador. 
+3. **Nuestros clientes iniciales serán**: Los dueños de granjas, trabajadores de granjas y empresas. 
+4. **El valor #1 que un cliente quiere de nuestro servicio es:** registrar y organizar la producción de su granja
+   **Los clientes tambien pueden obtener:** la visualización, promoción y facil asociacion con empresas. 
+5. **Vamos a obtener la mayoria de los clientes mediante** publicidad en linea y campañas en internet o televisión. 
+6. **Vamos a hacer dinero mediante** las suscripciones premium. 
+7. **Nuestra competencia en el mercado serán** las plataformas dedicadas tambien a la organización de actividades de granja. 
+    **Vamos a tener ventaja frente a nuestra competencia debido a**que ofrecemos un registro de animales, cultivos, galpones, asi como una promoción de granjas. 
+8. **El mayor riesgo de producción es** que el segmento objetivo, en especial los trabajadores de granja o dueños de granja no se encuentren dispuestos a cambiar su modus operandi y adaptarse al avance tecnologico. 
+   **Lo resolvemos realizando**una promoción adecuada que logre cautivar a nuestro segmento obejtivo. Así como una interfaz accesible y facil de utilizar. 
+9. **Que otros assumptions tenemos, que si son probados como falsos, podria ocasionar que nuestro proyecto fracase:**Las empresas grandes no usen nuestra aplicación para comunicarse con los dueños de granjas. En ese caso, perderiamos gran parte de nuestro segmento, así como la funcionalidad de promoción de granjas y asociación con empresas. 
 
-**Users:**
-- Empresas Grandes: Interesadas en mejorar su cadena de suministro y obtener productos agrícolas de alta calidad.
-- Dueños de Granjas: Buscan optimizar la gestión de sus operaciones y aumentar su rentabilidad.
-- Trabajadores de Granjas: Necesitan herramientas para facilitar la realización de tareas diarias y mejorar su eficiencia.
+User Assumptions
+**1. ¿Quien es el usuario?**
+   - Empresas Grandes
+   - Dueños de Granjas
+   - Trabajadores de Granjas
+
+**2. ¿Donde entra nuestro producto en su trabajo o su vida?**
+   - Entra en su trabajo directamente. Encaja en la mejora de la gestión de procesos en una granja, lo que culmina en una mayor rentabilidad, así como un mejor funcionamiento de las granjas.
+     
+**3. ¿Cual es el problema que nuestro producto soluciona?**
+   - La dificil comunicación que puede resultar entre granjas y empresas. Así, como la desconfianza que puede haber en los productos de la granja. Además abre la puerta a negocios nuevos en un mercado saturado.
+   - Problemas de optimización en las operaciones, asi como de organización y de promoción. 
+   - Necesitan herramientas para facilitar la realización de tareas diarias y mejorar su eficiencia.
+     
+**4. ¿Como y cuando nuestro producto es usado?**
+   El servicio será usado por los dueños y trabajadores de granja durante su jornada laboral o antes, para poder designar las tareas con anticipación o registrar el ingreso de nuevos animales o cultivos. Mientras que, por las empresas podrá ser utilizado cuando surja la necesidad de encontrar nuevos proveedores y formar alianzas estratégicas con agricultores. 
+
+**5. ¿Que caracteristicas son importantes?**
+    - Un correcto funcionamiento
+    - Organización de tareas y actividades de granja
+    - Registro y organización de empleados.
+    - Asignación de tareas a empleados
+    - Registro y organización de animales, cultivos y galpones.
+    - Promoción, publicación y rating de granjas. 
+
+**6. ¿Como deberia nuestro producto verse o comportarse?**
+    El producto debe verse con una interfaz simple, interactiva, atractiva e inclusiva. Debe poder comportarse correctamente, ser capaz de llamar la atención de quien la use, pero tambien otorgar una experiencia innovadora y acogedora a nuestro segmento objetivo.
+    
+
 
 **User Outcomes:**
 - Empresas Grandes: Acceso a productos agrícolas de alta calidad y mejora en la eficiencia de su cadena de suministro.
 - Dueños de Granjas: Mayor eficiencia en la gestión de las operaciones agrícolas y aumento en la rentabilidad.
 - Trabajadores de Granjas: Facilidad para realizar tareas diarias y mejora en su eficiencia laboral.
 
+**Feature Assumptions**
+- **Creemos que** el producto debe contar con planes estandares y premium que se adapten a lo que necesite el usuario, ofreciendo así una mayor flexibilidad y un valor agregado.
+- **Creemos que** el producto debe podar hacer uso del catálogo de granjas para alianzas empresariales.
+- **Creemos que** el producto debe poder ofrecer la funcionalidad de valoración y contacto de granja.
+- **Creemos que** el producto debe ofrecer un sistema de seguimiento en tiempo real del estado de los cultivos y el bienestar animal en la plataforma,
+- **Creemos que** el prodcuto debe implementar características de comunicación en tiempo real y herramientas de colaboración para mejorar la coordinación entre propietarios de granjas  y trabajadores agrícolas.
+- **Creemos que** el producto debe ofrecer una plataforma tecnológica completa para la gestión eficaz de actividades agrícolas y ganaderas
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Creemos que al implementar un sistema de seguimiento y análisis de datos agrícolas, podemos mejorar la toma de decisiones y la eficiencia en las operaciones agrícolas.
-- Creemos que al integrar funcionalidades de pronóstico meteorológico en la plataforma, podemos ayudar a los agricultores a tomar medidas preventivas contra eventos climáticos adversos.
-- Creemos que al ofrecer una interfaz intuitiva y fácil de usar en la plataforma, podemos aumentar tanto por parte de los usuarios, lo que resultará en una mayor satisfacción del cliente y una mayor retención.
-- Creemos que al ofrecer herramientas de análisis de rendimiento de cultivos en tiempo real, podemos proporcionar a los agricultores información detallada sobre el rendimiento de sus cultivos y áreas de mejora, lo que resultará en una optimización de los procesos de producción agrícola.
-- Creemos que al incorporar características de planificación de cultivos y rotación de cultivos en la plataforma, podemos ayudar a los agricultores a maximizar el rendimiento de sus tierras y mejorar la sostenibilidad a largo plazo de sus operaciones.
-- Creemos que al estar al tanto del bienestar animal, podemos proporcionar a los ganaderos información crucial sobre la salud y el comportamiento de su ganado, lo que resultará en una mejor atención y manejo, así como en la detección temprana de problemas de salud.
+Siguiendo el siguiente formato, extraido del libro "Lean Ux, 3rd edition", escrito por Jeff Gothelf y Josh Seiden: "We believe that [business outcome] will be achieved if [user] attains [user benefit] with [feature]".
+
+
+1. Nosotros creemos que el aumento de  la adopción y fidelización  de usuarios  será conseguido si los dueños de granja y agricultores independientes tienen una mejora en la gestión de operaciones agrícolas y en la calidad de los productos con la implementación de planes estándar y premium que se adapten a lo que necesite el usuario, ofreciendo así una mayor flexibilidad y un valor agregado.
+
+
+2. Nosotros creemos que el establecimiento de alianzas estratégicas entre empresas y granjas será conseguido si las empresas agrícolas y ganaderas interesadas en asociarse con granjas tienen una facilitación en la visualización  y colaboración entre granjas y empresas con el uso del catálogo de granjas para alianzas empresariales. 
+
+3. Nosotros creemos que el establecimiento de alianzas estratégicas entre empresas y granjas será conseguido si los dueños de granjas y agricultores independientes tienen una facilitación en la visualización y colaboración entre granjas y empresas con la funcionalidad de valoración y contacto de granja.
+
+4. Nosotros creemos que la reducción de pérdidas económicas y de productos será conseguido si los dueños de granjas y agricultores independientes tienen una mejora en la gestión de operaciones agrícolas y en la calidad de productos con un sistema de seguimiento en tiempo real del estado de los cultivos y el bienestar animal en la plataforma.
+
+5.Nosotros creemos que la reducción de pérdidas económicas y calidad de productos será conseguida si los trabajadores agrícolas y personal de granja tienen una mayor eficiencia y productividad en las tareas de la granja con la implementación de características de comunicación en tiempo real y herramientas de colaboración para mejorar la coordinación entre propietarios de granjas  y trabajadores agrícolas.
+
+6. Nosotros creemos que la reducción de pérdidas económicas y calidad de productos será conseguida si los dueños de granja y agricultores independientes tienen una mejora en la gestión de operaciones agrícolas y en la calidad de productos con una plataforma tecnológica completa para la gestión eficaz de actividades agrícolas y ganaderas
 
 #### 1.2.2.4. Lean UX Canvas
 
-<p align="center">
-<img src="/assets/img-leanux-canva.jpeg" alt="Canva"></img>
-</p>
+![modelo_canvas](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/eef04133-7c88-45f7-80b2-011204f9b328)
+
 
 ## 1.3. Segmentos Objetivo
 
 
+
 **Dueños de Granjas y Agricultores Independientes:**
--  Propietarios de granjas de diferentes tipos, ya sea ganado o cultivos.
-- Buscan herramientas tecnológicas para optimizar la gestión de sus operaciones agrícolas o ganaderas.
-- Interesados en mejorar la eficiencia, productividad y rentabilidad de sus cultivos y ganado.
 
-**Trabajadores de granja:**
-- Empleados que realizan tareas diarias en las granjas, como la siembra, el riego, la cosecha y el cuidado del ganado.
-- Necesitan herramientas prácticas y fáciles de usar para realizar sus tareas de manera eficiente y colaborativa.
-- Buscan mejorar su productividad y contribuir al éxito general de la granja.
+Los propietarios de granjas y agricultores independientes representan una diversidad de tipos de granjas, incluyendo ganado y cultivos. La mayoría, aproximadamente el 80%, se dedican principalmente a la venta de sus productos, aunque un segmento significativo, el 20%, también los destina al autoconsumo. Predominantemente masculino, con un 64.88%, y con niveles educativos variados, donde un 36.9% ha culminado la secundaria y un 44.6% solo cuenta con educación primaria. Mayormente operan en granjas de pequeña escala, con un 92.7% poseyendo menos de 10 hectáreas (Santisteban,2022). Su principal fuente de ingresos proviene de actividades agrarias, y aunque la mayoría posee un celular, solo un pequeño porcentaje recibe asistencia técnica. Buscan activamente herramientas tecnológicas para mejorar la gestión de sus operaciones agrícolas o ganaderas, con un interés claro en optimizar la eficiencia, productividad y rentabilidad de sus cultivos y ganado.
 
-**Empresas y Corporaciones del Sector Agrícola y Ganadera:**
-- Empresas agrícolas, procesadores de alimentos y distribuidores.
-- Buscan establecer asociaciones estratégicas con granjas para mejorar la cadena de suministro y obtener productos  de alta calidad.
-- Interesados en alquilar o comprar granjas.
+**Trabajadores de Granja:**
+
+Los trabajadores de granja desempeñan tareas esenciales en las operaciones diarias, como siembra, riego, cosecha y cuidado del ganado. Este grupo necesita herramientas prácticas y de fácil uso para realizar sus labores de manera eficiente y colaborativa. Gran parte de los trabajadores de granja no son dueños, sino que tienen roles comunitarios, como comuneros o poseesionarios, por lo que cumplen con una serie de responsabilidades y tareas guiadas por una persona con un rol superior; sin embargo, tan solo un 0.41% utiliza tecnología para poder elaborar su trabajo (Santisteban,2022). Su objetivo principal es mejorar la productividad y contribuir al éxito general de la granja y predomina el género masculino. 
+
+**Empresas y Corporaciones del Sector Agrícola y Ganadero:**
+
+Las empresas y corporaciones en este sector abarcan una amplia gama, desde empresas agrícolas hasta procesadores de alimentos y distribuidores. Están interesadas en establecer asociaciones estratégicas con granjas para mejorar la cadena de suministro y obtener productos de alta calidad. Un dato relevante es que el 70% de los alimentos consumidos por los 32 millones de peruanos proviene de la agricultura familiar, lo que indica la importancia económica de la industria alimentaria. Estas empresas también pueden estar interesadas en alquilar o comprar granjas para expandir sus operaciones. 
+
+Stakeholders internos: 
+- El equipo de FarmLogiTech y el resto del equipo de desarrollo.
+
+Stakeholders externos: 
+- Dueños de granjas. Posesionarios de granjas. Empresas agropecuarias. Trabajadores y comuneros de granjas. 
