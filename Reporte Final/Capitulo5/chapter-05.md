@@ -401,7 +401,7 @@ A partir del 23/04/2024 el segundo sprint tiene como meta corregir errores en la
 En el segundo sprint, el equipo tuvo como objetivo principal crear la website atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
 
 <div align=center>
-   <img src="/assets/img-trello.png" alt="Trello"></img>
+   <img src="/assets/img-trello-sprint2.png" alt="Trello"></img>
 </div>
 
 link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
