@@ -412,7 +412,9 @@ Además, Rodrigo Noreña enfatizó la importancia de una plataforma que permita 
 
 ### 2.3.2. User Task Matrix
 A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
-![Imagen de TaskMatrix](https://i.postimg.cc/x10PvtVs/Tabla-User-Task.jpg)
+![Imagen de TaskMatrix](https://i.postimg.cc/d0ZnRpJK/Tabla-User-Task.jpg)
+![Imagen de TaskMatrix](https://i.postimg.cc/bNYTVsqg/Tabla-User2-Task.jpg)
+![Imagen de TaskMatrix](https://i.postimg.cc/wBNcRNkq/Tabla-User3-Task.jpg)
 Las tareas que tienen mayor frecuencia son aquellas que comparten
 los dueños de las granjas y los trabajadores de las mismas.
 Por otro lado, los empresarios tienen tareas que no se comparten
