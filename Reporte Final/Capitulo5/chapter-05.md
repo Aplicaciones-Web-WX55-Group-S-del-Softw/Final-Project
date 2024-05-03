@@ -570,7 +570,7 @@ Durante la entrega del segundo sprint, el equipo tuvo como objetivo principal im
   </tr>
 </table>
 
-
+<br/><br/>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 Durante el Sprint 2, logramos la implementación y despliegue del website. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
@@ -619,15 +619,15 @@ Durante el Sprint 2, logramos la implementación y despliegue del website. Muest
 </div>
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+Para este segundo sprint no fue contemplada la evidencia de documentación de los servicios.
 
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Para la entrega del Sprint número 1, se desplegó la landing page completa.
+Para la entrega del Sprint número 2, se desplegó la website completa.
 
 <div align=center>
-   <img src="/assets/img-todo-1.png" alt="Landing"></img>
+   <img src="/assets/img-todo-1.png" alt="Website"></img>
 </div>
 
 Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/#
