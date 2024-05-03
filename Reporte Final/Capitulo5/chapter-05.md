@@ -314,21 +314,21 @@ Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. 
    En esta sección, se puede visualizar e interactuar con las imágenes principales.
 
 <div align=center>
-   <img src="/assets/img-carrusel.png" alt="Carrusel"></img>
+   <img src="/assets/img-carrusel-1.png" alt="Carrusel"></img>
 </div>
 
 2. Sección de Nosotros
    En esta sección, se puede observar lo que FarmLogitech ofrece.
 
 <div align=center>
-   <img src="/assets/img-nosotros.png" alt="Nosotros"></img>
+   <img src="/assets/img-nosotros-1.png" alt="Nosotros"></img>
 </div>
 
 3. Sección de Características
    En esta sección, se puede observar las caracteristicas.
 
 <div align=center>
-   <img src="/assets/img-caracteristicas.png" alt="Caracteristicas"></img>
+   <img src="/assets/img-caracteristicas-1.png" alt="Caracteristicas"></img>
 </div>
 
 4. Sección Planes
@@ -336,21 +336,21 @@ Durante el Sprint 1, logramos la implementación y despliegue del Landing Page. 
    podrás promocionar tu granja y el premium en la que no solo podrás promocionarla, sino también gestionarla.
 
 <div align=center>
-   <img src="/assets/img-planes.png" alt="Planes"></img>
+   <img src="/assets/img-planes-1.png" alt="Planes"></img>
 </div>
 
 5. Sección Método de Pago
    En esta sección, se visualizan diversos métodos de pago que Farmlogitech ofrece
 
 <div align=center>
-   <img src="/assets/img-metodos.png" alt="Metodos"></img>
+   <img src="/assets/img-metodos-1.png" alt="Metodos"></img>
 </div>
 
 6. Sección Colaboradores
    En esta sección, aparecerán los colaboradores encargados de desarrollar la landing page.
 
 <div align=center>
-   <img src="/assets/img-colaboradores.png" alt="Colaboradores"></img>
+   <img src="/assets/img-colaboradores-1.png" alt="Colaboradores"></img>
 </div>
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -362,7 +362,7 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 Para la entrega del Sprint número 1, se desplegó la landing page completa.
 
 <div align=center>
-   <img src="/assets/img-todo.png" alt="Landing"></img>
+   <img src="/assets/img-todo-1.png" alt="Landing"></img>
 </div>
 
 Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/#
@@ -389,7 +389,7 @@ Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 5.2. Frontend Web Application
 ### 5.2.1 Sprint 2.
-#### 5.2.1.1 Sprint Planing 2.
+#### 5.2.2.1 Sprint Planing 2.
 
 A partir del 23/04/2024 el segundo sprint tiene como meta corregir errores en la landing page y desarrollar el website, así como una fake API, de manera que resulten atractivos y completamente funcionales.
 
@@ -397,7 +397,7 @@ A partir del 23/04/2024 el segundo sprint tiene como meta corregir errores en la
 |--------|---------------|-----------|---------------------------------------|-----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------|-------------------|---------------------|
 |   2    | 23/04/2024    | 11:30  PM | Reunión virtual mediante Google meet  | Rodrigo Aguilar | Rodrigo Aguilar, Mathias Kunimoto, Giacomo Zoppi, Fernando Salgado, Jean franco Barrionuevo | Implementar la website para la aplicación FarmLogiTech | 22                | 22                  |
 
-#### 5.2.1.2. Sprint Backlog 2.
+#### 5.2.2.2. Sprint Backlog 2.
 En el segundo sprint, el equipo tuvo como objetivo principal crear la website atractiva y funcional. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
 
 <div align=center>
@@ -538,7 +538,7 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
 
 
 
-#### 5.2.1.3. Development Evidence for Sprint Review.
+#### 5.2.2.3. Development Evidence for Sprint Review.
 | Repository                                                      | Branch              | Commit id | Commit Message                             | Commit Message Body                 | Commited on (Date) |
 |-----------------------------------------------------------------|---------------------|--------|--------------------------------------------|-------------------------------------|-------------------- 
 | https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/frontend-application.git | feature/communication-management | ce9ad2f | feat(communication-management): added description and history    | feat: added description and history | 01/05/2024         | 
@@ -548,9 +548,9 @@ link del trello: https://trello.com/b/H1ovwIyt/aplicaciones-web
 |                                                                 | payment_method      | 845b3a2 | fix: update landing page structure                   | fix: update landing page structure  | 01/05/2024         | 
 |  | feature/search-and-match  | f51e052 |feat(search-and-match): updated task description                |feat: updated task description          | 02/05/2024         |
 |  | feature/social-interaction       | 68969ae |feat(social-interaction): implementation of the components                |feat: implementation of the components               | 01/05/2024         |
-#### 5.2.1.4 Testing Suite Evidence for Sprint Review.`
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review.`
 
-Para la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del Landing Page. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro landing page. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
+Durante la entrega del segundo sprint, el equipo tuvo como objetivo principal implementar la website y que tenga funcionamiento. Utilizamos la herramienta Trello para organizar y asignar tareas a los miembros del equipo según sus habilidades.
 <table align="left" border="1" width="100%">
   <tr>
     <th>Repository</th>
@@ -561,19 +561,19 @@ Para la entrega del Sprint 1, logramos completar el desarrollo, la implementaci�
     <th>Date</th>
   </tr>
   <tr>
-    <td>landing-page</td>
-    <td>Features_testing</td>
-    <td>07fa8d6</td>
-    <td>Giacomo Zoppi</td>
-    <td>doc: add acceptance tests</td>
-    <td>11/04/2024</td>
+    <td>frontend-application</td>
+    <td>develop</td>
+    <td>25c0e1e</td>
+    <td>Rodrigo Aguilar</td>
+    <td>feat(develop): update complete</td>
+    <td>01/05/2024</td>
   </tr>
 </table>
 
 
 
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-Durante el Sprint 2, logramos la implementación y despliegue del Landing Page. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+Durante el Sprint 2, logramos la implementación y despliegue del website. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
 
 1. Sección  carrusel de imágenes
    En esta sección, se puede visualizar e interactuar con las imágenes principales.
@@ -618,11 +618,11 @@ Durante el Sprint 2, logramos la implementación y despliegue del Landing Page. 
    <img src="/assets/img-colaboradores-1.png" alt="Colaboradores"></img>
 </div>
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
 
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Para la entrega del Sprint número 1, se desplegó la landing page completa.
 
@@ -632,14 +632,33 @@ Para la entrega del Sprint número 1, se desplegó la landing page completa.
 
 Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/#
 
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+| Alumno                  | Actividad                                                              | 
+|-------------------------|------------------------------------------------------------------------|
+| Rodrigo Aguilar         | Implementación de monitoring-api-weather                               |
+| Fernando Salgado        | Implementación de communication-management<br/> and social-interaction |
+| Mathias Kunimoto        | Implementación de search-and-match                                     |
+| Jean Franco Barrionuevo | Implementación de dashboard-analytics                                  |
+| Giacomo Zoppi           | Implementación de monitoring                                           |
+
+<div align=center>
+   <img src="/assets/img-sprint-2.png" alt="Sprint 2"></img>
+</div>
+
+
 # Conclusiones
 
 - En conclusión, creemos que el proyecto FarmLogiTech es una aplicación que tiene un gran potencial para ayudar a los dueños de granja a gestionar sus granjas de manera eficiente y sostenible. A través de la implementación de una landing page atractiva y funcional, hemos logrado comunicar de manera efectiva los beneficios de la aplicación y atraer a los visitantes. Durante el Sprint 1, el equipo ha trabajado de manera colaborativa y eficiente para cumplir con los objetivos establecidos. A través de la implementación de las Historias de Usuario y la realización de pruebas de aceptación, hemos logrado desarrollar una landing page que cumple con los requerimientos del cliente. En el próximo Sprint, nos enfocaremos en el desarrollo de la aplicación y en la implementación de nuevas funcionalidades para mejorar la experiencia del usuario.
-
+  <br/>
+   <br/>
+- En resumen, creemos que FarmLogiTech tiene un enorme potencial para ayudar a los propietarios de granjas a administrar sus operaciones de manera eficiente y sostenible. Mediante la creación de una websitre, hemos logrado de manera efectiva aplicar los beneficios de la aplicación y atraer visitantes. Durante el segundo sprint, el equipo ha trabajado de manera colaborativa y eficiente para alcanzar los objetivos establecidos. Gracias a la implementación de historias de usuario y pruebas de aceptación, hemos desarrollado un sitio web que satisface los requisitos del cliente. En el próximo sprint, nos centraremos en el desarrollo de la aplicación y en la introducción de nuevas funcionalidades para mejorar la experiencia del usuario.
 ### Video de exposición
 
 [Video de exposición]()
-[Link del Landing page] (https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/)
+<br/>
+[Link del Landing page]  
+(https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/)
 
 # Bibliografía
 
