@@ -782,7 +782,7 @@
             Como dueño de granja, quiero crear y asignar tareas a los trabajadores para mejorar la gestión de la mano de obra en mi finca.
         </td>
         <td>
-            8
+            5
         </td>
     </tr>
     <tr>
@@ -867,7 +867,7 @@
             Como empresario, quiero buscar y contactar a dueños de granjas potenciales, para establecer asociaciones comerciales y mejorar nuestra cadena de suministro.
         </td>
         <td>
-            8
+            3
         </td>
     </tr>
     <tr>
