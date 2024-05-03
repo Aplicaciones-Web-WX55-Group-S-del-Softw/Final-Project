@@ -406,7 +406,8 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
    <img src="/assets/img-landing-m.png" alt="Landing-Mock-up"></img>
 </div>
 
-![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/4240422a-2a10-4af5-859b-70264740f023)
+Video de prueba
+<br>
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/ETbEAdlXL0tKlVXCRvmGMdkB0HOmvtODaS1FOnFVQ3XQLA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aLRsaQ 
 
@@ -419,14 +420,14 @@ El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento comp
 ## 4.6.1. Software Architecture Context Diagram
 El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software “FarmLogitech”, los usuarios y, si es el caso, de otros sistemas externos.
 <div align=center>
-<img src="/assets/img-system-diagram.jpeg" alt="System diagram"></img>
+<img src="/assets/img-systemdiagram.jpeg" alt="System diagram"></img>
 </div>
 
 ## 4.6.2. Software Architecture Container Diagram
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software “FarmLogitech”.
 
 <div align=center>
-<img src="/assets/img-container-diagram.png" alt="Container diagram"></img>
+<img src="/assets/img-container.jpeg" alt="Container diagram"></img>
 </div>
 
 ## 4.6.3. Software Architecture Components Diagrams
@@ -478,7 +479,7 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 <div align=center>
-   <img src="/assets/img-class-diagram.png" alt="Diagrama de clase"></img>
+   <img src="/assets/img-class-diagrama.png" alt="Diagrama de clase"></img>
 </div>
 
 ### 4.7.2. Class Dictionary
