@@ -884,7 +884,7 @@
             Como dueño de la granja, quiero verificar fácilmente los niveles de inventario de productos agrícolas y ganaderos, y recibir notificaciones cuando sea necesario reponerlos, para garantizar un flujo de trabajo ininterrumpido.
         </td>
         <td>
-            5
+            3
         </td>
     </tr>
     <tr>
@@ -1122,7 +1122,7 @@
             Como desarrollador, necesito crear una API RESTful, para permitir que la plataforma web se comunique con el backend y acceda a los datos agrícolas y ganaderos de los usuarios.
         </td>
         <td>
-            8
+            5
         </td>
     </tr>
     <tr>
