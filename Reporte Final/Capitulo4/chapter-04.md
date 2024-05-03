@@ -626,7 +626,27 @@ Para el proyecto, nos hemos decidido por utilizar el motor de base de datos de M
 
 ### 4.8.1 Database Diagram
 
-<img src="/assets/img-database.jpeg" alt="Diagrama-database"></img>
+Dashboard-Analytics Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 01 08 55_8379ab0d](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/d416c8ce-ec9f-4338-9213-d4d734ea0a47)
+
+Resource Management Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 49 57_4aa6dc7a](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/db33fbc1-ae69-42ab-91b5-ca3dfcfd0479)
+
+Login Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 35 56_bd2d30b8](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/3aa923e1-50a5-4bbe-b036-f8bfa92619b1)
+
+Profile Management Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 35 51_25ec43d2](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/9ac23077-ab35-48b8-adda-51a88eb3b242)
+
+Payment Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 35 45_24348a5f](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/2c596152-a35e-4231-a6ed-f647c208ee67)
+
+Social Interaction Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 35 26_a17433f2](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/6c6eb54e-2923-458b-996b-7a64b2e998fc)
+
+Service Operation and Monitoring Bounded Context
+![Imagen de WhatsApp 2024-05-03 a las 00 35 17_56c1d275](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/3ec9aad1-a6ee-40f0-b849-6e7c620b7a31)
+
 
 
 
