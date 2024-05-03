@@ -365,7 +365,7 @@ Para la entrega del Sprint número 1, se desplegó la landing page completa.
    <img src="/assets/img-todo-1.png" alt="Landing"></img>
 </div>
 
-Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/#
+Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -571,51 +571,78 @@ Durante la entrega del segundo sprint, el equipo tuvo como objetivo principal im
 </table>
 
 <br/><br/>
+<br/><br/>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 Durante el Sprint 2, logramos la implementación y despliegue del website. Muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre el producto. A continuación, se presentan algunas evidencias del progreso realizado.
 
-1. Sección  carrusel de imágenes
-   En esta sección, se puede visualizar e interactuar con las imágenes principales.
+1. Sección  home<br/><br/>
+   En esta sección, se puede visualizar e interactuar con las granjas.
 
 <div align=center>
-   <img src="/assets/img-carrusel-1.png" alt="Carrusel"></img>
+   <img src="/assets/img-website-1.jpeg" alt="Website1"></img>
 </div>
 
-2. Sección de Nosotros
-   En esta sección, se puede observar lo que FarmLogitech ofrece.
+2. Sección de detalles de granja<br/><br/>
+   En esta sección, se puede observar informacion detallada de una granja.
 
 <div align=center>
-   <img src="/assets/img-nosotros-1.png" alt="Nosotros"></img>
+   <img src="/assets/img-website-2.jpeg" alt="Website2"></img>
 </div>
 
-3. Sección de Características
-   En esta sección, se puede observar las caracteristicas.
+3. Sección de Collaborator<br/><br/>
+   En esta sección, se puede observar los distintos aspectos que se puede realizar.
 
 <div align=center>
-   <img src="/assets/img-caracteristicas-1.png" alt="Caracteristicas"></img>
+   <img src="/assets/img-website-3.jpeg" alt="Website3"></img>
 </div>
 
-4. Sección Planes
-   En esta sección, se visualizan los planes que Farmlogitech, plan básico en el que solo
-   podrás promocionar tu granja y el premium en la que no solo podrás promocionarla, sino también gestionarla.
-
+4. Sección Clima <br/><br/>
+   En esta sección, se visualizan el estado y pronostico del clima.
 <div align=center>
-   <img src="/assets/img-planes-1.png" alt="Planes"></img>
+   <img src="/assets/img-website-5.jpeg" alt="Clima"></img>
 </div>
 
-5. Sección Método de Pago
-   En esta sección, se visualizan diversos métodos de pago que Farmlogitech ofrece
+5. Sección Emergencias<br/><br/>
+   En esta sección, se visualizan la funcion de estado de emergencia de la granja.
 
 <div align=center>
-   <img src="/assets/img-metodos-1.png" alt="Metodos"></img>
+   <img src="/assets/img-website-6.jpeg" alt="Metodos"></img>
 </div>
 
-6. Sección Colaboradores
-   En esta sección, aparecerán los colaboradores encargados de desarrollar la landing page.
+6. Sección Inventario<br/><br/>
+   En esta sección, aparecerán el estado de inventario de animales y cultivos.
 
 <div align=center>
-   <img src="/assets/img-colaboradores-1.png" alt="Colaboradores"></img>
+   <img src="/assets/img-website-7.jpeg" alt="Inventario"></img>
+</div>
+
+7. Sección Entrar<br/><br/>
+   En esta sección, aparecerán opciones para entrar.
+
+<div align=center>
+   <img src="/assets/img-website-8.jpeg" alt="Entrar"></img>
+</div>
+
+8. Sección Tareas<br/><br/>
+   En esta sección, aparecerán el estado de tareas.
+
+<div align=center>
+   <img src="/assets/img-website-9.jpeg" alt="Tareas"></img>
+</div>
+
+8. Sección Asignacion de Tareas<br/><br/>
+   En esta sección, aparecerán la asignacion de tareas.
+
+<div align=center>
+   <img src="/assets/img-website-10.jpeg" alt="Asignacion"></img>
+</div>
+
+8. Sección Estadisticas<br/><br/>
+   En esta sección, aparecerán las estadisticas y resultados del tiempo que revisen.
+
+<div align=center>
+   <img src="/assets/img-website-11.jpeg" alt="Estadisticas"></img>
 </div>
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -627,10 +654,10 @@ Para este segundo sprint no fue contemplada la evidencia de documentación de lo
 Para la entrega del Sprint número 2, se desplegó la website completa.
 
 <div align=center>
-   <img src="/assets/img-todo-1.png" alt="Website"></img>
+   <img src="/assets/img-website-sprint2.jpeg" alt="Website"></img>
 </div>
 
-Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/#
+Enlace para acceder a la website: https://farmlogitech-aw.web.app/
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -659,6 +686,9 @@ Enlace para acceder a la landing page: https://aplicaciones-web-wx55-group-s-del
 <br/>
 [Link del Landing page]  
 (https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/)
+
+[Link del Website]  
+(https://farmlogitech-aw.web.app/)
 
 # Bibliografía
 
