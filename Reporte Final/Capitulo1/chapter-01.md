@@ -217,10 +217,22 @@ Mediante la implementacion de esta entrega, hemos completado integrar las funcio
 <b>Zoppi Rodríguez, Giacomo</b><br>
 Durante esta fase de desarrollo, hemos completado la implementación total de todas las funcionalidades relacionadas con el monitoreo, la corrección del diagrama de clases, los mapas de empatía y el lenguaje ubiquitous.
 
+<b>TB2</b><br>
+
+<b>Aguilar Castillo, Rodrigo Alejandro</b><br>
+
+<b>Barrionuevo Reto, Jean Franco Joel</b><br>
+
+<b>Salgado Luna, Fernando Brian</b><br>
+
+<b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
+
+<b>Zoppi Rodríguez, Giacomo</b><br>
+
+
 <td>TB1: Hemos optado por un servicio de gestión y logística para granjas con el objetivo de asistir a todos los profesionales involucrados en esta industria. Nuestra startup busca abordar los desafíos de falta de organización y desperdicio de recursos que pueden ocasionar pérdidas significativas.<br><br>
 TP: Implementamos un sitio web para ofrecer un servicio de gestión y logística de granjas, con el objetivo de asistir a todas las personas involucradas en este sector. Nos propusimos abordar la problemática de la falta de organización e implementar todos los feature, que puede ayudar a este sector, mediante nuestra startup.<br><br>
-
-
+TB2: Durante la TB2, demostramos una participación efectiva y colaborativa en nuestro equipo. Cada miembro asumió responsabilidades específicas según sus habilidades, lo que nos permitió avanzar de manera eficiente en la implementación de las funcionalidades clave de la solución. Realizamos reuniones para coordinar esfuerzos, compartir progresos y resolver cualquier obstáculo que surgiera. Mantuvimos una comunicación abierta, tomando decisiones basadas en los requerimientos del proyecto y las necesidades de nuestros usuarios. Gracias al trabajo en equipo, logramos cumplir con los objetivos establecidos para este sprint y avanzar de manera significativa en el desarrollo de FarmLogiTech.
 
 
 </td>
@@ -255,10 +267,25 @@ En la implementación, realice la gestión relacionada con la social-interaction
 Además de realizar la implementación, coordiné la asignación de tareas al equipo de desarrollo para su ejecución durante el sprint 2. También tuve la responsabilidad de corregir y llevar a cabo de manera efectiva como arreglar el código. <br><br>
 <b>Zoppi Rodríguez, Giacomo</b><br>
 En la implementación, lideré la gestión relacionada con el monitoreo, la corrección del diagrama de clases, la elaboración de mapas de empatía y el establecimiento del lenguaje ubiquitous.
-</td>
+
+<b>TB2</b><br>
+
+<b>Aguilar Castillo, Rodrigo Alejandro</b><br>
+
+<b>Barrionuevo Reto, Jean Franco Joel</b><br>
+
+<b>Salgado Luna, Fernando Brian</b><br>
+
+<b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
+
+<b>Zoppi Rodríguez, Giacomo</b><br>
+
 
  <td>TB1: Gracias al proyecto, pudimos conectar con individuos dentro de la industria y comprender lo beneficioso que podría resultarles una aplicación como la que estamos proponiendo para facilitar sus actividades diarias. <br><br>
-TP:Gracias a la ejecución del proyecto, pudimos establecer conexiones con profesionales de la industria y comprender el potencial beneficioso que una aplicación como la nuestra podría ofrecer al simplificar las actividades cotidianas. <br><br></table>
+TP:Gracias a la ejecución del proyecto, pudimos establecer conexiones con profesionales de la industria y comprender el potencial beneficioso que una aplicación como la nuestra podría ofrecer al simplificar las actividades cotidianas. <br><br>
+TB2: Durante la TB2, profundizamos en el sector agrícola y ganadero mediante entrevistas con usuarios potenciales para validar nuestra propuesta. Presentamos el progreso de nuestro proyecto a propietarios de granjas y trabajadores del sector, obteniendo retroalimentación valiosa sobre la funcionalidad y usabilidad de nuestra solución. Estas interacciones nos ayudaron a comprender mejor las necesidades y expectativas específicas de nuestro público objetivo. Con esta información, priorizamos los requisitos y realizamos ajustes en nuestra solución, asegurando que FarmLogiTech aborde eficazmente los desafíos y oportunidades del sector. Además, nuestro análisis continuo del dominio nos permitió identificar áreas de mejora y funcionalidades adicionales que podrían beneficiar a nuestros usuarios en el futuro.
+</table>
+
 
 <br><br>
 
