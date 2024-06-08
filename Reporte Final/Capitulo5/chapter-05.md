@@ -1106,11 +1106,11 @@ Para el sprint 3, se planificaron tanto el front-end como el back-end. Inicialme
 
 </br>
 
-<img src="/Assets/img-repo1-json.png" alt="Repo 1"/></img>
-<img src="/Assets/img-repo2-json.png" alt="Repo 2"/></img>
-<img src="/Assets/img-repo3-json.png" alt="Repo 3"/></img>
-<img src="/Assets/img-repo4-json.png" alt="Repo 4"/></img>
-<img src="/Assets/img-repo5-json.png" alt="Repo 5"/></img>
+<img src="/assets/img-repo1-json.png" alt="Repo 1"/></img>
+<img src="/assets/img-repo2-json.png" alt="Repo 2"/></img>
+<img src="/assets/img-repo3-json.png" alt="Repo 3"/></img>
+<img src="/assets/img-repo4-json.png" alt="Repo 4"/></img>
+<img src="/assets/img-repo5-json.png" alt="Repo 5"/></img>
 
 | Endpoint           | Details                                                                                                                                                           |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
