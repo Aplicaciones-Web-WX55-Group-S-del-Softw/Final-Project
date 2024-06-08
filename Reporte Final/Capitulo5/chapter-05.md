@@ -1272,7 +1272,7 @@ La actualización de la página de destino en GitHub Pages se realizó tras fusi
 - Capturas de pantalla landing page:
   <img src="/assets/img-carrusel-1.png" alt="landing-page"/></img>
   <img src="/assets/img-nosotros-1.png" alt="landing-page"/></img>
-  <img src="/assets/img-caracteristicas.png" alt="landing-page"/></img>
+  <img src="/assets/img-caracteristicas-1.png" alt="landing-page"/></img>
   <img src="/assets/img-metodos-1.png" alt="landing-page"/></img>
   <img src="/assets/img-colaboradores-1.png" alt="landing-page"/></img>
 
@@ -1280,88 +1280,87 @@ La actualización de la página de destino en GitHub Pages se realizó tras fusi
 
 Prueba de que esta enlazado con el Netlify
 
-<img src="/Assets/img-deployment.png" alt="landing-page"/></img>
+<img src="/assets/img-deployment.png" alt="landing-page"/></img>
 
 - Capturas de pantalla landing page:
 
-  <img src="/Assets/img-website-1-page.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-2.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-3.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-4.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-5.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-6.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-7.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-8.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-9.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-10.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-11.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-12.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-13.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-14.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-15.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-16.png" alt="website"/></img>
-  <img src="/Assets/img-website-page-17.png" alt="website"/></img>
+  <img src="/assets/img-website-1-page.png" alt="website"/></img>
+  <img src="/assets/img-website-page-2.png" alt="website"/></img>
+  <img src="/assets/img-website-page-3.png" alt="website"/></img>
+  <img src="/assets/img-website-page-4.png" alt="website"/></img>
+  <img src="/assets/img-website-page-5.png" alt="website"/></img>
+  <img src="/assets/img-website-page-6.png" alt="website"/></img>
+  <img src="/assets/img-website-page-7.png" alt="website"/></img>
+  <img src="/assets/img-website-page-8.png" alt="website"/></img>
+  <img src="/assets/img-website-page-9.png" alt="website"/></img>
+  <img src="/assets/img-website-page-10.png" alt="website"/></img>
+  <img src="/assets/img-website-page-11.png" alt="website"/></img>
+  <img src="/assets/img-website-page-12.png" alt="website"/></img>
+  <img src="/assets/img-website-page-13.png" alt="website"/></img>
+  <img src="/assets/img-website-page-14.png" alt="website"/></img>
+  <img src="/assets/img-website-page-15.png" alt="website"/></img>
+  <img src="/assets/img-website-page-16.png" alt="website"/></img>
+  <img src="/assets/img-website-page-17.png" alt="website"/></img>
 
 - Web Application Back-end:
 
-  <img src="/Assets/img-base-de-dato-workbrench-1.png" alt="Base de datos"/></img>
-  <img src="/Assets/img-base-de-dato-workbrench-2.png" alt="Base de datos"/></img>
+  <img src="/assets/img-base-de-dato-workbrench-1.png" alt="Base de datos"/></img>
+  <img src="/assets/img-base-de-dato-workbrench-2.png" alt="Base de datos"/></img>
 
 
 - Capturas de pantalla de Web Application:
 
-<img src="/Assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
-<img src="/Assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
-<img src="/Assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
-<img src="/Assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
-<img src="/Assets/profile-controller-1.png" alt="profile-controller-1"/></img>
-<img src="/Assets/profile-controller-2.png" alt="profile-controller-2"/></img>
-<img src="/Assets/profile-controller-3.png" alt="profile-controller-3"/></img>
-<img src="/Assets/profile-controller-4.png" alt="profile-controller-4"/></img>
-<img src="/Assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
-<img src="/Assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
-<img src="/Assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
-<img src="/Assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
-<img src="/Assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
-<img src="/Assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
-<img src="/Assets/img-user-controller.png" alt="user-controller-1"/></img>
-<img src="/Assets/img-user-controller-2.png" alt="user-controller-2"/></img>
-<img src="/Assets/img-task-controller-1.png" alt="task-controller-1"/></img>
-<img src="/Assets/img-task-controller-2.png" alt="task-controller-1"/></img>
-<img src="/Assets/img-task-controller-3.png" alt="task-controller-1"/></img>
-<img src="/Assets/img-social-controller-1.png" alt="social-controller-1"/></img>
-<img src="/Assets/img-social-controller-2.png" alt="social-controller-1"/></img>
-<img src="/Assets/img-social-controller-3.png" alt="social-controller-1"/></img>
-<img src="/Assets/img-shed-controller.png" alt="shed-controller"/></img>
-<img src="/Assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
-<img src="/Assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
-<img src="/Assets/img-income-controller.png" alt="income-controller"/></img>
-<img src="/Assets/img-expense-controller.png" alt="expense-controller"/></img>
-<img src="/Assets/img-crop-controller-1.png" alt="crop-controller"/></img>
-<img src="/Assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
-<img src="/Assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
-<img src="/Assets/img-animal-controller-1.png" alt="animal-controller"/></img>
-<img src="/Assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
-<img src="/Assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
-<img src="/Assets/img-message-controller.png" alt="message-controller"/></img>
+<img src="/assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
+<img src="/assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
+<img src="/assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
+<img src="/assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
+<img src="/assets/profile-controller-1.png" alt="profile-controller-1"/></img>
+<img src="/assets/profile-controller-2.png" alt="profile-controller-2"/></img>
+<img src="/assets/profile-controller-3.png" alt="profile-controller-3"/></img>
+<img src="/assets/profile-controller-4.png" alt="profile-controller-4"/></img>
+<img src="/assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
+<img src="/assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
+<img src="/assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
+<img src="/assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
+<img src="/assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
+<img src="/assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
+<img src="/assets/img-user-controller.png" alt="user-controller-1"/></img>
+<img src="/assets/img-user-controller-2.png" alt="user-controller-2"/></img>
+<img src="/assets/img-task-controller-1.png" alt="task-controller-1"/></img>
+<img src="/assets/img-task-controller-2.png" alt="task-controller-1"/></img>
+<img src="/assets/img-task-controller-3.png" alt="task-controller-1"/></img>
+<img src="/assets/img-social-controller-1.png" alt="social-controller-1"/></img>
+<img src="/assets/img-social-controller-2.png" alt="social-controller-1"/></img>
+<img src="/assets/img-social-controller-3.png" alt="social-controller-1"/></img>
+<img src="/assets/img-shed-controller.png" alt="shed-controller"/></img>
+<img src="/assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
+<img src="/assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
+<img src="/assets/img-income-controller.png" alt="income-controller"/></img>
+<img src="/assets/img-expense-controller.png" alt="expense-controller"/></img>
+<img src="/assets/img-crop-controller-1.png" alt="crop-controller"/></img>
+<img src="/assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
+<img src="/assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
+<img src="/assets/img-animal-controller-1.png" alt="animal-controller"/></img>
+<img src="/assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
+<img src="/assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
+<img src="/assets/img-message-controller.png" alt="message-controller"/></img>
 
 ### 5.2.3.8 Team Collaboration Insights during Sprint.
 
 | Alumno                               | Actividad                                                                          |
 |--------------------------------------|------------------------------------------------------------------------------------|
 | Aguilar Castillo, Rodrigo Alejandro  | Desarrollo del back end, y mejora de componentes del front end            |
-| Escalante Baygorrea, Janiel Franz	       | Desarrollo del back end y desarrollo  front end                                    |
-| Kunimoto Watanabe, Mathias Tsuneo         | Desarrollo del back end, y mejora de reestructuración de componentes del front end |
-|Pin Matallana, Augusto José	  | Desarrollo del back end, y mejora visual del front end                             |
-| Ruiz Blas, Luciano Stefano	 | Desarrollo del back end y desarrollo de front end                                  |
-| Barrionuevo Reto, Jean Franco Joel	 | Desarrollo del back end y desarrollo de front end                                  |
+| Barrionuevo Reto, Jean Franco Joel		       | Desarrollo del back end y desarrollo  front end                                    |
+| Salgado Luna, Fernando Brian	         | Desarrollo del back end, y mejora de reestructuración de componentes del front end |
+|Kunimoto Watanabe, Mathias Tsuneo		  | Desarrollo del back end, y mejora visual del front end                             |
+| Zoppi Rodríguez, Giacomo		 | Desarrollo del back end y desarrollo de front end                                  |
 
 #### Repositorio Landing:
-(https://github.com/Open-Source-WX55-Group-UFriends/landing-page.git)
-<img src="/Assets/img-repo-landing.png" alt="message-controller"/></img>
+(https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/landing-page.git)
+<img src="/assets/img-repo-landing.png" alt="message-controller"/></img>
 
 #### Repositorio Web Application:
-(https://github.com/Open-Source-WX55-Group-UFriends/Frontend-App.git)
+(https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/frontend-application.git)
 <img src="/Assets/img-repo-front.png" alt="message-controller"/></img>
 
 #### Repositorio BackEnd:
@@ -1371,7 +1370,7 @@ Prueba de que esta enlazado con el Netlify
 ### 5.3. Validation Interviews.
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a
 la gestión de granjas, y publicar anuncios para conectar granjas con empresarios. Tuvimos entrevistas interactivas con
-nuestros usuarios primordiales: los duesños de granjas, trabajadores de estas y empresarios interesados en establecer alianzas estratégicas con granjas.
+nuestros usuarios primordiales: los dueños de granjas, trabajadores de estas y empresarios interesados en establecer alianzas estratégicas con granjas.
 A través de entrevistas estructuradas, nos proponemos captar las impresiones y sugerencias del segmento objetivo.
 
 #### 5.3.1 Diseño de Entrevistas.
@@ -1421,10 +1420,7 @@ objetivos de usuario mencionados:
   User persona: Empresario.
   Una vez logueado el usuario en la aplicación web podrá visualizar todas las granjas disponibles para un acuerdo comercial. El usuario deberá hacer click a su granja de interés, de manera que deslizando el slide podrá visualizar el apartado de contacto. Aqui le podrá dar click al botón chat on Whatsapp o simplemente rellenar sus datos de contacto para que el granjero se comunique con el usuario.
 
-
-
-
-
+  
 #### 5.3.2. Registro de Entrevistas.
 **Primer segmento objetivo (Dueño de granja):**
 
@@ -1434,7 +1430,7 @@ Entrevista de validación usuario dueño de granja 01:
 | Entrevistado  01             	                                                                  | Jorge Kunimoto 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="/Assets/img-entrevista-3.png" alt="message-controller"/></img>                      	 | Jorge Kunimoto fue entrevistado por Mathias Kunimoto acerca del servicio para manejar una granja tanto en su ámbito interno como externo. Durante la conversación, Jorge destacó la utilidad del servicio, mencionando que le parece una herramienta interesante para la gestión agrícola. Sin embargo, también ofreció algunas recomendaciones para mejorarla. Sugerió agregar un sector en la parte de roles (trabajadores) para que los empleados puedan dar su feedback sobre las necesidades que tienen, así como incluir un apartado de emergencias donde se pueda registrar el descanso médico. Otra sugerencia fue interconectar los tres roles para crear un buzón de mensajes, ya que a veces no se entienden bien las tareas asignadas. Según Jorge, estas mejoras podrían incrementar la eficiencia y la comunicación dentro de la granja, haciendo el servicio aún más valioso.         	 |
-| Timing: 42:59 	                                                                                 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyNTc5LjAwNiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=DJkqjs 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyNTc5LjAwNiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=DJkqjs 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 
 | Entrevistado  02             	                                                                    | Mirian Watanabe	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
