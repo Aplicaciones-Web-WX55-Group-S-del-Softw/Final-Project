@@ -1168,62 +1168,62 @@ Para el sprint 3, se planificaron tanto el front-end como el back-end. Inicialme
 
 ### Web service images:
 #### Subscriptions Controller:
-<img src="/Assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
-<img src="/Assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
-<img src="/Assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
-<img src="/Assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
+<img src="/assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
+<img src="/assets/img-subscriptions-controller-2.png" alt="subscriptions-controller-2"/></img>
+<img src="/assets/img-subscriptions-controller-3.png" alt="subscriptions-controller-3"/></img>
+<img src="/assets/img-subscriptions-controller-4.png" alt="subscriptions-controller-4"/></img>
 
 #### Profile Controller:
-<img src="/Assets/profile-controller-1.png" alt="profile-controller-1"/></img>
-<img src="/Assets/profile-controller-2.png" alt="profile-controller-2"/></img>
-<img src="/Assets/profile-controller-3.png" alt="profile-controller-3"/></img>
-<img src="/Assets/profile-controller-4.png" alt="profile-controller-4"/></img>
+<img src="/assets/profile-controller-1.png" alt="profile-controller-1"/></img>
+<img src="/assets/profile-controller-2.png" alt="profile-controller-2"/></img>
+<img src="/assets/profile-controller-3.png" alt="profile-controller-3"/></img>
+<img src="/assets/profile-controller-4.png" alt="profile-controller-4"/></img>
 
 #### Farm Controller:
-<img src="/Assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
-<img src="/Assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
-<img src="/Assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
-<img src="/Assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
-<img src="/Assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
-<img src="/Assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
+<img src="/assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
+<img src="/assets/img-farm-controller-2.png" alt="farm-controller-2"/></img>
+<img src="/assets/img-farm-controller-3.png" alt="farm-controller-3"/></img>
+<img src="/assets/img-farm-controller-4.png" alt="farm-controller-4"/></img>
+<img src="/assets/img-farm-controller-5.png" alt="farm-controller-5"/></img>
+<img src="/assets/img-farm-controller-6.png" alt="farm-controller-6"/></img>
 
 #### User Controller:
-<img src="/Assets/img-user-controller.png" alt="user-controller-1"/></img>
-<img src="/Assets/img-user-controller-2.png" alt="user-controller-2"/></img>
+<img src="/assets/img-user-controller.png" alt="user-controller-1"/></img>
+<img src="/assets/img-user-controller-2.png" alt="user-controller-2"/></img>
 
 #### Task Controller:
-<img src="/Assets/img-task-controller-1.png" alt="task-controller-1"/></img>
-<img src="/Assets/img-task-controller-2.png" alt="task-controller-1"/></img>
-<img src="/Assets/img-task-controller-3.png" alt="task-controller-1"/></img>
+<img src="/assets/img-task-controller-1.png" alt="task-controller-1"/></img>
+<img src="/assets/img-task-controller-2.png" alt="task-controller-1"/></img>
+<img src="/assets/img-task-controller-3.png" alt="task-controller-1"/></img>
 
 #### Social Controller:
-<img src="/Assets/img-social-controller-1.png" alt="social-controller-1"/></img>
-<img src="/Assets/img-social-controller-2.png" alt="social-controller-1"/></img>
-<img src="/Assets/img-social-controller-3.png" alt="social-controller-1"/></img>
+<img src="/assets/img-social-controller-1.png" alt="social-controller-1"/></img>
+<img src="/assets/img-social-controller-2.png" alt="social-controller-1"/></img>
+<img src="/assets/img-social-controller-3.png" alt="social-controller-1"/></img>
 
 #### Shed Controller:
-<img src="/Assets/img-shed-controller.png" alt="shed-controller"/></img>
-<img src="/Assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
-<img src="/Assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
+<img src="/assets/img-shed-controller.png" alt="shed-controller"/></img>
+<img src="/assets/img-shed-controller-2.png" alt="shed-controller-2"/></img>
+<img src="/assets/img-shed-controller-3.png" alt="shed-controller-3"/></img>
 
 #### Income Controller:
-<img src="/Assets/img-income-controller.png" alt="income-controller"/></img>
+<img src="/assets/img-income-controller.png" alt="income-controller"/></img>
 
 #### Expense Controller:
-<img src="/Assets/img-expense-controller.png" alt="expense-controller"/></img>
+<img src="/assets/img-expense-controller.png" alt="expense-controller"/></img>
 
 #### Crop Controller:
-<img src="/Assets/img-crop-controller-1.png" alt="crop-controller"/></img>
-<img src="/Assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
-<img src="/Assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
+<img src="/assets/img-crop-controller-1.png" alt="crop-controller"/></img>
+<img src="/assets/img-crop-controller-2.png" alt="crop-controller-2"/></img>
+<img src="/assets/img-crop-controller-3.png" alt="crop-controller-3"/></img>
 
 #### Animal Controller:
-<img src="/Assets/img-animal-controller-1.png" alt="animal-controller"/></img>
-<img src="/Assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
-<img src="/Assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
+<img src="/assets/img-animal-controller-1.png" alt="animal-controller"/></img>
+<img src="/assets/img-animal-controller-2.png" alt="animal-controller-2"/></img>
+<img src="/assets/img-animal-controller-3.png" alt="animal-controller-3"/></img>
 
 #### Message Controller:
-<img src="/Assets/img-message-controller.png" alt="message-controller"/></img>
+<img src="/assets/img-message-controller.png" alt="message-controller"/></img>
 
 #### Link del repositorio:
 (https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git)
@@ -1284,7 +1284,7 @@ Prueba de que esta enlazado con el Netlify
 
 - Capturas de pantalla landing page:
 
-  <img src="/assets/img-website-1-page.png" alt="website"/></img>
+  <img src="/assets/img-website-page-1.png" alt="website"/></img>
   <img src="/assets/img-website-page-2.png" alt="website"/></img>
   <img src="/assets/img-website-page-3.png" alt="website"/></img>
   <img src="/assets/img-website-page-4.png" alt="website"/></img>
@@ -1361,11 +1361,11 @@ Prueba de que esta enlazado con el Netlify
 
 #### Repositorio Web Application:
 (https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/frontend-application.git)
-<img src="/Assets/img-repo-front.png" alt="message-controller"/></img>
+<img src="/assets/img-repo-front.png" alt="message-controller"/></img>
 
 #### Repositorio BackEnd:
 (https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git)
-<img src="/Assets/img-repo-backend.png" alt="message-controller"/></img>
+<img src="/assets/img-repo-backend.png" alt="message-controller"/></img>
 
 ### 5.3. Validation Interviews.
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a
@@ -1429,14 +1429,14 @@ Entrevista de validación usuario dueño de granja 01:
 
 | Entrevistado  01             	                                                                  | Jorge Kunimoto 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/Assets/img-entrevista-3.png" alt="message-controller"/></img>                      	 | Jorge Kunimoto fue entrevistado por Mathias Kunimoto acerca del servicio para manejar una granja tanto en su ámbito interno como externo. Durante la conversación, Jorge destacó la utilidad del servicio, mencionando que le parece una herramienta interesante para la gestión agrícola. Sin embargo, también ofreció algunas recomendaciones para mejorarla. Sugerió agregar un sector en la parte de roles (trabajadores) para que los empleados puedan dar su feedback sobre las necesidades que tienen, así como incluir un apartado de emergencias donde se pueda registrar el descanso médico. Otra sugerencia fue interconectar los tres roles para crear un buzón de mensajes, ya que a veces no se entienden bien las tareas asignadas. Según Jorge, estas mejoras podrían incrementar la eficiencia y la comunicación dentro de la granja, haciendo el servicio aún más valioso.         	 |
-|                                                                                | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoyNTc5LjAwNiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=DJkqjs 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| <img src="/assets/img-entrevista-3.png" alt="message-controller"/></img>                      	 | Jorge Kunimoto fue entrevistado por Mathias Kunimoto acerca del servicio para manejar una granja tanto en su ámbito interno como externo. Durante la conversación, Jorge destacó la utilidad del servicio, mencionando que le parece una herramienta interesante para la gestión agrícola. Sin embargo, también ofreció algunas recomendaciones para mejorarla. Sugerió agregar un sector en la parte de roles (trabajadores) para que los empleados puedan dar su feedback sobre las necesidades que tienen, así como incluir un apartado de emergencias donde se pueda registrar el descanso médico. Otra sugerencia fue interconectar los tres roles para crear un buzón de mensajes, ya que a veces no se entienden bien las tareas asignadas. Según Jorge, estas mejoras podrían incrementar la eficiencia y la comunicación dentro de la granja, haciendo el servicio aún más valioso.         	 |
+| Timing:                                                                                         | 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 
 | Entrevistado  02             	                                                                    | Mirian Watanabe	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/Assets/img-entrevista-4.png" alt="message-controller"/></img>                        	 | Mirian Watanabe fue entrevistada por Mathias Kunimoto acerca del servicio para manejar una granja tanto en su ámbito interno como externo. Durante la conversación, Mirian destacó la utilidad del servicio, considerándolo una herramienta interesante para la gestión agrícola. Sin embargo, también ofreció algunas recomendaciones para mejorarlo. Sugirió agregar en el sector de inventario una sección de almacén para guardar herramientas típicas de una granja, como palas y escaleras. A pesar de esto, mencionó que el proyecto está bien distribuido en general. Según Mirian, esta mejora podría optimizar la organización y el manejo de recursos dentro de la granja, aumentando la eficiencia del servicio.        	 |
-| Timing: 31:03	                                                                                    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxODYzLjI0NywidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=kvLCkz 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| <img src="/assets/img-entrevista-4.png" alt="message-controller"/></img>                        	 | Mirian Watanabe fue entrevistada por Mathias Kunimoto acerca del servicio para manejar una granja tanto en su ámbito interno como externo. Durante la conversación, Mirian destacó la utilidad del servicio, considerándolo una herramienta interesante para la gestión agrícola. Sin embargo, también ofreció algunas recomendaciones para mejorarlo. Sugirió agregar en el sector de inventario una sección de almacén para guardar herramientas típicas de una granja, como palas y escaleras. A pesar de esto, mencionó que el proyecto está bien distribuido en general. Según Mirian, esta mejora podría optimizar la organización y el manejo de recursos dentro de la granja, aumentando la eficiencia del servicio.        	 |
+| Timing: 	                                                                                    | url	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 
 
@@ -1444,10 +1444,10 @@ Entrevista de validación usuario dueño de granja 01:
 **Segundo segmento objetivo (Trabajador de granja):**
 
 
-| Entrevistado  01             	                                                                    | Lucero Barrionuevo	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/Assets/img-entrevista-2.png" alt="message-controller"/></img>                        	 | Lucero Barrionuevo fue entrevistada acerca del servicio para manejar una granja tanto en su ámbito interno como externo. Durante la conversación, Lucero destacó la utilidad del servicio, mencionando que le parece una herramienta interesante para la gestión agrícola. Sin embargo, también ofreció una recomendación para mejorarla. Sugirió agregar conexiones para mejorar la comunicación entre los usuarios, lo que podría contribuir a reducir la carga de trabajo y evitar que se sientan explotados. Según Lucero, esta mejora podría incrementar la eficiencia y el bienestar de los trabajadores, haciendo el servicio aún más efectivo y equilibrado.       	 |
-| Timing: 56:47	                                                                                    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjozNDA3Ljk2MywidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=kYL9Ly 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Entrevistado  01             	                                                                    | Lucero Barrionuevo	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="/assets/img-entrevista-2.png" alt="message-controller"/></img>                        	 | Lucero Barrionuevo fue entrevistada acerca del servicio para manejar una granja tanto en su ámbito interno como externo. Durante la conversación, Lucero destacó la utilidad del servicio, mencionando que le parece una herramienta interesante para la gestión agrícola. Sin embargo, también ofreció una recomendación para mejorarla. Sugirió agregar conexiones para mejorar la comunicación entre los usuarios, lo que podría contribuir a reducir la carga de trabajo y evitar que se sientan explotados. Según Lucero, esta mejora podría incrementar la eficiencia y el bienestar de los trabajadores, haciendo el servicio aún más efectivo y equilibrado.       	 |
+| Timing:                                                                                     | url	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 
 
@@ -1455,32 +1455,32 @@ Entrevista de validación usuario trabajador de granja 02:
 
 | Entrevistado  02             	                                                                    | Rodrigo Noreña  	                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/Assets/img-entrevista-5.png" alt="message-controller"/></img>                        	 | Rodrigo Noreña Nuñez, un joven trabajador en granjas, fue entrevistado para evaluar la usabilidad del sitio web de FarmLogitech. Durante la entrevista, se le presentó cómo agregar un empleador, loguearse, crear un perfil y crear "cards", que son representaciones de las granjas en la plataforma. Rodrigo comentó sobre su experiencia y facilidad de uso del sitio web, proporcionando retroalimentación valiosa para mejorar la funcionalidad y la interfaz del usuario.          	 |
-| Timing: 1:15:03	                                                                                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo0NTAzLjkxOSwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=7izle5 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |    
+| <img src="/assets/img-entrevista-5.png" alt="message-controller"/></img>                        	 | Rodrigo Noreña Nuñez, un joven trabajador en granjas, fue entrevistado para evaluar la usabilidad del sitio web de FarmLogitech. Durante la entrevista, se le presentó cómo agregar un empleador, loguearse, crear un perfil y crear "cards", que son representaciones de las granjas en la plataforma. Rodrigo comentó sobre su experiencia y facilidad de uso del sitio web, proporcionando retroalimentación valiosa para mejorar la funcionalidad y la interfaz del usuario.          	 |
+| Timing: 	                                                                                  | url                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |    
 
 **Tercer segmento objetivo (Empresario):**
 
 Entrevista de validación administrado de una empresa 01:
 
 
- Entrevistado  01             	                                                                    | Soledad Quispe  	                                                                                                                                                                                                         |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/Assets/img-entrevista-6.png" alt="message-controller"/></img>                        	 | Durante la entrevista Soledad, reviso las características que nuestra aplicación le ofrece a su segmento objetivo. Su único descontento fue que la pagina pueda cambiar de idioma ya que ella no habla inglés.          	 |
-| Timing: 0:00 	                                                                                    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjowLjQ5MiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=IVWAWA 	                                                                                                                                                                                                        |
+ Entrevistado  01             	                                                                    | NOMBRE  	 |
+|---------------------------------------------------------------------------------------------------|-----------|
+| <img src="/Assets/img-entrevista-6.png" alt="message-controller"/></img>                        	 |           |
+| Timing:                                                                                    | url 	     |
 
 Entrevista de validación administrado de una empresa 02:
 
-| Entrevistado  02             	                                                                    | Jorge Nestor  	                                                                                                                                                                                                                                                                                                                             |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/Assets/img-entrevista-7.png" alt="message-controller"/></img>                        	 | Durante la entrevista Soledad, reviso las características que nuestra aplicación le ofrece a su segmento objetivo. Las recomendaciones de Jorge fueron que el idioma no concuerda, ya que hay botones en ingles y otros en español. Por otro lado, deberian verse las reseñas que hicieron otras personas para tenerlas en cuenta         	 |
-| Timing: 9:35 	                                                                                    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjo1NzUuMDk2LCJ0aW1lc3RhbXBlZExpbmtSZWZlcnJlckluZm8iOnsic2NlbmFyaW8iOiJDaGFwdGVyU2hhcmUiLCJhZGRpdGlvbmFsSW5mbyI6eyJpc1NoYXJlZENoYXB0ZXJBdXRvIjpmYWxzZX19fSwicmVmZXJyYWxJbmZvIjp7InJlZmVycmFsQXBwIjoiU3RyZWFtV2ViQXBwIiwicmVmZXJyYWxWaWV3IjoiU2hhcmVDaGFwdGVyTGluayIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=A0smD7
+| Entrevistado  02             	                                                                    |   	                                                                                                                                                                                                                                                                                                                             |
+|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="/Assets/img-entrevista-7.png" alt="message-controller"/></img>                        	 |         	 |
+| Timing: 	                                                                                    | url      |
 
 Entrevista de validación administrado de una empresa 03:
 
 | Entrevistado  03             	                                                                    | Cesar Pin 	                                                                                                                                                                                                              |
 |---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/Assets/img-entrevista-1.png" alt="message-controller"/></img>                        	 | Augusto Pin entrevistó al Sr. César Pin, presentándole su página web, FarmLogiTech. Durante la conversación, César Pin elogió la utilidad y el diseño general del sitio, mencionando que le pareció una herramienta muy valiosa para su propósito. No obstante, también ofreció algunas sugerencias para mejorarla. César Pin señaló que la inclusión de animaciones más atractivas y detalladas podría enriquecer la experiencia del usuario, además de recomendar interfaces gráficas más elaboradas para hacer la navegación y el uso de la página más intuitivos y visualmente agradables. Estas mejoras, según él, podrían incrementar aún más la eficacia y el atractivo de FarmLogiTech.          	 |
-| Timing: 18:11	                                                                                    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EXAcj83ERHtPoZgYPm_f4uQBELiIyG7Vh0XDwtcCOeFHag?nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxMDkxLjA3NiwidGltZXN0YW1wZWRMaW5rUmVmZXJyZXJJbmZvIjp7InNjZW5hcmlvIjoiQ2hhcHRlclNoYXJlIiwiYWRkaXRpb25hbEluZm8iOnsiaXNTaGFyZWRDaGFwdGVyQXV0byI6ZmFsc2V9fX0sInJlZmVycmFsSW5mbyI6eyJyZWZlcnJhbEFwcCI6IlN0cmVhbVdlYkFwcCIsInJlZmVycmFsVmlldyI6IlNoYXJlQ2hhcHRlckxpbmsiLCJyZWZlcnJhbEFwcFBsYXRmb3JtIjoiV2ViIiwicmVmZXJyYWxNb2RlIjoidmlldyJ9fQ&e=cFrCPS	                                                                                                                                                                                                       |
+| <img src="/Assets/img-entrevista-1.png" alt="message-controller"/></img>                        	 |          	 |
+| Timing: 	                                                                                    | 	                                                                                                                                                                                                       |
 
 
 
