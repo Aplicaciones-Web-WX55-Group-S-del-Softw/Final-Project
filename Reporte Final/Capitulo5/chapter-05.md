@@ -1102,8 +1102,7 @@ En el sprint 3, logramos un desarrollo parcial del frontend y backend de la apli
 
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review.
 
-Para el sprint 3, se planificó el front-end como el back-end. Inicialmente, se trabajó con el mismo github creando repositorios en donde
-incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
+Para el sprint 3, se planificaron tanto el front-end como el back-end. Inicialmente, trabajamos en el mismo repositorio de GitHub, creando repositorios donde incluimos el archivo db.json para luego enlazarlo mediante la creación de rutas.
 
 </br>
 
