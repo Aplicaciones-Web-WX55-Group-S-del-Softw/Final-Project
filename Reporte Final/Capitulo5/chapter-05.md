@@ -1066,7 +1066,6 @@ Para la entrega del Sprint 3, logramos completar el desarrollo, la implementaci�
 ### 5.2.3.5 Execution Evidence for Sprint Review.
 En el sprint 3, logramos un desarrollo parcial del frontend y backend de la aplicación web. Este avance incluye nuevas vistas importantes sobre el producto y la startup, disponibles en inglés y español, así como una versión responsiva. A continuación, se presentan algunas evidencias:
 
-PONER IMAGENES
 - US09
   <img src="/assets/img-website-page-9.png" alt="US09"/></img>
 
