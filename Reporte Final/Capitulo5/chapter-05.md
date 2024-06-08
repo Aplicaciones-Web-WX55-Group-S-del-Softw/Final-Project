@@ -1226,56 +1226,55 @@ Para el sprint 3, se planificaron tanto el front-end como el back-end. Inicialme
 <img src="/Assets/img-message-controller.png" alt="message-controller"/></img>
 
 #### Link del repositorio:
-(https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op.git)
+(https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git)
 
 #### Web service commit details:
 
 | Repository                                                      | Branch                     | Commit id | Commit Message                                                | Committed on (Date) |
 |-----------------------------------------------------------------|----------------------------|--------|---------------------------------------------------------------|---------------------|
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                          | feature/dashboard-analitycs|3e468c  | feature: Add method put                                       | 21/05/2024          |
-|   https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                              | feature/dashboard-analitycs|d25e83  | feature: Added image filed to farm                             | 21/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|c642ae  | feat(profiles-managment): Added profile and user.              | 21/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|b37c18  | feat: add get subscription by id query to subscriptions        | 27/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|294127  | feat: add social-interaction bounded context                   | 28/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|bbf1a6  | feat: add all records                                          | 31/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|2be2c3  | feat(task): repository created and the table are running :)    | 01/06/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|c3eabf  | feat(task): Implemented task controller.                       | 01/06/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|791547  | feat(feature/task): Added Queries get all task by collaborator with fa… | 01/06/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/dashboard-analitycs|f0ece0  | feat(feature/dashboard-analitycs): Add aggregates Income and Expense.  | 02/06/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/monitoring         |8677d1  | fix: update README                                            | 26/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/monitoring         |b3bf62  | feat: add subscription bounded context                        | 26/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/monitoring         |328889  | feat: add subscription command and query service impl          | 26/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/monitoring         |e5e69b  | fix: subscription repository and command service impl fixed    | 26/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/social-interaction |294127  | feat: add social-interaction bounded context                  | 28/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/social-interaction |d7a80b  | feat: fix endpoint and add commands in readme                  | 28/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/profiles-managment |c41ef5  | fix(social interaction): Added valueobject                   | 29/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/profiles-managment |c59490  | feature(social interaction): Update subscription aggregate   | 30/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/profiles-managment |e1fde1  | feature(social-interaction): Added update profile.           | 30/05/2024          |
-|  https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                               | feature/profiles-managment |5a142a  | feature(profiles-managment): Update user aggregate           | 30/05/2024          |
-|  https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                               | feature/profiles-managment |f7663f  | feature(profiles-managment): Add profileId in subscriptions  | 31/05/2024          |
-|  https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                               | feature/profiles-managment |294158  | feature(profiles-managment): Updated get all socials interactions by … | 31/05/2024          |
-|  https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                               | feature/subscription       |d72697  | feat: add update subscription command servioce and implementations | 30/05/2024          |
-|  https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                               | feature/task               |623d8e  | feat(aggregate): task aggregate created  | 31/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/task               |1d324f  | feat(task): create task command         | 31/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/task               |f524de  | feat(task): add command to aggregate    | 31/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/task               |a10634  | feat(task): create queries               | 31/05/2024          |
-| https://github.com/Open-Source-WX55-Group-UFriends/farmLogitech-backend-op                                                                | feature/task               |2e4ad5  | feat(task): create services              | 31/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                         | feature/dashboard-analitycs|3e468c  | feature: Add method put                                       | 21/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                              | feature/dashboard-analitycs|d25e83  | feature: Added image filed to farm                             | 21/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                               | feature/dashboard-analitycs|c642ae  | feat(profiles-managment): Added profile and user.              | 21/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                               | feature/dashboard-analitycs|b37c18  | feat: add get subscription by id query to subscriptions        | 27/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                               | feature/dashboard-analitycs|294127  | feat: add social-interaction bounded context                   | 28/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/dashboard-analitycs|bbf1a6  | feat: add all records                                          | 31/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/dashboard-analitycs|2be2c3  | feat(task): repository created and the table are running :)    | 01/06/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/dashboard-analitycs|c3eabf  | feat(task): Implemented task controller.                       | 01/06/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/dashboard-analitycs|791547  | feat(feature/task): Added Queries get all task by collaborator with fa… | 01/06/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/dashboard-analitycs|f0ece0  | feat(feature/dashboard-analitycs): Add aggregates Income and Expense.  | 02/06/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/monitoring         |8677d1  | fix: update README                                            | 26/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/monitoring         |b3bf62  | feat: add subscription bounded context                        | 26/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/monitoring         |328889  | feat: add subscription command and query service impl          | 26/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/monitoring         |e5e69b  | fix: subscription repository and command service impl fixed    | 26/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/social-interaction |294127  | feat: add social-interaction bounded context                  | 28/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/social-interaction |d7a80b  | feat: fix endpoint and add commands in readme                  | 28/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/profiles-managment |c41ef5  | fix(social interaction): Added valueobject                   | 29/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/profiles-managment |c59490  | feature(social interaction): Update subscription aggregate   | 30/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/profiles-managment |e1fde1  | feature(social-interaction): Added update profile.           | 30/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                               | feature/profiles-managment |5a142a  | feature(profiles-managment): Update user aggregate           | 30/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                               | feature/profiles-managment |f7663f  | feature(profiles-managment): Add profileId in subscriptions  | 31/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                               | feature/profiles-managment |294158  | feature(profiles-managment): Updated get all socials interactions by … | 31/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                               | feature/subscription       |d72697  | feat: add update subscription command servioce and implementations | 30/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                               | feature/task               |623d8e  | feat(aggregate): task aggregate created  | 31/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/task               |1d324f  | feat(task): create task command         | 31/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/task               |f524de  | feat(task): add command to aggregate    | 31/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/task               |a10634  | feat(task): create queries               | 31/05/2024          |
+| https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git                                                                | feature/task               |2e4ad5  | feat(task): create services              | 31/05/2024          |
 
 ### 5.2.3.7 Software Deployment Evidence for Sprint Review.
 
-Para la entrega del tercer sprint, se implementó una landing page completamente funcional, cumpliendo
-con los user stories correspondientes. También se desplegó y por otro lado se lanzó parcialmente el back-end, el cual aún no está finalizado.
+Para la entrega del tercer sprint, se implementó una landing page completamente funcional, cumpliendo con las historias de usuario correspondientes. Además, se desplegó y lanzó parcialmente el back-end, el cual aún está en proceso de finalización.
 
 Landin Page:
 
 La actualización de la página de destino en GitHub Pages se realizó tras fusionar la rama "develop" con la rama principal ("main"). Este proceso permitió renovar la implementación de la página de destino.
 
 - Capturas de pantalla landing page:
-  <img src="/Assets/img-landing-page-1.png" alt="landing-page"/></img>
-  <img src="/Assets/img-landing-page-2.png" alt="landing-page"/></img>
-  <img src="/Assets/img-landing-page-3.png" alt="landing-page"/></img>
-  <img src="/Assets/img-landing-page-4.png" alt="landing-page"/></img>
-  <img src="/Assets/img-landing-page-5.png" alt="landing-page"/></img>
+  <img src="/assets/img-carrusel-1.png" alt="landing-page"/></img>
+  <img src="/assets/img-nosotros-1.png" alt="landing-page"/></img>
+  <img src="/assets/img-caracteristicas.png" alt="landing-page"/></img>
+  <img src="/assets/img-metodos-1.png" alt="landing-page"/></img>
+  <img src="/assets/img-colaboradores-1.png" alt="landing-page"/></img>
 
 - Web Application Front-end:
 
@@ -1285,7 +1284,7 @@ Prueba de que esta enlazado con el Netlify
 
 - Capturas de pantalla landing page:
 
-  <img src="/Assets/img-website-page.png" alt="website"/></img>
+  <img src="/Assets/img-website-1-page.png" alt="website"/></img>
   <img src="/Assets/img-website-page-2.png" alt="website"/></img>
   <img src="/Assets/img-website-page-3.png" alt="website"/></img>
   <img src="/Assets/img-website-page-4.png" alt="website"/></img>
