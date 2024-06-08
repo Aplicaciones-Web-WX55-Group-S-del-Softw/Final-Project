@@ -1628,7 +1628,7 @@ Enlace para visualizar el video About the product:
 Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/ESrX78FN1VlBuIHbHMpxfYQBx41_HP0eji-7vSpLIWR55Q?e=hQMibA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
-# VI. Conclusiones y recomendaciones.
+# VI. Recomendaciones.
 
 1. El uso de Lean UX, fue de gran ayuda gracias a su enfoque iterativo, que  permite adaptarse rápidamente a los cambios del la aplicación y las necesidades del usuario, promoviendo así la eficiencia al desarrollar el producto.
 2. Conventional Commits establecio un estándar para mensajes de confirmación claros y estructurados, lo que facilitó la comprensión del historial de cambios.
