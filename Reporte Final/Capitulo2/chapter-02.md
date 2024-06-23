@@ -433,14 +433,18 @@ En cuanto a la tecnología que utiliza, Jorge se apoya en dispositivos Android p
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-- User persona trabajador en granja
+- User persona trabajador en granja:
+  
 ![Imagen de UserPersona1](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/4d81ddc1-3520-4584-9d06-e7146f311d7e)
 
-- Dueño de granja
+- Dueño de granja:
+
 ![Imagen de UserPersona2](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/996bc9b7-6300-42d3-b3da-3a81b14aa219)
+
 Link: https://uxpressia.com/w/qJYgW/p/d19JB?tagId=noTag 
 
-- Empresaria
+- Empresaria:
+
 ![Imagen de UserPersona](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/5603891e-d269-4462-baad-3d878086f99a)
 
 ### 2.3.2. User Task Matrix
