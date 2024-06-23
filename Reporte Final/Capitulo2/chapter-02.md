@@ -204,38 +204,54 @@ Con ayuda del analisis competitivo, pudimos determinar con precisión las fortal
 ¿Dónde vives actualmente?
 ¿A qué te dedicas?
 
-#### Segmento objetivo: Dueño
+### Segmento objetivo: Dueño
+
+#### Preguntas Objetivas:
 - ¿Qué desafíos enfrenta actualmente al gestionar su granja?
-- ¿Qué tipo de granja suele administrar? (agreria, ganadera, avicola, etc.)
+- ¿Qué tipo de granja suele administrar? (agraria, ganadera, avícola, etc.)
 - De tener experiencia en gestionar una granja, ¿cómo ha realizado las gestiones de toda la granja?
-- ¿Qué te parece más importante para un plataforma de gestion: la facilidad de uso de la plataforma, la seguridad de la informacion, la diversidad de opciones disponibles, u otros aspectos?
-- ¿Cuáles son las principales características que busca en una plataforma de gestion de granjas?
-- ¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestion de granjas de manera más frecuente?
-- ¿Ha tenido alguna experiencia previa con plataformas similares de gestion de granjas?¿Qué aspectos le gustaron?
+- ¿Qué tipo de dispositivos sueles utilizar y qué sistemas operativos tienen?
+
+#### Preguntas Subjetivas:
+- ¿Qué te parece más importante para una plataforma de gestión: la facilidad de uso de la plataforma, la seguridad de la información, la diversidad de opciones disponibles, u otros aspectos?
+- ¿Cuáles son las principales características que busca en una plataforma de gestión de granjas?
+- ¿Qué incentivos o beneficios podrían motivarlo a utilizar una plataforma de gestión de granjas de manera más frecuente?
+- ¿Ha tenido alguna experiencia previa con plataformas similares de gestión de granjas? ¿Qué aspectos le gustaron?
 - ¿Estarías dispuesto(a) a pagar una tarifa por utilizar una aplicación que te ayude a gestionar tu granja de manera más eficiente?
 - ¿Qué sugerencias o mejoras tendrías para una aplicación de este tipo que aún no estén disponibles en otras plataformas similares?
 
-#### Segmento objetivo: Administrador
+### Segmento objetivo: Administrador
+
+#### Preguntas Objetivas:
 - ¿Qué tipo de productos agrícolas o ganaderos suelen adquirir para sus operaciones?
 - ¿Qué criterios son más importantes al seleccionar proveedores de productos agrícolas o ganaderos?
-- ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
 - ¿Qué información consideran crucial al evaluar a una granja como posible proveedor?
 - ¿Cómo prefieren comunicarse con las granjas proveedoras potenciales?
 - ¿Qué características o funcionalidades esperarían encontrar en una plataforma que facilite la conexión con granjas proveedoras?
+- ¿Qué tipo de dispositivos sueles utilizar y qué sistemas operativos tienen?
+
+#### Preguntas Subjetivas:
+- ¿Qué desafíos enfrentan actualmente al establecer relaciones comerciales con granjas proveedoras?
 - ¿Qué beneficios esperarían obtener al utilizar una plataforma en lugar de métodos tradicionales de búsqueda y contacto?
 - ¿Cuáles son las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores agrícolas o ganaderos?
 - ¿Qué incentivos podrían motivarlos a utilizar una plataforma como la tuya para establecer relaciones con granjas proveedoras?
-#### Segmento objetivo: Trabajador
+
+### Segmento objetivo: Trabajador
+
+#### Preguntas Objetivas:
 - ¿Qué tipo de tareas realizas habitualmente en la granja?
 - ¿Qué herramientas o recursos necesitas para llevar a cabo tus tareas de manera eficiente?
 - ¿Qué aspectos de tu trabajo requieren una supervisión o seguimiento más cercano?
-- ¿Cuáles son los principales desafíos que enfrentas al llevar a cabo tus tareas diarias?
 - ¿Qué información consideras importante registrar sobre la producción de animales o cultivos?
+- ¿Qué tipo de dispositivos sueles utilizar y qué sistemas operativos tienen?
+
+#### Preguntas Subjetivas:
+- ¿Cuáles son los principales desafíos que enfrentas al llevar a cabo tus tareas diarias?
 - ¿Qué funcionalidades te gustaría ver en una plataforma de gestión que facilite tu trabajo?
 - ¿Qué sugerencias o mejoras tendrías para una plataforma de gestión que te ayudaría a realizar tus tareas de manera más efectiva?
 - ¿Cómo crees que una plataforma de gestión podría ayudarte a mejorar tu productividad o eficiencia en el trabajo?
 - ¿Qué tan cómodo te sentirías utilizando tecnología para llevar a cabo tus tareas diarias en la granja?
-
+  
 ### 2.2.2. Registro de entrevistas
 
 
@@ -261,7 +277,9 @@ Con ayuda del analisis competitivo, pudimos determinar con precisión las fortal
 **Enlace de entrevista:** https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 #### Evidencia de la reunión:
 
-Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
+Rodrigo Noreña, un joven de 19 años de Huacho, Perú, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. En una reciente entrevista, compartió información valiosa sobre la gestión y producción en la empresa. Rodrigo destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en participar en futuras entrevistas para seguir contribuyendo.
+
+Rodrigo se apoya en dispositivos Android para gestionar sus actividades diarias, utilizando Chrome como su navegador principal. Sus principales canales de comunicación son WhatsApp, white papers y Facebook, herramientas que utiliza para mantenerse conectado con su equipo y la comunidad agrícola. Apasionado por trabajar al aire libre y estar en contacto directo con la naturaleza, Rodrigo encuentra motivación en contribuir al éxito de su granja y en ser parte activa de la comunidad agrícola.
 
 
 **Entrevista 02**: Harold López
@@ -305,7 +323,11 @@ Harold, un estudiante de 21 años y administrador de una granja familiar en Huan
 
 #### Evidencia de la reunión:
 
-Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo en la industria avícola. Con un cargo como administradora en una empresa avícola, posee un profundo conocimiento en la gestión de operaciones, logística y gestión de personal en este campo.
+Mirian Higashi, de 55 años y residente en Lima, Perú, ha demostrado una gestión excepcional en la industria avícola, ocupando un puesto de administradora en una empresa del sector. Con un profundo conocimiento en operaciones, logística y gestión de personal, Mirian enfrenta desafíos constantes, como la coordinación eficiente del personal y el cumplimiento de estrictas regulaciones sanitarias y medioambientales. La proximidad de la granja a zonas urbanas agrega complejidad a su labor, ya que debe asegurarse de que las operaciones no afecten negativamente a los residentes. Para mantener la competitividad en un mercado dinámico, Mirian se enfoca en la actualización constante de equipos e infraestructura, priorizando el bienestar de las aves y la bioseguridad mediante prácticas que minimicen el riesgo de enfermedades.
+
+Ha desarrollado estrategias efectivas para estabilizar su equipo de trabajo, implementando programas de capacitación y concientización sobre la importancia del papel de cada miembro del equipo en el éxito de la empresa. Valora la facilidad de uso en plataformas de gestión y busca herramientas que optimicen el tiempo y mejoren la eficiencia de las operaciones diarias. Su disposición a invertir en aplicaciones que mejoren la eficiencia refleja su compromiso con la mejora continua y la innovación, siempre buscando soluciones integrales que aborden los desafíos específicos de la gestión avícola y optimicen los procesos internos para aumentar la productividad y efectividad de la granja.
+
+En cuanto a la tecnología que utiliza, Mirian emplea dispositivos Android tanto en móvil como en Windows para su sistema operativo, utilizando el navegador Chrome para sus actividades en línea. Sus principales canales de comunicación son WhatsApp, white papers y Facebook, lo que le permite mantenerse informada y conectada con su equipo y la industria. Con una personalidad ambiciosa y apasionada por la agricultura, Mirian busca constantemente formas de hacer crecer su granja y mejorar sus operaciones, demostrando un fuerte compromiso con la innovación y el desarrollo sostenible en el sector avícola.
 
 **Minuto de la entrevista**: 13:12
 
@@ -329,8 +351,9 @@ Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo 
 </p>
 
 ####  Evidencia de la reunión:
-Italo Luna es un joven de 19 años que proviene de Huaral, Perú. Actualmente, es un estudiante de la carrera de ing. de Software, en vacaciones ayuda a sus padres como trabajador de en una empresa avícola. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Italo también destacó
-que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficiencia de producción y el bienestar animal. Además nos comenta que la empresa cuenta con alrededor de 50,000 pollo y 10 galpones. Se le preguntó acerca de como viene siendo la venta de los pollos y nos dijo que dependiendo del peso del pollo, se crea un porcentaje en la cuál tiene que ser vendido cada pollo por el mismo peso o un aproximado.
+Italo Luna, un joven de 19 años de Huaral, Perú, es estudiante de Ingeniería de Software. Durante sus vacaciones, trabaja en la empresa avícola de sus padres. En una reciente entrevista, compartió información valiosa sobre la gestión y producción de la empresa. Italo destacó el desafío de equilibrar la eficiencia de producción con el bienestar animal. La empresa maneja alrededor de 50,000 pollos en 10 galpones. Al hablar sobre la venta de los pollos, explicó que se basa en el peso, determinando un porcentaje específico para cada pollo según su peso o un aproximado.
+
+Italo Luna utiliza un iPhone para sus tareas diarias y emplea Safari como su navegador principal. Sus principales canales de comunicación son WhatsApp, white papers y Facebook, herramientas clave para mantenerse en contacto con su equipo y la comunidad agrícola. Italo encuentra gran satisfacción en contribuir al éxito de su granja y participar en iniciativas que promuevan el desarrollo sostenible y la innovación en el sector agrícola.
 
 Minuto de la entrevista: 20:14
 
@@ -383,7 +406,9 @@ Finalmente, mencionó las principales preocupaciones en términos de calidad, se
 
 #### Evidencia de la reunión:
 
-Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta diversos desafíos en la gestión de su granja. La rotación de personal y las regulaciones medioambientales son preocupaciones constantes, mientras que la proximidad a áreas pobladas agrega complejidad a las operaciones. La renovación de equipos e infraestructura es esencial para mantener la competitividad en un mercado en constante cambio. En su granja, se especializa en la cría y producción avícola, priorizando el bienestar de las aves y la bioseguridad. Jorge ha implementado estrategias para estabilizar el equipo de trabajo y cumplir con las regulaciones, optimizando procesos y concientizando al personal sobre su papel en el éxito de la granja. Considera que la facilidad de uso es vital en cualquier plataforma de gestión y busca constantemente mejorar los procesos internos. La optimización del tiempo es crucial, y Jorge estaría dispuesto a pagar por una aplicación que mejore la eficiencia de su operación. En la búsqueda de herramientas prácticas en una plataforma de gestión, prioriza soluciones integrales que aborden los desafíos específicos de su granja avícola.
+Jorge Kunimoto, un administrador veterano de granjas avícolas, enfrenta varios desafíos en la gestión de su granja. La rotación de personal y las regulaciones ambientales son preocupaciones constantes, y la proximidad a áreas urbanas añade complejidad a las operaciones. Renovar equipos e infraestructura es crucial para mantener la competitividad en un mercado en evolución. En su granja, se enfoca en la cría y producción avícola, priorizando el bienestar de las aves y la bioseguridad. Jorge ha desarrollado estrategias para estabilizar su equipo de trabajo y cumplir con las normativas, optimizando procesos y concientizando al personal sobre su importancia para el éxito de la granja. Valora enormemente la facilidad de uso en cualquier plataforma de gestión y busca constantemente mejorar los procesos internos. La optimización del tiempo es fundamental para él, y está dispuesto a pagar por una aplicación que aumente la eficiencia de sus operaciones. En su búsqueda de herramientas prácticas en una plataforma de gestión, da prioridad a soluciones integrales que aborden los desafíos específicos de su granja avícola.
+
+En cuanto a la tecnología que utiliza, Jorge se apoya en dispositivos Android para su móvil y Windows como sistema operativo, utilizando el navegador Chrome para sus actividades en línea. Sus principales medios de comunicación son WhatsApp, white papers y Facebook, lo que le permite mantenerse informado y en contacto con su equipo e industria. Con una personalidad ambiciosa y una gran pasión por la agricultura, Jorge busca continuamente formas de expandir su granja y optimizar sus operaciones, mostrando un firme compromiso con la innovación y el desarrollo sostenible en el sector avícola.
 
 **Inicia**: 29:12
 
@@ -409,13 +434,14 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 - User persona trabajador en granja
-  ![Imagen de UserPersona1](https://i.postimg.cc/FRbmXWdt/User-persona-trabajador.jpg)
+![Imagen de UserPersona1](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/4d81ddc1-3520-4584-9d06-e7146f311d7e)
 
 - Dueño de granja
-  ![Imagen de UserPersona2](https://i.postimg.cc/s2kDrGTW/User-persona-granjero.jpg)
+![Imagen de UserPersona2](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/996bc9b7-6300-42d3-b3da-3a81b14aa219)
+Link: https://uxpressia.com/w/qJYgW/p/d19JB?tagId=noTag 
 
 - Empresaria
-  ![Imagen de UserPersona3](https://i.postimg.cc/W4hhjvjB/User-persona-empresaria.jpg)
+![Imagen de UserPersona](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/5603891e-d269-4462-baad-3d878086f99a)
 
 ### 2.3.2. User Task Matrix
 A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
@@ -456,7 +482,6 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
   Enlace de Miro: https://miro.com/app/board/uXjVKYvs29U=/?share_link_id=40902593860 
 ## 2.4 Ubiquitous Language
 - **Outcomes**: Se refiere a los efectos o consecuencias de una acción o evento.
-- **Communal farmer**(Comunero): Individuo que es miembro de una comunidad agrícola y posee tierras de manera comunal.
 - **Landholder**(Posesionario): Persona que posee derechos de uso sobre una propiedad, pero no es el propietario legal.
 - **Profile**(Perfil): Descripción o representación de las características, habilidades o historial de una persona o entidad.
 - **Inventory**(Inventario): Lista detallada de bienes, productos o recursos disponibles en un determinado momento.
