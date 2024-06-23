@@ -8,7 +8,7 @@
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Aplicaciones Web - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TP
+    <br>INFORME DE TRABAJO FINAL - TF
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ Para nuestra entrega del TB2:
 ![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/77b1d1e9-37b6-4457-bebf-0aaa12382307)
 ![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/9c248b2a-7e76-4936-8d9f-ee56c13c6fa0)
 
-Para nuestra entrega del TF:
+Para nuestra entrega del Trabajo Final:
 ![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/f129c1a3-609e-40d5-ad1c-243fe471e4ac)
 
 
@@ -481,13 +481,15 @@ Siguiendo la estructura propuesta
 
 -   **How?**
     ¿Como se diferencia el problema del estado normal(optimo)? ¿La tendencia en la que aparece el problema es aleatoria o sigue un patrón?
-    El problema genera que muchas veces el sistema de organización resulte ineficaz. En su lugar, si el sistema fuera optimo, las tareas serian claras y la producción seria mucho mas         eficiente. 
+    El problema genera que muchas veces el sistema de organización resulte ineficaz. En su lugar, si el sistema fuera optimo, las tareas serian claras y la producción seria mucho mas         eficiente.
+    
     ¿Como se utilizará el producto? 
     Permitirá a los agricultores optimizar sus operaciones, mejorar la calidad de los cultivos y aumentar su competitividad en el mercado agrícola.
     
 -   **How much?**
     ¿Cuantos problemas se dan en un dia? ¿En una semana? ¿En un mes?
-    Esto genera dificultades en el dia a dia de los dueños de granjas y agricultores independientes. 
+    Esto genera dificultades en el dia a dia de los dueños de granjas y agricultores independientes.
+    
     ¿Cuanto dinero están implicando?
     El costo de implementar estas soluciones tecnológicas puede variar dependiendo de la escala de la granja y los recursos disponibles para la adopción de tecnología agrícola.
 
@@ -520,18 +522,44 @@ Sabremos que hemos tenido éxito cuando veamos un aumento en la adopción de nue
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes:**
+
+Extraído de el libro Lean UX, 3rd Edition (Gothelf, 2021)
+
+**¿Como podremos solucionar nuestro problema de negocio? ¿Que vamos a medir?**
+
+Podremos solucionar nuestr problema, mediante una mas eficaz forma de organizar las actividades, producción, egresos y ventas de su granja.
+Vamos a medir la cantidad de suscripciones:
+    - Esperamos una cantidad de 20 suscripciones premium por mes.
+el ratio de exito y productividad de las granjas tras el uso de nuestra aplicación:
+    - Esperamos que mediante entrevistas y estudios, al menos un 70% de los usuarios que usen nuestra aplicación si hayan notado alguna mejoria en la productividad.
+
+el numero de reseñas positivas
+    - Esperamos que durante nuestros primeros meses, las reseñas sean en un 50% positivas, el otro 50% nos servirá para mejorar y otorgar un producto mas adecuado.
+
+, el indice de uso de nuestra aplicación asi como su retención, etc. 
+
+
 1. **Creemos que nuestros usuarios necesitan**: Una forma mas eficaz de organizar las actividades, producción, egresos y ventas de su granja. Así como facilitar la comunicación entre empresas y granjas. 
+
 2. **Estas necesidades se pueden satisfacer**: Con la creación de un proyecto que les permita acceder a estas funcionalidades desde su telefono movil u ordenador. 
+
 3. **Nuestros clientes iniciales serán**: Los dueños de granjas, trabajadores de granjas y empresas. 
+
 4. **El valor #1 que un cliente quiere de nuestro servicio es:** registrar y organizar la producción de su granja
    **Los clientes tambien pueden obtener:** la visualización, promoción y facil asociacion con empresas. 
+
 5. **Vamos a obtener la mayoria de los clientes mediante** publicidad en linea y campañas en internet o televisión. 
-6. **Vamos a hacer dinero mediante** las suscripciones premium. 
+
+6. **Vamos a hacer dinero mediante** las suscripciones premium, esperamos lograr en el primer año, la cantidad de 200 suscripciones a nuestro servicio premium. Solo de este modo, creemos que sera rentable. 
+
 7. **Nuestra competencia en el mercado serán** las plataformas dedicadas tambien a la organización de actividades de granja. 
     **Vamos a tener ventaja frente a nuestra competencia debido a**que ofrecemos un registro de animales, cultivos, galpones, asi como una promoción de granjas. 
+
 8. **El mayor riesgo de producción es** que el segmento objetivo, en especial los trabajadores de granja o dueños de granja no se encuentren dispuestos a cambiar su modus operandi y adaptarse al avance tecnologico. 
    **Lo resolvemos realizando**una promoción adecuada que logre cautivar a nuestro segmento obejtivo. Así como una interfaz accesible y facil de utilizar. 
-9. **Que otros assumptions tenemos, que si son probados como falsos, podria ocasionar que nuestro proyecto fracase:**Las empresas grandes no usen nuestra aplicación para comunicarse con los dueños de granjas. En ese caso, perderiamos gran parte de nuestro segmento, así como la funcionalidad de promoción de granjas y asociación con empresas. 
+
+9. **Que otros assumptions tenemos, que si son probados como falsos, podria ocasionar que nuestro proyecto fracase:**Las empresas grandes no usen nuestra aplicación para comunicarse con los dueños de granjas. En ese caso, perderiamos gran parte de nuestro segmento, así como la funcionalidad de promoción de granjas y asociación con empresas.
+
 
 User Assumptions
 **1. ¿Quien es el usuario?**
@@ -564,9 +592,30 @@ User Assumptions
 
 
 **User Outcomes:**
+
+¿Que está intentando conseguir el usuario?
+- Empresas Grandes:Quiero poder entablecer una mejor comunicación con granjas
+- Trabajadores de Granjas y Dueños de granja: Quiero poder aumentar la productividad y mejorar la organizacion de mi granja
+
+¿Como se quiere sentir el usuario?
+- Trabajadores de Granjas y Dueños de granja: Quiero sentir que mi trabajo esta dando frutos y estoy sacandole el maximo provecho. Quiero que mi trabajo sea rentable.
+- Empresas Grandes: Quiero sentir que mi trabajo es mas sencillo y mas accesible.
+
+¿Como nuestro producto lo acerca a su objetivo?
+- Trabajadores de Granjas y Dueños de granja: Le ayuda a aumentar su productividad, a aumentar su rentabilidad, seguir el progreso de sus ingresos y egresos asi como monitorear sus tareas y su granja.
+- Empresas Grandes: Le permite convertir una tarea tan compleja y poco accesible como es contactar con dueños de granjas en algo mucho mas sencillo y facil de utilizar. 
+
+¿Por que nuestros usuarios se interesarian por nuestro producto? ¿Que beneficio podrian obtener?
 - Empresas Grandes: Acceso a productos agrícolas de alta calidad y mejora en la eficiencia de su cadena de suministro.
 - Dueños de Granjas: Mayor eficiencia en la gestión de las operaciones agrícolas y aumento en la rentabilidad.
 - Trabajadores de Granjas: Facilidad para realizar tareas diarias y mejora en su eficiencia laboral.
+
+¿Que cambio en su comportamiento veremos que nos dira que nuestro objetivo ha sido logrado?
+
+- Trabajadores de Granjas y Dueños de granja: Esperamos que nuestros usuarios hagan uso de nuestra aplicación durante toda su jornada laboral, para tanto la organización como para el control de las actividades de la granja. Si vemos que, mediante entrevistas o estudios, podemos determinar que su productividad ha aumentado en un 200%, podremos decir que nuestro logro ha sido conseguido con creces. 
+- Empresas Grandes: De igual, forma dirigido para las empresas, esperamos que el ratio de retención sea de digamos por ejemplo, en un mes, esperamos la cantidad de 200 nuevos clientes. Restandole al numero de clientes al final este periodo (300 usuarios ) el numero de clientes adquiridos durante este periodo (200 usuarios) y dividirlo entre el numero total de clientes al inicio del periodo(200 usuarios), tendriamos aproximdamente un 50% de retención de audiencia.
+
+
 
 **Feature Assumptions**
 - **Creemos que** el producto debe contar con planes estandares y premium que se adapten a lo que necesite el usuario, ofreciendo así una mayor flexibilidad y un valor agregado.
