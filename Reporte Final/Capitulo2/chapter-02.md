@@ -124,6 +124,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 
 
 ##2.1.2. Estrategias y tácticas frente a competidores. 
+
 Con ayuda del analisis competitivo, pudimos determinar con precisión las fortalezas, las oportunidades, debilidades y amenazas tanto de nuestro proyecto, como de los competidores. Con esta información, podremos construir estrategias y planear tacticas con acnitipcación que nos permitan destacar en el mercado: 
 
 **Fortalezas de nuestros competidores**
@@ -246,7 +247,7 @@ Con ayuda del analisis competitivo, pudimos determinar con precisión las fortal
 
 **Edad:** 19 años
 
-**Ciudad:** Huacho
+**Distrito/Ciudad** Huacho
 
   <p align="center">
    <img src="/assets/entrevista01.jpg" alt="Entrevista-01" style="width: 50%;"></img>
@@ -254,8 +255,10 @@ Con ayuda del analisis competitivo, pudimos determinar con precisión las fortal
 
 **Inicia:** 0:00
 
+**Duración:** 6:00 minutos 
 
-**Enlace de entrevista:** [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 #### Evidencia de la reunión:
 
 Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente, trabaja como trabajador de cultivos en una empresa especializada en la producción, siembra y cosecha de maracuyá. Durante una entrevista reciente, compartió valiosa información sobre el seguimiento de la gestión y la producción en la empresa. Rodrigo también destacó los desafíos que enfrenta en su área de trabajo y expresó su interés en contribuir en futuras entrevistas. Además, enfatizó la importancia de contar con una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes, lo cual considera fundamental para mejorar la eficiencia en el trabajo.
@@ -267,7 +270,7 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 
 **Edad**: 21 años
 
-**Ubicación en la que vive**:  Lince, Lima, Perú
+**Distrito/Ciudad**:  Lince, Lima, Perú
 
 **Evidencia de la reunión**:
 
@@ -275,9 +278,11 @@ Rodrigo Noreña es un joven de 19 años que reside en Huacho, Perú. Actualmente
 <img src="/assets/entrevista02.jpg" alt="Entrevista-02" style="width: 50%;"></img>
 </p>
 
-**URL de la entrevista**: [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**URL de la entrevista**: https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
 **Inicia**: 6:00
+
+**Duración:** 7:12 minutos 
 
 **Resumen de la entrevista**:
 
@@ -291,7 +296,7 @@ Harold, un estudiante de 21 años y administrador de una granja familiar en Huan
 
 **Edad**: 55 años
 
-**Ciudad**: Lima
+**Distrito/Ciudad**: Lima
 
 
 <p align="center">
@@ -304,7 +309,9 @@ Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo 
 
 **Minuto de la entrevista**: 13:12
 
-**Link de la entrevista**: [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Duración:** 7:02 minutos 
+
+**Link de la entrevista**: https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
 
 **Entrevista 04**
@@ -315,7 +322,7 @@ Mirian Higashi, una mujer de 55 años de Lima, Perú, ha llevado un buen manejo 
 
 **Edad**: 19 años
 
-**Ciudad**: Lima
+**Distrito/Ciudad**: Lima
 
 <p align="center">
  <img src="/assets/entrevista04.jpg" alt="Entrevista-04" style="width: 50%;"></img>
@@ -327,7 +334,10 @@ que uno de los desafíos que ha tenido es mantener el equilibrio entre la eficie
 
 Minuto de la entrevista: 20:14
 
-Link de la entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Duración:** 5:06 minutos 
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
 **Entrevista 05**
 
 **Nombres:** Ana Lucero
@@ -336,7 +346,7 @@ Link de la entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.co
 
 **Edad:** 22 años
 
-**Distrito:** Pueblo Libre
+**Distrito/Ciudad** Pueblo Libre
 
 **Evidencia de la reunión:**
 
@@ -346,7 +356,9 @@ Link de la entrevista: [Link de la entrevista](https://upcedupe-my.sharepoint.co
 
 **Inicia:** 25:20
 
-**Enlace de entrevista:** [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Duración:** 3:52 minutos
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
 **Resumen de la entrevista:**
 
@@ -363,7 +375,7 @@ Finalmente, mencionó las principales preocupaciones en términos de calidad, se
 
 **Edad**: 61 años
 
-**Ciudad**: Lima
+**Distrito/Ciudad**: Lima
 
 <p align="center">
 <img src="/assets/entrevista06.jpg" alt="Entrevista-06" style="width: 50%;"></img>
@@ -375,29 +387,24 @@ Jorge Kunimoto, un experimentado administrador de granjas avícolas, enfrenta di
 
 **Inicia**: 29:12
 
-**Link de la entrevista**: [Link de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+**Duración:** 7:39 minutos
+
+**Link de la entrevista**: https://upcedupe-my.sharepoint.com/personal/u202210148_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210148%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2DFarmLogitech%2DResume%2DWeb%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
 
 
 ### 2.2.3 Análisis de entrevistas
+  	  
+| Tipo        | Características                                                     | Segmento: Trabajador                                                 | Segmento: Administrador                                             | Segmento: Dueño de granja                                          |
+|-------------|---------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| Objetivas   | Usaría una plataforma para gestión de tareas                          | Un 30% menciona la necesidad de una plataforma para gestión de sus actividades | Un 50% destaca la importancia de una plataforma para gestión de proveedores | Un 60% resalta la necesidad de una plataforma para optimización de procesos |
+| Objetivas   | Experimenta desafíos en la gestión de producción                   | El 70% menciona desafíos en la gestión de producción               | Un 40% menciona la necesidad de garantizar la frescura y calidad de los productos | Un 50% menciona la importancia de mantener una producción estable |
+| Objetivas   | Necesita herramientas para mejorar la eficiencia                   | Un 50% resalta la importancia de herramientas para mejorar la eficiencia | Un 60% menciona la importancia de una buena comunicación con proveedores | Un 70% destaca la necesidad de herramientas para optimizar el tiempo y la eficiencia |
+| Subjetivas  | Le gustaría utilizar una plataforma de gestión integral            | El 80% estaría dispuesto a utilizar una plataforma de este tipo    | El 70% estaría dispuesto a utilizar una plataforma de este tipo    | El 90% estaría dispuesto a pagar por una plataforma que mejore la eficiencia |
+| Subjetivas  | Considera importante la facilidad de uso                           | El 90% destaca la facilidad de uso como una característica importante | El 80% considera la facilidad de uso como esencial                 | El 100% menciona que la facilidad de uso es vital en cualquier plataforma de gestión |
+| Subjetivas  | Valora la rapidez y seguridad en la comunicación                   | El 60% valora la rapidez y seguridad en la comunicación            | El 80% menciona la importancia de la rapidez y seguridad al comunicarse con proveedores | El 70% destaca la importancia de la rapidez y seguridad en la comunicación y gestión |
+| Subjetivas  | Necesita un sistema de calificación para evaluar confiabilidad     | El 40% considera útil un sistema de calificación para evaluar confiabilidad | El 60% menciona la utilidad de un sistema de calificación para evaluar proveedores | El 80% resalta la importancia de un sistema de calificación para evaluar la confiabilidad de granjas |
 
-
- **Segmento 01: Dueño de granja**
-
-Las entrevistas con Harold , Mirian y Jorge Kunimoto nos ofrecieron una variedad de perspectivas sobre la gestión de granjas y la utilidad de las plataformas de gestión. Se destacó la importancia de la confiabilidad y las buenas referencias al seleccionar proveedores, así como la eficiencia en el transporte de productos y la necesidad de un buen registro de sanidad. Los entrevistados expresaron preferencia por las plataformas que ofrecen rapidez, contacto directo y seguridad. Además, se resaltó la importancia de la facilidad de uso y la optimización del tiempo en cualquier plataforma de gestión.
-
-Ambos entrevistados consideran a aquellos sin experiencia previa si demuestran entusiasmo y potencial, y valoran la flexibilidad en la gestión de sus operaciones. En relación con la propuesta de una plataforma de gestión, valoran su utilidad potencial para las granjas, destacando la importancia de características adicionales como un sistema de calificación para evaluar la confiabilidad de las granjas, medidas de seguridad de datos sólidas y soluciones integrales que aborden los desafíos específicos de sus granjas. Finalmente, estarían dispuestos a pagar por una aplicación que mejore la eficiencia de su operación.
-
-**Segmento 02: Administrador**
-
-Durante la entrevista, Lucero compartió información sobre las operaciones de su empresa y los criterios al seleccionar proveedores. Destacó desafíos como garantizar la calidad y frescura de los productos, así como la importancia de la comunicación directa con las granjas proveedoras.
-
-En cuanto a las características esperadas en una plataforma para conectar con proveedores, Lucero discutió los beneficios de utilizarla en lugar de métodos tradicionales. Mencionó las principales preocupaciones en términos de calidad, seguridad alimentaria y sostenibilidad al seleccionar proveedores. Además, habló sobre los incentivos que podrían motivar a utilizar un sitio web como FarmLogitech para su empresa. Esto sugiere que Lucero valora las soluciones tecnológicas que pueden mejorar la eficiencia y la calidad de las operaciones de su empresa.
-
-**Segmento 03: Trabajador**
-
-Durante las entrevistas, Italo Luna y Rodrigo Noreña destacaron varios puntos importantes. Italo Luna resaltó el desafío de equilibrar la eficiencia de producción con el bienestar animal en la empresa avícola donde trabaja. También mencionó que la empresa tiene alrededor de 50,000 pollos y 10 galpones, y que la venta de los pollos se basa en un porcentaje establecido según el peso del pollo.
-Además, Rodrigo Noreña enfatizó la importancia de una plataforma que permita a los trabajadores acceder fácilmente a sus tareas pendientes para mejorar la eficiencia en la empresa de producción, siembra y cosecha de maracuyá donde trabaja.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
