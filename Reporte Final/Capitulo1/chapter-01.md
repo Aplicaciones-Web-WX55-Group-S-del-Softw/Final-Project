@@ -50,10 +50,31 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
 |:-------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|1.0.0| 02/04/2024 |Todos los integrantes del equipo| TB1: El equipo colaboró en la definición de la solución propuesta a través de un análisis Lean UX e identificación del segmento objetivo. Se recopilaron todos los requisitos necesarios, incluidos User Person, Product Backlog, Impact Mapping, entre otros. Luego se diseñaron maquetas y prototipos wireframe y mockups en base a la información recopilada. Finalmente, implementamos la landing page utilizando el sprint backlog para garantizar un control efectivo del progreso realizado.| 
-|2.0.0| 02/05/2024 |Todos los integrantes del equipo| TP: El equipo colaboró corrigiendo errores y puliendo detalles de la entrega anterior. Luego, diseñamos nuestro Web Application Service, con el uso de Angular y sus componentes. | 
+|TB1| 02/04/2024 |Todos los integrantes del equipo| TB1: El equipo colaboró en la definición de la solución propuesta a través de un análisis Lean UX e identificación del segmento objetivo. Se recopilaron todos los requisitos necesarios, incluidos User Person, Product Backlog, Impact Mapping, entre otros. Luego se diseñaron maquetas y prototipos wireframe y mockups en base a la información recopilada. Finalmente, implementamos la landing page utilizando el sprint backlog para garantizar un control efectivo del progreso realizado.| 
+|TP| 02/05/2024 |Todos los integrantes del equipo| TP: El equipo colaboró corrigiendo errores y puliendo detalles de la entrega anterior. Luego, diseñamos nuestro Web Application Service, con el uso de Angular y sus componentes. | 
+|TB2| 05/06/2024 |Todos los integrantes del equipo| TB2: El equipo desarrolló una versión inicial de nuestro backend, asi como terminó de unir y pulir detalles de nuestro frontend | 
+|TF| 23/06/2024 |Todos los integrantes del equipo| TF: El equipo colaboró corrigiendo errores y puliendo detalles de la entrega anterior. Unimos frontend y backend y terminamos el desarollo de este ultimo. | 
 
 <br><br>
+
+# Project Report Collaboration Insights
+
+Para nuestra entrega del TB1 
+![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/816b7521-6643-4983-94c5-a3b38d23789a)
+
+Para nuestra entrega del Trabajo Parcial:
+![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/e81122b7-abbb-4bf6-956c-acc077792c2b)
+![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/306bfa3c-af5e-4427-86eb-a61386249468)
+
+Para nuestra entrega del TB2: 
+
+![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/77b1d1e9-37b6-4457-bebf-0aaa12382307)
+![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/9c248b2a-7e76-4936-8d9f-ee56c13c6fa0)
+
+Para nuestra entrega del TF:
+![image](https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Final-Project/assets/129527802/f129c1a3-609e-40d5-ad1c-243fe471e4ac)
+
+
 
 
 # Contenido
@@ -166,129 +187,98 @@
 ### [Bibliografía](#bibliografc3ada-1)
 ### [Anexos](#anexos-1)
 
-<br><br>
-
 # Student Outcome
 Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
-<table>
-  <tr>
-    <td><b>Criterio específico</b></td>
-    <td><b>Acciones realizadas</b></td>
-    <td><b>Conclusiones</b></td>
-  </tr>
-  <tr>
-    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
-<td> TB1<br><br>
-     <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-     En esta entrega, se realizaron los diseños del Web Applications UX/UI tales como wireframes y mockups usando  la herramienta figma. Me encargué de la elaboración de las preguntas objetivas y subjetivas para poder entrevistar a nuestro segmento objetivo posteriormente. Asimismo, estuve al tanto del equipo y sus avances.
-       </b><br>
-<br>
-    <b>Barrionuevo Reto, Jean Franco Joel	</b><br>
 
-Para el trabajo se hizo uso de github para documentar el trabajo de
-modo que se aprendió a utilizar conventional commits y gitflow de modo
-que se pueda tener una correcta comunicación escrita en lo que
-corresponde a la documentación del proyecto, además de aprender a
-utiizar el lenguaje markdown para comunicarlo mediante github en un
-archivo README.md.<br><br>
-     <b>Salgado Luna, Fernando Brian</b><br>
-En esta entrega se realicé el diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) para aplicaciones web. Una característica destacada de este diseño es el enfoque en la usabilidad y la accesibilidad para garantizar que los usuarios puedan interactuar de manera efectiva con la aplicación.<br><br> 
-     <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
-        Encargado de llevar a cabo entrevistas con un grupo específico de personas, también encabezó la sección del landing page y capitulo 1. Además, colaboró en la creación de la página de aterrizaje utilizando los diseños proporcionados en Figma.
-        <br><br>
-     <b>Zoppi Rodríguez, Giacomo</b><br>
-    En esta entrega, me encargue de realizar y apoyar en la creación de los diagramas de clase y de base de datos, así como su diccionario. También, desarrollé parte del capitulo 5 y el landing page <br><br>
-<b>TP</b><br>
-
-<b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-Durante esta entrega, llevamos a cabo la implementación completa de los features relacionados con las suscripciones y los métodos de pago. <br><br>
-<b>Barrionuevo Reto, Jean Franco Joel</b><br>
-Durante esta fase de desarrollo, hemos completado la implementación total de las funcionalidades vinculadas al dashboard analytics y c4 model.
-
-<b>Salgado Luna, Fernando Brian</b><br>
-En esta etapa del desarrollo, hemos finalizado la implementación completa de todas las funciones relacionadas con el social-interaction y el communication management
-
-<b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
-Mediante la implementacion de esta entrega, hemos completado integrar las funcionalidades relacionadas con las búsquedas y encontrar granjas en la plataforma. <br><br>
-<b>Zoppi Rodríguez, Giacomo</b><br>
-Durante esta fase de desarrollo, hemos completado la implementación total de todas las funcionalidades relacionadas con el monitoreo, la corrección del diagrama de clases, los mapas de empatía y el lenguaje ubiquitous.
-
-<b>TB2</b><br>
-
-<b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-
-<b>Barrionuevo Reto, Jean Franco Joel</b><br>
-
-<b>Salgado Luna, Fernando Brian</b><br>
-
-<b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
-
-<b>Zoppi Rodríguez, Giacomo</b><br>
-
-
-<td>TB1: Hemos optado por un servicio de gestión y logística para granjas con el objetivo de asistir a todos los profesionales involucrados en esta industria. Nuestra startup busca abordar los desafíos de falta de organización y desperdicio de recursos que pueden ocasionar pérdidas significativas.<br><br>
-TP: Implementamos un sitio web para ofrecer un servicio de gestión y logística de granjas, con el objetivo de asistir a todas las personas involucradas en este sector. Nos propusimos abordar la problemática de la falta de organización e implementar todos los feature, que puede ayudar a este sector, mediante nuestra startup.<br><br>
-TB2: Durante la TB2, demostramos una participación efectiva y colaborativa en nuestro equipo. Cada miembro asumió responsabilidades específicas según sus habilidades, lo que nos permitió avanzar de manera eficiente en la implementación de las funcionalidades clave de la solución. Realizamos reuniones para coordinar esfuerzos, compartir progresos y resolver cualquier obstáculo que surgiera. Mantuvimos una comunicación abierta, tomando decisiones basadas en los requerimientos del proyecto y las necesidades de nuestros usuarios. Gracias al trabajo en equipo, logramos cumplir con los objetivos establecidos para este sprint y avanzar de manera significativa en el desarrollo de FarmLogiTech.
-
-
-</td>
-</tr>
-  <tr>
-    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
-   <td> TB1<br><br>
-     <b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-        Encargado de realizar entrevistas a un segmento objetivo, también realizó la sección de sprint, en la cuál está el sprint backlog y sprint planning. Asimismo, apoyó con la elaboración de la landing page utilizando los diseños de figma.<br><br> 
-     <b>Barrionuevo Reto, Jean Franco Joel</b><br>
-     Encargado de los diagramas C4, que son una parte integral del proceso de DDD, también conocido como Domain Driven Design. Un aspecto distintivo de este enfoque es la implementación del lenguaje ubicuo. Este lenguaje facilita la comprensión de los detalles técnicos a un nivel superior para todos los interesados, tanto internos como externos del proyecto, a través de la visualización de los diagramas.<br><br>
-     <b>Salgado Luna, Fernando Brian</b><br>
-     Durante la ejecución del proyecto, fue fundamental mantener una comunicación constante con nuestro público objetivo para definir claramente nuestra solución. También se priorizó una comunicación efectiva y una organización adecuada a través de reuniones regulares.
-<br><br> 
-     <b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
-Encargado de llevar a cabo entrevistas con un grupo específico de personas, también dirigió la sección de sprint, que incluye la lista de tareas pendientes y la planificación del mismo. Además, contribuyó en la creación de la página de inicio utilizando los diseños proporcionados en Figma.<br><br>
-     <b>Zoppi Rodríguez, Giacomo</b><br>
-     Me encargué de el diseño de las base de datos y diagrama de clases, que son parte esencial de la implementación de una landing page y un proyecto de Aplicacion Web. <br><br>
-<b>TP</b><br>
-
-<b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-
-En la implementación, gestioné la asignación de tareas al grupo de desarrollo para su implementación durante el sprint 2. También estuve a cargo de coordinar y ejecutar exitosamente el proceso de merge entre los diferentes branches y la rama principal del repositorio.
-
-<b>Barrionuevo Reto, Jean Franco Joel</b><br>
-Durante esta fase de desarrollo, logré completar totalmente la implementación de las funcionalidades asociadas al dashboard analytics y al modelo C4.
-
-<b>Salgado Luna, Fernando Brian</b><br>
-En la implementación, realice la gestión relacionada con la social-interaction y el communication management.
-
-<b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
-Además de realizar la implementación, coordiné la asignación de tareas al equipo de desarrollo para su ejecución durante el sprint 2. También tuve la responsabilidad de corregir y llevar a cabo de manera efectiva como arreglar el código. <br><br>
-<b>Zoppi Rodríguez, Giacomo</b><br>
-En la implementación, lideré la gestión relacionada con el monitoreo, la corrección del diagrama de clases, la elaboración de mapas de empatía y el establecimiento del lenguaje ubiquitous.
-
-<b>TB2</b><br>
-
-<b>Aguilar Castillo, Rodrigo Alejandro</b><br>
-
-<b>Barrionuevo Reto, Jean Franco Joel</b><br>
-
-<b>Salgado Luna, Fernando Brian</b><br>
-
-<b>Kunimoto Watanabe, Mathias Tsuneo</b><br>
-
-<b>Zoppi Rodríguez, Giacomo</b><br>
-
-
- <td>TB1: Gracias al proyecto, pudimos conectar con individuos dentro de la industria y comprender lo beneficioso que podría resultarles una aplicación como la que estamos proponiendo para facilitar sus actividades diarias. <br><br>
-TP:Gracias a la ejecución del proyecto, pudimos establecer conexiones con profesionales de la industria y comprender el potencial beneficioso que una aplicación como la nuestra podría ofrecer al simplificar las actividades cotidianas. <br><br>
-TB2: Durante la TB2, profundizamos en el sector agrícola y ganadero mediante entrevistas con usuarios potenciales para validar nuestra propuesta. Presentamos el progreso de nuestro proyecto a propietarios de granjas y trabajadores del sector, obteniendo retroalimentación valiosa sobre la funcionalidad y usabilidad de nuestra solución. Estas interacciones nos ayudaron a comprender mejor las necesidades y expectativas específicas de nuestro público objetivo. Con esta información, priorizamos los requisitos y realizamos ajustes en nuestra solución, asegurando que FarmLogiTech aborde eficazmente los desafíos y oportunidades del sector. Además, nuestro análisis continuo del dominio nos permitió identificar áreas de mejora y funcionalidades adicionales que podrían beneficiar a nuestros usuarios en el futuro.
-</table>
-
-
-<br><br>
-
+<body>
+    <table>
+        <tr>
+            <th>Criterio específico</th>
+            <th>Acciones realizadas</th>
+            <th>Conclusiones</th>
+        </tr>
+        <tr>
+            <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+            <td> 
+                <b>TB1</b><br>
+                <span class="nombre">Aguilar Castillo, Rodrigo Alejandro</span><br>
+                En esta entrega, se realizaron los diseños del Web Applications UX/UI tales como wireframes y mockups usando la herramienta figma. Me encargué de la elaboración de las preguntas objetivas y subjetivas para poder entrevistar a nuestro segmento objetivo posteriormente. Asimismo, estuve al tanto del equipo y sus avances.<br><br>
+                <span class="nombre">Barrionuevo Reto, Jean Franco Joel</span><br>
+                Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md.<br><br>
+                <span class="nombre">Salgado Luna, Fernando Brian</span><br>
+                En esta entrega se realicé el diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) para aplicaciones web. Una característica destacada de este diseño es el enfoque en la usabilidad y la accesibilidad para garantizar que los usuarios puedan interactuar de manera efectiva con la aplicación.<br><br>
+                <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br>
+                Encargado de llevar a cabo entrevistas con un grupo específico de personas, también encabezó la sección del landing page y capitulo 1. Además, colaboró en la creación de la página de aterrizaje utilizando los diseños proporcionados en Figma.<br><br>
+                <span class="nombre">Zoppi Rodríguez, Giacomo</span><br>
+                En esta entrega, me encargue de realizar y apoyar en la creación de los diagramas de clase y de base de datos, así como su diccionario. También, desarrollé parte del capitulo 5 y el landing page.<br><br>
+                <b>TP</b><br>
+                <span class="nombre">Aguilar Castillo, Rodrigo Alejandro</span><br>
+                Durante esta entrega, llevamos a cabo la implementación completa de los features relacionados con las suscripciones y los métodos de pago.<br><br>
+                <span class="nombre">Barrionuevo Reto, Jean Franco Joel</span><br>
+                Durante esta fase de desarrollo, hemos completado la implementación total de las funcionalidades vinculadas al dashboard analytics y c4 model.<br><br>
+                <span class="nombre">Salgado Luna, Fernando Brian</span><br>
+                En esta etapa del desarrollo, hemos finalizado la implementación completa de todas las funciones relacionadas con el social-interaction y el communication management.<br><br>
+                <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br>
+                Mediante la implementacion de esta entrega, hemos completado integrar las funcionalidades relacionadas con las búsquedas y encontrar granjas en la plataforma.<br><br>
+                <span class="nombre">Zoppi Rodríguez, Giacomo</span><br>
+                Durante esta fase de desarrollo, hemos completado la implementación total de todas las funcionalidades relacionadas con el monitoreo, la corrección del diagrama de clases, los mapas de empatía y el lenguaje ubiquitous.<br><br>
+                <b>TB2</b><br>
+                <span class="nombre">Aguilar Castillo, Rodrigo Alejandro</span><br>
+                <span class="nombre">Barrionuevo Reto, Jean Franco Joel</span><br>
+                <span class="nombre">Salgado Luna, Fernando Brian</span><br>
+                <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br>
+                <span class="nombre">Zoppi Rodríguez, Giacomo</span><br>
+            </td>
+            <td>
+                TB1: Hemos optado por un servicio de gestión y logística para granjas con el objetivo de asistir a todos los profesionales involucrados en esta industria. Nuestra startup busca abordar los desafíos de falta de organización y desperdicio de recursos que pueden ocasionar pérdidas significativas.<br><br>
+                TP: Implementamos un sitio web para ofrecer un servicio de gestión y logística de granjas, con el objetivo de asistir a todas las personas involucradas en este sector. Nos propusimos abordar la problemática de la falta de organización e implementar todos los feature, que puede ayudar a este sector, mediante nuestra startup.<br><br>
+                TB2: Durante la TB2, demostramos una participación efectiva y colaborativa en nuestro equipo. Cada miembro asumió responsabilidades específicas según sus habilidades, lo que nos permitió avanzar de manera eficiente en la implementación de las funcionalidades clave de la solución. Realizamos reuniones para coordinar esfuerzos, compartir progresos y resolver cualquier obstáculo que surgiera. Mantuvimos una comunicación abierta, tomando decisiones basadas en los requerimientos del proyecto y las necesidades de nuestros usuarios. Gracias al trabajo en equipo, logramos cumplir con los objetivos establecidos para este sprint y avanzar de manera significativa en el desarrollo de FarmLogiTech.
+            </td>
+        </tr>
+        <tr>
+            <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+            <td>
+                <b>TB1</b><br>
+                <span class="nombre">Aguilar Castillo, Rodrigo Alejandro</span><br>
+                Encargado de realizar entrevistas a un segmento objetivo, también realizó la sección de sprint, en la cuál está el sprint backlog y sprint planning. Asimismo, apoyó con la elaboración de la landing page utilizando los diseños de figma.<br><br>
+                <span class="nombre">Barrionuevo Reto, Jean Franco Joel</span><br>
+                Encargado de los diagramas C4, que son una parte integral del proceso de DDD, también conocido como Domain Driven Design. Un aspecto distintivo de este enfoque es la implementación del lenguaje ubicuo. Este lenguaje facilita la comprensión de los detalles técnicos a un nivel superior para todos los interesados, tanto internos como externos del proyecto, a través de la visualización de los diagramas.<br><br>
+                <span class="nombre">Salgado Luna, Fernando Brian</span><br>
+                Durante la ejecución del proyecto, fue fundamental mantener una comunicación constante con nuestro público objetivo para definir claramente nuestra solución. También se priorizó una comunicación efectiva y una organización adecuada a través de reuniones regulares.<br><br>
+                <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br>
+                Encargado de llevar a cabo entrevistas con un grupo específico de personas, también dirigió la sección de sprint, que incluye la lista de tareas pendientes y la planificación del mismo. Además, contribuyó en la creación de la página de inicio utilizando los diseños proporcionados en Figma.<br><br>
+                <span class="nombre">Zoppi Rodríguez, Giacomo</span><br>
+                Me encargué de el diseño de las base de datos y diagrama de clases, que son parte esencial de la implementación de una landing page y un proyecto de Aplicacion Web.<br><br>
+                <b>TP</b><br>
+                <span class="nombre">Aguilar Castillo, Rodrigo Alejandro</span><br>
+                En la implementación, gestioné la asignación de tareas al grupo de desarrollo para su implementación durante el sprint 2. También estuve a cargo de coordinar y ejecutar exitosamente el proceso de merge entre los diferentes branches y la rama principal del repositorio.<br><br>
+                <span class="nombre">Barrionuevo Reto, Jean Franco Joel</span><br>
+                Durante esta fase de desarrollo, logré completar totalmente la implementación de las funcionalidades asociadas al dashboard analytics y al modelo C4.<br><br>
+                <span class="nombre">Salgado Luna, Fernando Brian</span><br>
+                En la implementación, realice la gestión relacionada con la social-interaction y el communication management.<br><br>
+                <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br>
+                Además de realizar la implementación, coordiné la asignación de tareas al equipo de desarrollo para su ejecución durante el sprint 2. También tuve la responsabilidad de corregir y llevar a cabo de manera efectiva como arreglar el código.<br><br>
+                <span class="nombre">Zoppi Rodríguez, Giacomo</span><br>
+                En la implementación, lideré la gestión relacionada con el monitoreo, la corrección del diagrama de clases, la elaboración de mapas de empatía y el establecimiento del lenguaje ubiquitous.<br><br>
+                <b>TB2</b><br>
+                <span class="nombre">Aguilar Castillo, Rodrigo Alejandro</span><br>
+                <span class="nombre">Barrionuevo Reto, Jean Franco Joel</span><br>
+                <span class="nombre">Salgado Luna, Fernando Brian</span><br>
+                <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br>
+                <span class="nombre">Zoppi Rodríguez, Giacomo</span><br>
+            </td>
+            <td>
+                TB1: Gracias al proyecto, pudimos conectar con individuos dentro de la industria y comprender lo beneficioso que podría resultarles una aplicación como la que estamos proponiendo para facilitar sus actividades diarias.<br><br>
+                TP: Gracias a la ejecución del proyecto, pudimos establecer conexiones con profesionales de la industria y comprender el potencial beneficioso que una aplicación como la nuestra podría ofrecer al simplificar las actividades cotidianas.<br><br>
+                TB2: Durante la TB2, profundizamos en el sector agrícola y ganadero mediante entrevistas con usuarios potenciales para validar nuestra propuesta. Presentamos el progreso de nuestro proyecto a propietarios de granjas y trabajadores del sector, obteniendo retroalimentación valiosa sobre la funcionalidad y usabilidad de nuestra solución. Estas interacciones nos ayudaron a comprender mejor las necesidades y expectativas específicas de nuestro público objetivo. Con esta información, priorizamos los requisitos y realizamos ajustes en nuestra solución, asegurando que FarmLogiTech aborde eficazmente los desafíos y oportunidades del sector. Además, nuestro análisis continuo del dominio nos permitió identificar áreas de mejora y funcionalidades adicionales que podrían beneficiar a nuestros usuarios en el futuro.
+            </td>
+        </tr>
+    </table>
+</body>
 
 # Capítulo I: Introducción
 ## 1.1. StartUp Profile
@@ -301,163 +291,163 @@ FarmLogiTech es una plataforma fundada el 22 de marzo de 2024 por un equipo de c
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center" border="1" width="70%" style="text-align:center;">
-<tr align="center">
+    <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-Mathias.jpg"></img>
+            <img src="/assets/integrante-Mathias.jpg" width="250px" height="300px"></img>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-Mathias Tsuneo Kunimoto Watanabe
-</td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Código de estudiantes: </b>
-        <br>
-        u202210148
+            Mathias Tsuneo Kunimoto Watanabe
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Descripción de carrera: </b>
-        <br>
-        Ingeniería de Software
+            <b>Código de estudiantes: </b>
+            <br>
+            u202210148
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de:</b>
-        <br>
-       Soy Mathias Kunimoto, estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. El camino que quiero llegar, es en convertirme en un desarrollador full stack pero mas orientado en el frontend.
-        </td>
-    </tr>
-    <tr>
-<tr align="center">
-        <td rowspan="3">
-<img src="/assets/integrante-rodrigo.jpg"></img>
-        </td>
-      <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-Rodrigo Alejandro Aguilar Castillo
-</td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Código de estudiantes: </b>
-        <br>
-        u202210584
+            <b>Descripción de carrera: </b>
+            <br>
+            Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Descripción de carrera: </b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-   <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-       Soy Rodrigo Aguilar, estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. Me llama mucho la atención la tecnología y los dispositivos electrónicos. Uno de mis pasatiempos es programar.
-        </td>
-    </tr>
-     <tr align="center">
-        <td rowspan="3">
-<img src="/assets/integrante-Fernando.jpg"></img>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-Fernando Brian Salgado Luna
-</td>
-    </tr>
-     <tr>
-        <td align="left">
-        <b>Código de estudiantes: </b>
-        <br>
-        u202212023
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Descripción de carrera: </b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-       Mi nombre es Fernando Salgado, actualmente me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. Soy bueno colaborando de manera armoniosa y productiva con otros miembros del equipo, aportando ideas y contribuyendo al logro de objetivos comunes.
+            <b>Acerca de:</b>
+            <br>
+            Soy Mathias Kunimoto, estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. El camino que quiero llegar, es en convertirme en un desarrollador full stack pero mas orientado en el frontend.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-jean.jpg"></img>
+            <img src="/assets/integrante-rodrigo.jpg" width="250px" height="300px"></img>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-Jean Franco Joel Barrionuevo Reto
-</td>
-    </tr>
-     <tr>
-        <td align="left">
-        <b>Código de estudiantes: </b>
-        <br>
-        u202219284
+            Rodrigo Alejandro Aguilar Castillo
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Descripción de carrera: </b>
-        <br>
-        Ingeniería de Software
+            <b>Código de estudiantes: </b>
+            <br>
+            u202210584
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de:</b>
-        <br>
-       Mi nombre es Jean Franco Barrionuevo, me encuentro en el 5to ciclo de Ingeniería de Software. Decidí estudiar esta carrera porque siempre me ha apasionado el mundo de la tecnología y software en particular.
+            <b>Descripción de carrera: </b>
+            <br>
+            Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Acerca de:</b>
+            <br>
+            Soy Rodrigo Aguilar, estudiante de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. Me llama mucho la atención la tecnología y los dispositivos electrónicos. Uno de mis pasatiempos es programar.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-giacomo.jpg"></img>
+            <img src="/assets/integrante-Fernando.jpg" width="270px" height="300px"></img>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-Giacomo Zoppi Rodríguez
-</td>
-    </tr>
-     <tr>
-        <td align="left">
-        <b>Código de estudiantes: </b>
-        <br>
-        u202210029
+            Fernando Brian Salgado Luna
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Descripción de carrera: </b>
-        <br>
-        Ingeniería de Software
+            <b>Código de estudiantes: </b>
+            <br>
+            u202212023
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de:</b>
-        <br>
-       Mi nombre es Giacomo Zoppi, me encuentro en el quinto ciclo de Ingeniería de Software. Me destaco en el trabajo en equipo, la elaboración de ideas y el análisis de datos.
+            <b>Descripción de carrera: </b>
+            <br>
+            Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Acerca de:</b>
+            <br>
+            Mi nombre es Fernando Salgado, actualmente me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. Soy bueno colaborando de manera armoniosa y productiva con otros miembros del equipo, aportando ideas y contribuyendo al logro de objetivos comunes.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="/assets/integrante-jean.jpg" width="250px" height="300px"></img>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Jean Franco Joel Barrionuevo Reto
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Código de estudiantes: </b>
+            <br>
+            u202219284
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Descripción de carrera: </b>
+            <br>
+            Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Acerca de:</b>
+            <br>
+            Mi nombre es Jean Franco Barrionuevo, me encuentro en el 5to ciclo de Ingeniería de Software. Decidí estudiar esta carrera porque siempre me ha apasionado el mundo de la tecnología y software en particular.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="/assets/integrante-giacomo.jpg" width="250px" height="300px"></img>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Giacomo Zoppi Rodríguez
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Código de estudiantes: </b>
+            <br>
+            u202210029
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Descripción de carrera: </b>
+            <br>
+            Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <b>Acerca de:</b>
+            <br>
+            Mi nombre es Giacomo Zoppi, me encuentro en el quinto ciclo de Ingeniería de Software. Me destaco en el trabajo en equipo, la elaboración de ideas y el análisis de datos.
         </td>
     </tr>
 </table>
+
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
