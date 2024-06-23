@@ -529,14 +529,16 @@ Extraído de el libro Lean UX, 3rd Edition (Gothelf, 2021)
 
 Podremos solucionar nuestr problema, mediante una mas eficaz forma de organizar las actividades, producción, egresos y ventas de su granja.
 Vamos a medir la cantidad de suscripciones:
-    - Esperamos una cantidad de 20 suscripciones premium por mes.
+    - Cumplir con la meta de crecimiento mensual del 20% en el número de usuarios activos de la plataforma, medida por el número de granjas que utilizan activamente FarmLogiTech.
+    
 el ratio de exito y productividad de las granjas tras el uso de nuestra aplicación:
-    - Esperamos que mediante entrevistas y estudios, al menos un 70% de los usuarios que usen nuestra aplicación si hayan notado alguna mejoria en la productividad.
+    - Esperamos que mediante entrevistas y estudios, al menos un 70% de los usuarios que usen nuestra aplicación si hayan notado alguna mejoria en la productividad, mientras que las empresas grandes que adopten FarmLogiTech logren mejorar su eficiencia operativa en un 15% en la gestión y distribución de productos agrícolas de alta calidad dentro del primer año de implementación
 
 el numero de reseñas positivas
     - Esperamos que durante nuestros primeros meses, las reseñas sean en un 50% positivas, el otro 50% nos servirá para mejorar y otorgar un producto mas adecuado.
 
 , el indice de uso de nuestra aplicación asi como su retención, etc. 
+- Renovación de suscripciones del 70% al final del primer año, indicando la satisfacción y la retención de clientes.
 
 
 1. **Creemos que nuestros usuarios necesitan**: Una forma mas eficaz de organizar las actividades, producción, egresos y ventas de su granja. Así como facilitar la comunicación entre empresas y granjas. 
