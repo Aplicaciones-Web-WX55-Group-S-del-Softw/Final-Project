@@ -8,7 +8,7 @@
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Aplicaciones Web - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TF
+    <br>INFORME DE TRABAJO FINAL - TF1
 </p>
 
 <p align="center">
@@ -228,16 +228,32 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
                 Durante esta fase de desarrollo, hemos completado la implementación total de todas las funcionalidades relacionadas con el monitoreo, la corrección del diagrama de clases, los mapas de empatía y el lenguaje ubiquitous.<br><br>
                 <b>TB2</b><br>
                 <span class="nombre">Aguilar Castillo, Rodrigo Alejandro</span><br>
+                He colaborado en la redacción de las instrucciones para el despliegue del backend de la aplicación, con el objetivo de que los futuros desarrolladores puedan comprender y replicar el proceso de implementación de manera autónoma.<br><br>
                 <span class="nombre">Barrionuevo Reto, Jean Franco Joel</span><br>
+                He realizado commits tanto para la página de aterrizaje como para el frontend de la aplicación web y los servicios web.<br><br>
                 <span class="nombre">Salgado Luna, Fernando Brian</span><br>
+                Contribuí a la creación del backend y al desarrollo del frontend, asegurando un progreso significativo y cumpliendo con los criterios establecidos, mientras atendía las necesidades del cliente. <br><br>
                 <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br>
+                He realizado progresos en el back-end de la aplicación web. Los endpoints que he creado están correctamente documentados utilizando la herramienta swagger-ui. <br><br>
                 <span class="nombre">Zoppi Rodríguez, Giacomo</span><br>
-            </td>
+                Aporté a la elaboración del backend y al desarrollo del frontend, logrando un avance significativo conforme a los criterios establecidos y teniendo en cuenta las necesidades del cliente.<br><br>
+                <b>TF</b><br><br>
+                <span class="nombre">Aguilar Castillo, Rodrigo Alejandro</span><br>
+                Me encargue de conectar el frontend y backend, ademas de desarrollar el backend con las conexiones                
+                <br><br> <span class="nombre">Barrionuevo Reto, Jean Franco Joel</span><br>
+                Contribuí a la elaboración de las pruebas del backend con los endpoints, además de modificar las tareas del bounded context.                
+                <br> <br> <span class="nombre">Salgado Luna, Fernando Brian</span><br>
+                Contribuí a la creación del backend y al desarrollo del frontend, asegurando un progreso significativo y cumpliendo con los criterios establecidos, mientras atendía las necesidades del cliente. <br><br>
+                <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br>
+                Me encargue de desarrolloar la sección de sign in, sign up y conexion con el frontend.                
+                <br> <br> <span class="nombre">Zoppi Rodríguez, Giacomo</span><br>
+                Contribuí al desarrollo de endpoints y a la conexión entre el frontend y el backend en los bounded contexts restantes. Además, colaboré en la mejora continua de la documentación, aplicando correcciones y mejoras según la retroalimentación de la TB2.            </td>
             <td>
                 TB1: Hemos optado por un servicio de gestión y logística para granjas con el objetivo de asistir a todos los profesionales involucrados en esta industria. Nuestra startup busca abordar los desafíos de falta de organización y desperdicio de recursos que pueden ocasionar pérdidas significativas.<br><br>
                 TP: Implementamos un sitio web para ofrecer un servicio de gestión y logística de granjas, con el objetivo de asistir a todas las personas involucradas en este sector. Nos propusimos abordar la problemática de la falta de organización e implementar todos los feature, que puede ayudar a este sector, mediante nuestra startup.<br><br>
-                TB2: Durante la TB2, demostramos una participación efectiva y colaborativa en nuestro equipo. Cada miembro asumió responsabilidades específicas según sus habilidades, lo que nos permitió avanzar de manera eficiente en la implementación de las funcionalidades clave de la solución. Realizamos reuniones para coordinar esfuerzos, compartir progresos y resolver cualquier obstáculo que surgiera. Mantuvimos una comunicación abierta, tomando decisiones basadas en los requerimientos del proyecto y las necesidades de nuestros usuarios. Gracias al trabajo en equipo, logramos cumplir con los objetivos establecidos para este sprint y avanzar de manera significativa en el desarrollo de FarmLogiTech.
-            </td>
+                TB2: Durante la TB2, demostramos una participación efectiva y colaborativa en nuestro equipo. Cada miembro asumió responsabilidades específicas según sus habilidades, lo que nos permitió avanzar de manera eficiente en la implementación de las funcionalidades clave de la solución. Realizamos reuniones para coordinar esfuerzos, compartir progresos y resolver cualquier obstáculo que surgiera. Mantuvimos una comunicación abierta, tomando decisiones basadas en los requerimientos del proyecto y las necesidades de nuestros usuarios. Gracias al trabajo en equipo, logramos cumplir con los objetivos establecidos para este sprint y avanzar de manera significativa en el desarrollo de FarmLogiTech. <br><br>
+                TF: El equipo se encargó de desarrollar las secciones de conexión entre el frontend y el backend, para realizar la conexión de los bounded contexts restantes. Además, se colaboró en la mejora continua de la documentación, aplicando correcciones y mejoras según la retroalimentación de la TB2. Gracias a la colaboración y el esfuerzo conjunto, logramos completar con éxito la implementación de la solución propuesta, cumpliendo con los objetivos establecidos y satisfaciendo las necesidades de nuestros usuarios.
+</td>
         </tr>
         <tr>
             <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
@@ -264,17 +280,34 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
                 Además de realizar la implementación, coordiné la asignación de tareas al equipo de desarrollo para su ejecución durante el sprint 2. También tuve la responsabilidad de corregir y llevar a cabo de manera efectiva como arreglar el código.<br><br>
                 <span class="nombre">Zoppi Rodríguez, Giacomo</span><br>
                 En la implementación, lideré la gestión relacionada con el monitoreo, la corrección del diagrama de clases, la elaboración de mapas de empatía y el establecimiento del lenguaje ubiquitous.<br><br>
-                <b>TB2</b><br>
+                <b>TB2</b><br><br>
                 <span class="nombre">Aguilar Castillo, Rodrigo Alejandro</span><br>
+                En la implementación, realice el desarrollo del frontend y mejoras en el landing page.<br><br>
                 <span class="nombre">Barrionuevo Reto, Jean Franco Joel</span><br>
-                <span class="nombre">Salgado Luna, Fernando Brian</span><br>
-                <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br>
-                <span class="nombre">Zoppi Rodríguez, Giacomo</span><br>
+                Me encargué de preparar el backlog del sprint 3 y organizé el sprint en Trello para documentar los avances y gestionar los entregables.<br> <br>
+                <span class="nombre">Salgado Luna, Fernando Brian</span><br><br>
+                En la implementación, me encargué de gestionar mejoras en el frontend y realicé entrevistas a usuarios para optimizar la experiencia. <br><br>
+                <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br><br>
+                Las entrevistas de validación permitieron analizar las historias de usuario técnicas al obtener información sobre los puntos más relevantes para el usuario final y cómo utilizará la aplicación. <br><br>
+                <span class="nombre">Zoppi Rodríguez, Giacomo</span><br><br>
+                Conduje entrevistas de validación con los usuarios para entender su experiencia con la aplicación. Esto permitió comunicar el estado actual del desarrollo del proyecto y obtener retroalimentación sobre la satisfacción del cliente con la propuesta.
+                <br><br><b>TF</b><br><br>
+                <span class="nombre">Aguilar Castillo, Rodrigo Alejandro</span><br>
+                En este entregable final, se dio prioridad al correcto funcionamiento de la aplicación y a proporcionar una buena experiencia al usuario. Se corrigieron errores y se realizaron ajustes en la nomenclatura para mantener un desarrollo futuro más organizado.<br><br>
+                <span class="nombre">Barrionuevo Reto, Jean Franco Joel</span><br>
+                Trabajé en la elaboración de parte del sprint 4 y actualicé secciones del documento correspondiente.<br> <br>
+                <span class="nombre">Salgado Luna, Fernando Brian</span><br><br>
+                En este entregable final, se puso énfasis en asegurar el correcto funcionamiento de la aplicación y en mejorar la experiencia del usuario. Se abordaron problemas y se establecieron las conexiones necesarias con el backend. <br><br>
+                <span class="nombre">Kunimoto Watanabe, Mathias Tsuneo</span><br><br>
+               En este entregable final, se enfocó en asegurar el funcionamiento adecuado de la aplicación y en mejorar la experiencia del usuario. Se solucionaron errores y se realizaron ajustes en la nomenclatura para facilitar un desarrollo futuro más organizado. <br><br>
+                <span class="nombre">Zoppi Rodríguez, Giacomo</span><br><br>
+                En este desarrollo final, se priorizó garantizar el correcto funcionamiento de la aplicación y mejorar la experiencia del usuario. Se corrigieron errores y se realizaron ajustes en la terminología para mantener un desarrollo futuro más estructurado.
             </td>
             <td>
                 TB1: Gracias al proyecto, pudimos conectar con individuos dentro de la industria y comprender lo beneficioso que podría resultarles una aplicación como la que estamos proponiendo para facilitar sus actividades diarias.<br><br>
                 TP: Gracias a la ejecución del proyecto, pudimos establecer conexiones con profesionales de la industria y comprender el potencial beneficioso que una aplicación como la nuestra podría ofrecer al simplificar las actividades cotidianas.<br><br>
-                TB2: Durante la TB2, profundizamos en el sector agrícola y ganadero mediante entrevistas con usuarios potenciales para validar nuestra propuesta. Presentamos el progreso de nuestro proyecto a propietarios de granjas y trabajadores del sector, obteniendo retroalimentación valiosa sobre la funcionalidad y usabilidad de nuestra solución. Estas interacciones nos ayudaron a comprender mejor las necesidades y expectativas específicas de nuestro público objetivo. Con esta información, priorizamos los requisitos y realizamos ajustes en nuestra solución, asegurando que FarmLogiTech aborde eficazmente los desafíos y oportunidades del sector. Además, nuestro análisis continuo del dominio nos permitió identificar áreas de mejora y funcionalidades adicionales que podrían beneficiar a nuestros usuarios en el futuro.
+                TB2: Durante la TB2, profundizamos en el sector agrícola y ganadero mediante entrevistas con usuarios potenciales para validar nuestra propuesta. Presentamos el progreso de nuestro proyecto a propietarios de granjas y trabajadores del sector, obteniendo retroalimentación valiosa sobre la funcionalidad y usabilidad de nuestra solución. Estas interacciones nos ayudaron a comprender mejor las necesidades y expectativas específicas de nuestro público objetivo. Con esta información, priorizamos los requisitos y realizamos ajustes en nuestra solución, asegurando que FarmLogiTech aborde eficazmente los desafíos y oportunidades del sector. Además, nuestro análisis continuo del dominio nos permitió identificar áreas de mejora y funcionalidades adicionales que podrían beneficiar a nuestros usuarios en el futuro.<br><br>
+                TP: En este entregable final, nuestro equipo se centró en dos aspectos clave: tratar de garantizar el correcto funcionamiento de la aplicación y mejorar la experiencia del usuario. Se corrigieron errores significativos y se realizaron ajustes en la nomenclatura para asegurar que el desarrollo futuro sea más organizado y eficiente. Además, avanzamos en la elaboración del sprint 4 y actualizamos secciones importantes del documento correspondiente. Este enfoque no solo fortaleció la base técnica del proyecto, sino que también sentó las bases para futuras iteraciones que puedan continuar mejorando tanto la funcionalidad como la usabilidad de la aplicación.
             </td>
         </tr>
     </table>
