@@ -1815,21 +1815,17 @@ Landin Page:
 La actualización de la página de destino en GitHub Pages se realizó tras fusionar la rama "develop" con la rama principal ("main"). Este proceso permitió renovar la implementación de la página de destino.
 
 - Capturas de pantalla landing page:
-  <img src="/assets/img-carrusel-1.png" alt="landing-page"/></img>
-  <img src="/assets/img-nosotros-1.png" alt="landing-page"/></img>
-  <img src="/assets/img-caracteristicas-1.png" alt="landing-page"/></img>
-  <img src="/assets/img-metodos-1.png" alt="landing-page"/></img>
-  <img src="/assets/img-colaboradores-1.png" alt="landing-page"/></img>
+  <img src="/assets/img-landing-update.png" alt="landing-page"/></img>
 
   <img src="/assets/img-deploymente-sprint.png" alt="landing-page"/></img>
 
 - Web Application Front-end:
 
-Prueba de que esta enlazado con el Netlify
+Prueba de que esta enlazado con el github pages:
 
 <img src="/assets/img-deployment.png" alt="landing-page"/></img>
 
-- Capturas de pantalla landing page:
+- Capturas de pantalla frontend:
 
   <img src="/assets/img-website-page-1.png" alt="website"/></img>
   <img src="/assets/img-website-page-2.png" alt="website"/></img>
