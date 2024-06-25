@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <strong>Startup: FarmLogitech</strong><br>
+    <strong>Startup: Samurais de Software</strong><br>
     <strong>Producto:FarmLogitech</strong>
 </p>
 <h3>Team Members:</h3>

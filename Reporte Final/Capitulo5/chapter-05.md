@@ -1817,13 +1817,14 @@ La actualización de la página de destino en GitHub Pages se realizó tras fusi
 - Capturas de pantalla landing page:
   <img src="/assets/img-landing-update.png" alt="landing-page"/></img>
 
-  <img src="/assets/img-deploymente-sprint.png" alt="landing-page"/></img>
+  <img src="/assets/img-deployment-sprint.png" alt="landing-page"/></img>
 
 - Web Application Front-end:
 
 Prueba de que esta enlazado con el github pages:
 
-<img src="/assets/img-deployment.png" alt="landing-page"/></img>
+<img src="/assets/img-deployment-sprint.png" alt="landing-page"/></img>
+
 
 - Capturas de pantalla frontend:
 
