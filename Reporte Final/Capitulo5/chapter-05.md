@@ -1610,36 +1610,388 @@ Para solucionar este problema debe implementar mas estilos en la parte del front
 
 **Recomendación:** Establecer conexiones y canales de comunicación efectivos entre los usuarios para asegurar una distribución equilibrada de las tareas y mejorar el bienestar del personal.
 
+## 5.3.4. Sprint 4
+### 5.3.4.1. Sprint Planning 4
+El spring 4 tiene como inicio el dia 12/06/2024 y como objetivo plantea conectar el backend con el frontend y desplegar todos nuestros servicios
 
-### 5.4. Video About-The-Product.
+<table>
+<tr><td>Sprint #</td><td>Sprint 4</td></tr>
+<tr><td colspan="2">Sprint Planning Background</td></tr>
+<tr><td>Date</td><td>2024-06-12</td></tr>
+<tr><td>Time</td><td>7:00 PM</td></tr>
+<tr><td>Location</td><td>Meet virtual meeting</td></tr>
+<tr><td>Prepared by</td><td>Rodrigo Aguilar</td></tr>
+<tr><td>Atendees</td><td>Mathias Kunimoto, Fernando Salgado, Giacomo Zoppi, Jean Franco Barrionuevo</td></tr>
+<tr><td>Sprint 4 Review</td><td>En el Sprint 4 implementamos todos nuestros servicios y codigo en el frontend de manera que tengamos nuestra aplicacion funcional y lista para lanzarse, gracias a nuestros anteriores sprints dedicados a el desarrollo del frontend y backend.</td></tr>
+<tr><td>Sprint 4 Retrospective</td><td>En el anterior sprint pudimos mejorar la organizacion de codigo y el como distribuirlo y aislarlo por secciones para que sea mas facil de trabajar, junto a definir la logica de negocio para una mejor experiencia del usuario.</td></tr>
+<tr><td colspan="2">Sprint Goal & User Stories</td></tr>
+<tr><td>Sprint 4 Goal</td><td>Implementar el backend y conectarlo al frontend para desplegar tanto nuestro servicio de API Rest como la aplicacion en si para que pueda ser distribuida.</td></tr>
+<tr><td>Sprint 4 Velocity</td><td>15</td></tr>
+<tr><td>Sum of story points</td><td>15</td></tr>
+</table>
+
+### 5.3.4.2. Sprint Backlog 4
+
+En este sprint backlog, desarrollamos la implementacion de nuestros endpoint de nuestra API que ha estado siendo desarrollada desde el sprint 3, siendo utilizada en el frontend para recopilar y mostrar datos de nuestra base de datos desplegada en AWS.
+
+<img src="/assets/img-trello-sprint4.png" alt="Logo-farm"></img>
+
+Link del trello: https://trello.com/invite/b/H1ovwIyt/ATTIa06b8aa26ddc1b1aa652cdb1647fd69f7C984655/aplicaciones-web
+
+| Technical User Story | WorkItem / Task                                   |      |                                                               |                                                                                                                                                              ||                             ||
+|----------------------|---------------------------------------------------|------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------|-----------------------------|--------|
+| Id                   | Title                                             | Id   | Title                                                         | Description                                                                                                                                                  | Estimation (Hours) | **Assigned To**             | **Status** |
+| US20                 | Crear un perfil de trabajador                     | TK33 | Conexión de backend con frontend del apartado de trabajadores | Conectar el API existente con el frontend de filtros y metodos relacionados con la administración de empleados en la empresa.                                | 4 | **Jean Franco Barrionuevo** | **Done** |
+| US02                 | Vinculo entre el Landing Page y la Aplicación Web | TK34 | Configurar autenticación para acceso a la aplicación          | Implementar en el backend la lógica de autenticación necesaria para permitir el acceso seguro desde la landing page a la aplicación web.                     | 5 | **Mathias Kunimoto**        | **Done** |
+| US03                 | Crear y asignar tareas a los trabajadores         | TK35 | Mejora de la interfaz de gestión de tareas                    | Conectar la interfaz existente para permitir al dueño de la granja crear y asignar tareas a los trabajadores de manera más eficiente.                        | 6 | **Fernando Salgado**        | **Done** |
+| US05                 | Registrar progreso de tareas                      | TK36 | Mejora de la API para registro de progreso de tareas          | Actualizar la API en el backend para mejorar la capacidad de los trabajadores de registrar y actualizar el progreso de sus tareas asignadas.                 | 5 | **Giacomo Zoppi**           | **Done** |
+| US10                 | Verificar niveles de inventario                   | TK37 | Mejora del sistema de seguimiento de inventario               | Conectar el sistema existente con el frontend para rastrear y actualizar los niveles de inventario de productos agrícolas y ganaderos de manera más precisa. | 8 | **Rodrigo Aguilar**         | **Done** |
+
+### 5.3.4.3 Development Evidence for Sprint Review.
+
+| Fecha        | Commit Message                                                   | Usuario         | Branch                | Commit ID |
+|--------------|------------------------------------------------------------------|-----------------|-----------------------|-----------|
+| Jun 23, 2024 | Merge remote-tracking branch ‘origin/profiles’ into profiles     | Giacomo202210029| profiles              | 61c0c4b   |
+| Jun 22, 2024 | feat(profiles): unversioned files                                | Giacomo202210029| profiles              | 03bb2a3   |
+| Jun 21, 2024 | feat(profiles): workplace.                                       | fersalgado26    | profiles              | 89d83ef   |
+| Jun 21, 2024 | feat(profile-management): Added Sign Up to employee and added role to profile | Giacomo202210029 | profiles | febd265   |
+| Jun 21, 2024 | feat: unversioned files                                          | Giacomo202210029| profiles              | f42f50c   |
+| Jun 22, 2024 | feat(social-interaction): rating updated.                        | fersalgado26    | social-interaction    | d160ed9   |
+| Jun 22, 2024 | feat(social-interaction): expenses updated.                      | fersalgado26    | social-interaction    | ca973b2   |
+| Jun 22, 2024 | feat(social-interaction): rating updated.                        | fersalgado26    | social-interaction    | ca0389a   |
+| Jun 21, 2024 | feat(social-interaction): workspace.xml                          | fersalgado26    | social-interaction    | bf3c7c0   |
+| Jun 19, 2024 | fix: Added authentication when creating a farm                   | kuni2005        | social-interaction    | 1121b25   |
+| Jun 19, 2024 | Merge branch ‘social-interaction' into dev                       | kuni2005        | social-interaction    | 2a4c686   |
+| Jun 19, 2024 | feat: merge with subscription                                    | kuni2005        | social-interaction    | 7f1d543   |
+| Jun 19, 2024 | feat: fixed update                                               | Giacomo202210029| profiles              | dd0a0a3   |
+| Jun 19, 2024 | feat: workspaces                                                 | Giacomo202210029| profiles              | da9163b   |
+| Jun 19, 2024 | feat(profiles): Finished validations in Animals, crops, expenses | Giacomo202210029| profiles              | e64abc0   |
+| Jun 19, 2024 | feat(profiles): Added Animal, Crops, Incomes and Expenses Validation | Giacomo202210029 | profiles          | 717e70c   |
+| Jun 19, 2024 | Merge remote-tracking branch 'origin/profiles' into profiles     | Giacomo202210029| profiles              | 9987252   |
+| Jun 19, 2024 | feat(profiles): Added employees                                  | Giacomo202210029| profiles              | dc8a33c   |
+| Jun 19, 2024 | feat: added unversioned files                                    | Giacomo202210029| profiles              | 6e9dca1   |
+| Jun 16, 2024 |  | feat(feature/profiles): Add fields in profiles                   | Rodrag0lvr      | profiles              | 8aa22ff   |
+| Jun 16, 2024 |   | feat(subscription): Subscription fixed                           | Giacomo202210029| subscription          | d5574cc   |
+| Jun 16, 2024    | feat(feature/profile): Add field userId in farm                  | Rodrag0lvr      | profile               | 119fe21   |
+| Jun 16, 2024    | feat(feature/profiles): Add authentication with farmer           | Rodrag0lvr      | profiles              | 40dba37   |
+| Jun 16, 2024    | Merge remote-tracking branch ‘refs/remotes/origin/subscription' into dev | Giacomo202210029 | subscription  | fa73ed1   |
+| Jun 16, 2024    | feat: changes in server                                          | Giacomo202210029| server                | 9822a39   |
+| Jun 16, 2024    | Merge remote-tracking branch ‘refs/remotes/origin/dashboard-analytics’ into dev | Giacomo202210029 | dashboard-analytics | 6bbf6a8 |
+| Jun 16, 2024    | feat(feature/profile): Add authentication in farm                | Rodrag0lvr      | profile               | df502e5   |
+
+### 5.3.4.4 Testing Suite Evidence for Sprint Review
+
+| Repository                            | Branch | Commit Id      | Commit Message   | Commit Message Body   | Commited on (Date) |
+|---------------------------------------|--------|----------------|------------------|-----------------------|--------------------|
+| Aplicaciones-Web-WX55-Group-S-del-Softw | "main" | feat(testing)  | testing evidence | test of farm-logitech | 23/06/2024         |
+
+<img src="/assets/img-testo-aws.png" alt="testeo"/></img>
+
+
+### 5.2.3.5 Execution Evidence for Sprint Review.
+En el sprint 4, logramos un desarrollo parcial del frontend y backend de la aplicación web. Este avance incluye nuevas vistas importantes sobre el producto y la startup, disponibles en inglés y español, así como una versión responsiva. A continuación, se presentan algunas evidencias:
+
+- US09
+  <img src="/assets/img-website-page-9.png" alt="US09"/></img>
+
+- US14
+  <img src="/assets/img-website-page-7.png" alt="US14"/></img>
+
+- US15
+  <img src="/assets/img-website-page.png" alt="US15"/></img>
+
+- US16
+  <img src="/assets/img-website-page-8.png" alt="US16"/></img>
+
+- US21
+  <img src="/assets/img-us-21.png" alt="US21"/></img>
+
+- US22
+  <img src="/assets/img-website-page-16.png" alt="US22"/></img>
+
+### 5.3.4.6 Services Documentation Evidence for Sprint Review.
+
+Para el sprint 4, se planificó la conexión del  front-end con el back-end. Inicialmente, se trabajó con el mismo github creando repositorios en donde
+incluimos el db.json para luego enlazarlo llamandolo con la creación de rutas.
+
+| Endpoint           | Details                                                                                                                                                           |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| /subscription-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /profile-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /farm-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /user-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /task-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /social-controller    | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /shed-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /income-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /expense-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /crop-controller   | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /animal-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+| /message-controller | Se implementaron las operaciones CRUD en base.service.ts, logrando que las funcionalidades de creación local y obtención de todos los registros desde el db.json. |
+
+Link del repositorio: https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git
+
+### Web Service:
+
+| Endpoint                | Operaciones | Parámetros       | URL                                                    |
+|-------------------------|-------------|------------------|--------------------------------------------------------|
+| subscription-controller | PUT         | {profileId}      | /api/v1/subscription/pay/subscription/{profileId}                                           |
+|                         | POST        | No tiene         | /api/v1/subscription                          |
+|                         | GET         | {id}             | api/v1/crops/{cropId}/tunnels                          |
+|                         | GET         | No tiene         | /api/v1/subscription/all                |
+| profile-controller      | GET         | {profileId}      | /api/v1/profile/{profileId}                           |
+|                         | PUT         | {profileId}      | /api/v1/profile/{profileId}                                       |
+|                         | POST        | No tiene         | /api/v1/profile                           |
+|                         | GET         | No tiene         | /api/v1/profile/all                           |
+| farm-controller         | GET         | {id}             | /api/v1/farm/{id}                          |
+|                         | PUT         | {id}             | /api/v1/farm/{id}                                       |
+|                         | POST        | No tiene         | /api/v1/farm                         |
+|                         | GET         | {location}       | /api/v1/farm/location/{location}                           |
+|                         | GET         | No tiene         | /api/v1/farm/all                         |
+|                         | GET         | {profileId}        | /api/v1/farm/all/farms/profile/{profileId}                          |
+| user-controller         | POST        | No tiene         | /api/v1/user                                       |
+|                         | GET         | No tiene         | /api/v1/user/all                          |
+| task-controller         | POST        | No tiene         | /api/v1/task                                      |
+|                         | GET         | {farmerId}       | /api/v1/task/all/farmer/{farmerId}                          |
+|                         | GET         | {collaboratorId} | /api/v1/task/all/collaborator/{collaboratorId}                          |
+| social-controller       | POST        | No tiene         | /api/v1/socials                                      |
+|                         | GET         | No tiene         | /api/v1/socials/all                         |
+|                         | GET         | {id}             | /api/v1/socials/all/farm/{id}                         |
+| shed-controller         | POST        | No tiene         | /api/v1/shed                                      |
+|                         | GET         | {id}             | /api/v1/shed/{id}                         |
+|                         | GET         | No tiene         | /api/v1/shed/all                        |
+| income-controller       | POST        | No tiene         | /api/v1/income                                     |
+| expense-controller      | POST        | No tiene         | /api/v1/expense                                     |
+| crop-controller         | POST        | No tiene         | /api/v1/crop                                      |
+|                         | GET         | {id}             | /api/v1/crop/{id}                         |
+|                         | GET         | No tiene         | /api/v1/crop/all                       |
+| animal-controller       | POST        | No tiene         | /api/v1/animal                                      |
+|                         | GET         | {id}             | /api/v1/animal/{id}                         |
+|                         | GET         | No tiene         | /api/v1/animal/all                       |
+| message-controller      | POST        | {collaboratorId} | /api/v1/messages/collaborator/{collaboratorId}                                   |
+
+#### Subscriptions Controller:
+<img src="/assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
+
+#### Profile Controller:
+<img src="/assets/profile-controller-1.png" alt="profile-controller-1"/></img>
+
+#### Farm Controller:
+<img src="/assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
+
+#### User Controller:
+<img src="/assets/img-user-controller.png" alt="user-controller-1"/></img>
+
+#### Task Controller:
+<img src="/assets/img-task-controller-1.png" alt="task-controller-1"/></img>
+
+#### Social Controller:
+<img src="/assets/img-social-controller-1.png" alt="social-controller-1"/></img>
+
+#### Shed Controller:
+<img src="/assets/img-shed-controller.png" alt="shed-controller"/></img>
+
+#### Income Controller:
+<img src="/assets/img-income-controller.png" alt="income-controller"/></img>
+
+#### Expense Controller:
+<img src="/assets/img-expense-controller.png" alt="expense-controller"/></img>
+
+#### Crop Controller:
+<img src="/assets/img-crop-controller-1.png" alt="crop-controller"/></img>
+
+#### Animal Controller:
+<img src="/assets/img-animal-controller-1.png" alt="animal-controller"/></img>
+
+#### Message Controller:
+<img src="/assets/img-message-controller.png" alt="message-controller"/></img>
+
+### 5.3.4.7 Software Deployment Evidence for Sprint Review.
+
+Para la entrega del cuarto sprint, se implementó una landing page completamente funcional, cumpliendo con las historias de usuario correspondientes. Además, se desplegó y lanzó parcialmente el back-end, el cual aún está en proceso de finalización.
+
+Landin Page:
+
+La actualización de la página de destino en GitHub Pages se realizó tras fusionar la rama "develop" con la rama principal ("main"). Este proceso permitió renovar la implementación de la página de destino.
+
+- Capturas de pantalla landing page:
+  <img src="/assets/img-carrusel-1.png" alt="landing-page"/></img>
+  <img src="/assets/img-nosotros-1.png" alt="landing-page"/></img>
+  <img src="/assets/img-caracteristicas-1.png" alt="landing-page"/></img>
+  <img src="/assets/img-metodos-1.png" alt="landing-page"/></img>
+  <img src="/assets/img-colaboradores-1.png" alt="landing-page"/></img>
+
+  <img src="/assets/img-deploymente-sprint.png" alt="landing-page"/></img>
+
+- Web Application Front-end:
+
+Prueba de que esta enlazado con el Netlify
+
+<img src="/assets/img-deployment.png" alt="landing-page"/></img>
+
+- Capturas de pantalla landing page:
+
+  <img src="/assets/img-website-page-1.png" alt="website"/></img>
+  <img src="/assets/img-website-page-2.png" alt="website"/></img>
+  <img src="/assets/img-website-page-3.png" alt="website"/></img>
+  <img src="/assets/img-website-page-5.png" alt="website"/></img>
+  <img src="/assets/img-website-page-7.png" alt="website"/></img>
+  <img src="/assets/img-website-page-8.png" alt="website"/></img>
+
+Evidencia de que se desplego: 
+
+- Web Application Back-end:
+
+  <img src="/assets/img-base-de-dato-workbrench-1.png" alt="Base de datos"/></img>
+  <img src="/assets/img-base-de-dato-workbrench-2.png" alt="Base de datos"/></img>
+
+Evidencia de que se desplego:
+
+- Capturas de pantalla de Web Application:
+
+<img src="/assets/img-subscriptions-controller-1.png" alt="subscriptions-controller-1"/></img>
+<img src="/assets/profile-controller-1.png" alt="profile-controller-1"/></img>
+<img src="/assets/img-farm-controller-1.png" alt="farm-controller-1"/></img>
+<img src="/assets/img-user-controller.png" alt="user-controller-1"/></img>
+<img src="/assets/img-task-controller-1.png" alt="task-controller-1"/></img>
+<img src="/assets/img-social-controller-1.png" alt="social-controller-1"/></img>
+<img src="/assets/img-shed-controller.png" alt="shed-controller"/></img>
+<img src="/assets/img-income-controller.png" alt="income-controller"/></img>
+<img src="/assets/img-expense-controller.png" alt="expense-controller"/></img>
+<img src="/assets/img-crop-controller-1.png" alt="crop-controller"/></img>
+<img src="/assets/img-animal-controller-1.png" alt="animal-controller"/></img>
+<img src="/assets/img-message-controller.png" alt="message-controller"/></img>
+
+### 5.3.4.8. Team Collaboration Insights during Sprint.
+
+| Alumno                 | Actividad                                                                                                                                                   | 
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rodrigo Aguilar        | Desarrollo backend, contribucion con la conexion y desarrollo con aws                                                                                       |
+| Jean Franco  Barrionuevo  | Desplegar la base de datos, el API, realizar mejoras en el bounded context de Task, se le puso verificaciones, reglas de dominio y realice el test unitario |
+| Mathias Kunimoto       | Desarrollo de profile managmente y despliegue del frontend para la conexion                                                                                 |
+| Fernando  Salgado             | Desarrollo del monitoring, animal shed y drop, ademas correciones de tasks                                                                                  |
+| Giacomo Zoppi            | Desarrollo del drop en la parte de tasks y conexion analytics.                                                                                              |
+
+
+1. Repositorio Landing Page:
+   (https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/landing-page.git)
+
+<img src="/assets/img-landing-sprint-4.png" alt="frontend"/></img>
+<img src="/assets/img-commits-landing.png" alt="frontend"/></img>
+
+
+   Observaciones:
+   - La participación de Luciano Ruiz y Franz en el repositorio de la landing page no se vio reflejada en los insights debido a problemas con la sincronización de github.
+     Logros clave:
+
+2. Repositorio de la Aplicación Web (Frontend):
+   (https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/frontend-application.git)
+
+<img src="/assets/img-frontend-1.png" alt="frontend"/></img>
+<img src="/assets/img-frontend.png" alt="frontend"/></img>
+
+   Patrones de colaboración:
+   - Se observaron dos grandes impulsos de desarrollo: a principios de mayo y a principios de junio
+   - Contribuciones constantes durante todo el sprint
+
+3. Repositorio Backend:
+   (https://github.com/Aplicaciones-Web-WX55-Group-S-del-Softw/Backernd-farmLogitech-ap.git)
+
+<img src="/assets/img-backend.png" alt="backend"/></img>
+<img src="/assets/img-backend-commits.png" alt="backend"/></img>
+
+
+   Métricas notables:
+   - Un total de 50 commits entre todo el equipo
+   - Más de 21,000 líneas de código añadidas, indicando un desarrollo significativo de características
+
+Los gráficos de contribución muestran un esfuerzo bien distribuido entre el equipo, con un aumento de actividad hacia el final del sprint debido a las fases de integración y pruebas. El repositorio backend vio la mayor actividad, reflejando nuestro enfoque en construir una API robusta para soportar nuestra aplicación web.
+
+De cara al futuro, nuestro objetivo es mantener este nivel de colaboración mientras nos enfocamos en una distribución más uniforme de commits entre todos los miembros del equipo.
+
+
+### Video About-The-Product.
 A continuación, se muestra el video "Acerca del producto", el cual ilustra el propósito, beneficios y características principales de la aplicación.
 Enlace para visualizar el video About the product:  
-Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/ESrX78FN1VlBuIHbHMpxfYQBx41_HP0eji-7vSpLIWR55Q?e=hQMibA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace del video subido a Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/Efa-XjEM3VBFnGr0cKYXUa0BU_SU_BCWQKmIb4eJ_6E6Nw?e=Ttnseh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace del video subido a Youtube: https://youtu.be/9n1QPdK4iyg
 
+### Video About-The-Team.
 
-# VI. Recomendaciones.
+Link del about the team subido en youtube: https://youtu.be/iCf60oI6VU8
 
-1. El uso de Lean UX fue sumamente beneficioso gracias a su enfoque iterativo, permitiéndonos adaptarnos rápidamente a los cambios en la aplicación y a las necesidades del usuario, promoviendo la eficiencia en el desarrollo del producto. Los Conventional Commits establecieron un estándar para mensajes de confirmación claros y estructurados, facilitando la comprensión del historial de cambios. Los diagramas de arquitectura de dominio ayudaron a entender las relaciones entre el dominio y sus contextos delimitados.
-2. Como equipo, priorizamos una comprensión profunda del negocio y su contexto mediante la colaboración entre expertos técnicos y de dominio. El enfoque en la modularidad y la reutilización de código de Angular agilizó el proceso de desarrollo. El uso de Spring Boot nos asistió en la gestión de la lógica de negocios, la persistencia de datos y la integración con tecnologías externas.
-3. El As-Is mapping nos dio una comprensión detallada de los procesos actuales, identificando debilidades y oportunidades de mejora. En contraste, el To-Be mapping mostró la visión futura del proceso optimizado, destacando los cambios y mejoras planificadas, sirviendo como guía para la transformación e innovación. Nuestra aplicación puede ayudar a gobiernos regionales y locales a modernizar la industria, mejorando y controlando los procesos productivos.
+Link del about the team subido en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EbE86M0acb1FsQIlCqjeV-ABe9MPUlZYYTp4YUwlvTUwwg?e=aCCBfH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+# VI. Conclusiones y Recomendaciones
 
-# Conclusiones
+1. **Problem Statements:**
+   - El desarrollo de FarmLogiTech como proyecto de curso ha abordado teóricamente la falta de herramientas tecnológicas integradas en la industria agrícola y ganadera. Nuestro diseño propone una solución para el monitoreo en tiempo real del estado de los cultivos, el bienestar animal y las condiciones climáticas, lo cual podría facilitar la toma de decisiones informadas y la optimización de la producción.
+   - El proyecto ha explorado formas de mejorar la colaboración entre empresas y dueños de granjas, proponiendo mecanismos para facilitar asociaciones beneficiosas que podrían impulsar el crecimiento y la rentabilidad en la cadena de suministro agrícola.
+
+2. **Assumptions vs. Comportamiento real de los segmentos:**
+   - La asunción de que los dueños de granjas y trabajadores utilizarían la plataforma durante toda su jornada laboral se mantiene como una hipótesis que requeriría validación en un escenario real.
+   - La hipótesis sobre el interés de las empresas grandes en utilizar la plataforma para establecer una mejor comunicación con las granjas es prometedora, pero necesitaría ser probada en el mercado real.
+
+3. **Hypothesis Statements:**
+   - El diseño del sistema de seguimiento y análisis de datos agrícolas propuesto tiene el potencial de mejorar la toma de decisiones y la eficiencia en las operaciones agrícolas, pero esto necesitaría ser validado en la práctica.
+   - La inclusión de funcionalidades de pronóstico meteorológico en nuestro diseño parece valiosa en teoría, pero su efectividad real requeriría pruebas de campo.
+   - La interfaz intuitiva y fácil de usar que hemos diseñado apunta a una mayor satisfacción del usuario, pero esto necesitaría ser confirmado con pruebas de usabilidad reales.
+
+4. **Criterios de Éxito vs. Expectativas del Proyecto:**
+   - Los objetivos de crecimiento, adopción y eficiencia establecidos en nuestro proyecto son ambiciosos y están bien fundamentados en nuestra investigación, pero su viabilidad solo podría ser determinada mediante una implementación real.
+   - Las mejoras en eficiencia operativa, reducción de tiempo en gestión de tareas y disminución de incidencias críticas que hemos proyectado son metas realistas basadas en nuestro análisis, pero requerirían validación en un entorno operativo real.
+
+5. **Conclusiones técnicas:**
+   - El uso de Lean UX, fue de gran ayuda gracias a su enfoque iterativo, que  permite adaptarse rápidamente a los cambios del la aplicación y las necesidades del usuario, promoviendo así la eficiencia al desarrollar el producto.
+   - Conventional Commits establecio un estándar para mensajes de confirmación claros y estructurados, lo que facilitó la comprensión del historial de cambios.
+   - Los diagramas de arquitectura de dominio facilitaron la comprensión de las relaciones entre el dominio y sus contextos delimitados
+   - Como equipo buscamos priorizar la comprensión profunda del negocio y su contexto, mediante la colaboración entre expertos técnicos y de dominio.
+   - El enfoque en la modularidad y la reutilización de código de Angular agilizó el proceso de desarrollo.
+   - El uso de Springboot nos ayudo gracias a su capacidad para gestionar fácilmente la lógica de negocios, la persistencia de datos y la integración con tecnologías externas
+   - As-Is mapping nos proporcionó una comprensión detallada de los procesos existentes, identificando puntos débiles y oportunidades de mejora. Por otro lado, en el To-Be mapping, mostramos la visión futura del proceso optimizado, destacando los cambios planificados y las mejoras esperadas, sirviendo como guía para la transformación y la innovación.
+   - Nuestra aplicación puede ayudar a gobiernos regionales y locales a impulsar la modernización de la industria al  permitir mejorar y controlar los procesos productivos
+## Recomendaciones
+
+Basándonos en el desarrollo de FarmLogiTech como proyecto de curso y en nuestro análisis teórico, recomendamos los siguientes pasos para un potencial Roadmap de desarrollo futuro:
+
+1. **Validación de Conceptos:**
+   - Realizar pruebas de concepto con un prototipo funcional en un entorno controlado, como una granja piloto, para validar las funcionalidades clave.
+   - Conducir entrevistas y encuestas detalladas con potenciales usuarios (dueños de granjas, trabajadores y empresas) para refinar los requisitos y características del producto.
+
+2. **Desarrollo Iterativo:**
+   - Implementar un enfoque de desarrollo ágil, comenzando con un Producto Mínimo Viable (MVP) que incluya las funcionalidades más críticas identificadas en nuestro proyecto.
+   - Establecer ciclos de retroalimentación tempranos y frecuentes con usuarios beta para iterar y mejorar el producto.
+
+3. **Expansión Gradual de Funcionalidades:**
+   - Priorizar el desarrollo de módulos core como la gestión de tareas, monitoreo de cultivos y animales, y herramientas de comunicación.
+   - Planificar la integración futura de tecnologías avanzadas como IA y IoT, basándose en la retroalimentación de los usuarios iniciales.
+
+4. **Estrategia de Entrada al Mercado:**
+   - Desarrollar un plan de lanzamiento por fases, comenzando con un grupo selecto de granjas para un período de prueba extensivo.
+   - Diseñar una estrategia de marketing enfocada en demostrar el valor tangible de FarmLogiTech a través de casos de estudio y testimonios de usuarios piloto.
+
+5. **Consideraciones de Escalabilidad y Sostenibilidad:**
+   - Investigar y planificar la infraestructura tecnológica necesaria para soportar un crecimiento potencial del número de usuarios y volumen de datos.
+   - Incorporar desde el inicio prácticas de desarrollo sostenible y considerar el impacto ambiental de la implementación tecnológica en el sector agrícola.
+
+Estas recomendaciones buscan trazar un camino desde el proyecto académico actual hacia una potencial implementación real de FarmLogiTech, reconociendo la necesidad de validación y refinamiento continuos basados en retroalimentación del mundo real.
 
 - En conclusion, creemos que el proyecto FarmLogiTech tiene un gran potencial para ayudar a los dueños de granjas a gestionarlas de manera eficiente y sostenible. Con una landing page atractiva y funcional, hemos logrado comunicar eficazmente los beneficios de la aplicación y atraer visitantes. Durante el Sprint 1, el equipo ha colaborado eficientemente para cumplir los objetivos establecidos. A través de la implementación de Historias de Usuario y pruebas de aceptación, hemos desarrollado una landing page que cumple con los requisitos del cliente. En el próximo Sprint, nos enfocaremos en desarrollar la aplicación y agregar nuevas funcionalidades para mejorar la experiencia del usuario.
   <br/>
    <br/>
 - En resumen, creemos que FarmLogiTech tiene un enorme potencial para ayudar a los propietarios de granjas a administrar sus operaciones de manera eficiente y sostenible. Mediante la creación de una websitre, hemos logrado de manera efectiva aplicar los beneficios de la aplicación y atraer visitantes. Durante el segundo sprint, el equipo ha trabajado de manera colaborativa y eficiente para alcanzar los objetivos establecidos. Gracias a la implementación de historias de usuario y pruebas de aceptación, hemos desarrollado un sitio web que satisface los requisitos del cliente. En el próximo sprint, nos centraremos en el desarrollo de la aplicación y en la introducción de nuevas funcionalidades para mejorar la experiencia del usuario.
+
 ### Video de exposición
 
-[Video de exposición]
-(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/EQwpuVxTksdEmuQuirxpc1UBrhaowTHU2DRfQLNLwUfx6w?e=8hUrvL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-<br/>
-[Link del Landing page]  
-(https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/)
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210148_upc_edu_pe/ETAcrVGKkrlKknsZpmGL_l4BQKn1fGiAw0KJgLuZ3mRCoA?e=wPs2Um&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-[Link del Website]  
-(https://farmlogitech-aw-b6594.web.app/home)
+<br/>
+Landing Page
+
+https://aplicaciones-web-wx55-group-s-del-softw.github.io/landing-page/
+ 
+Website
+https://farmlogitech-aw-b6594.web.app/home
 
 # Bibliografía
 - Infobae. (2023, 22 de marzo). Crisis en el sector avícola: Precio del pollo se eleva, granjas quebradas y millones de aves sacrificadas por influenza. https://www.infobae.com/peru/2023/03/22/crisis-en-el-sector-avicola-precio-del-pollo-se-eleva-granjas-quebradas-y-millones-de-aves-sacrificadas-por-influenza/
