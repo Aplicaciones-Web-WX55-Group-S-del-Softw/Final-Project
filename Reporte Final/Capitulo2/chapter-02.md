@@ -123,7 +123,7 @@ Algunos competidores en el campo de la gestión y logística de granjas incluyen
 </table>
 
 
-##2.1.2. Estrategias y tácticas frente a competidores. 
+## 2.1.2. Estrategias y tácticas frente a competidores. 
 
 Con ayuda del analisis competitivo, pudimos determinar con precisión las fortalezas, las oportunidades, debilidades y amenazas tanto de nuestro proyecto, como de los competidores. Con esta información, podremos construir estrategias y planear tacticas con acnitipcación que nos permitan destacar en el mercado: 
 
@@ -254,6 +254,8 @@ Con ayuda del analisis competitivo, pudimos determinar con precisión las fortal
   
 ### 2.2.2. Registro de entrevistas
 
+  Inicio: 0:00 <br><br>
+  Fin: 36:51
 
  **Entrevista 01**  
 
@@ -494,3 +496,17 @@ Para elaborarlos, decidimos primero, hacer una lluvia de idaeas, llenamos las co
 - **Login**(Inicio de sesión): Acción de acceder a un sistema o plataforma digital mediante la introducción de credenciales de usuario.
 - **Fee**(Tarifa): Precio o costo establecido por un servicio o producto.
 - **Agricultural**: Relacionado con la agricultura y la cría de animales.
+- **Plataforma**: Representación de un sistema digital 
+- **Perfil**: Conjunto de datos del usuario 
+- **Dispositivo**: IoT = Red de objetos y dispositivos que son capaces de transmitir y recibir datos usando internet 
+- **Galpones**: Un galpón en una granja es una estructura cubierta utilizada para albergar animales, almacenar alimentos y equipos, o realizar actividades agrícolas. 
+- **Riego**: Sistema o proceso de suministro de agua a los cultivos para facilitar su crecimiento. 
+- **Cultivos**:Plantas cultivadas en la granja para la producción de alimentos, fibras u otros productos. 
+- **Ganado**: Animales criados en la granja para la producción de carne, leche, huevos u otros productos. 
+- **Trabajadores de granja**: Personas empleadas para realizar diversas tareas agrícolas, como cultivar, cuidar animales y mantener la infraestructura. 
+- **Dueño de granja**: Propietario de la granja que supervisa las operaciones, toma decisiones estratégicas y se encarga de la gestión general de la granja. 
+- **Chacra**: Pequeña finca o granja destinada al cultivo y cría de animales. 
+- **Incubadora**: Dispositivo utilizado para incubar huevos artificialmente. 
+- **Ventilación**: Sistemas para mantener el flujo de aire adecuado en los galpones. 
+- **Vacunación**: Proceso de inmunización de las aves contra enfermedades. 
+- **Reproductoras**: Aves destinadas a la producción de huevos fértiles para incubación.
